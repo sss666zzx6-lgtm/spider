@@ -1,3 +1,5 @@
+import os
+
 import requests
 import time
 import json
@@ -51,8 +53,8 @@ def crawl_product_pages(result):
         url = item["url"]
 
         try:
-            time.sleep(0.3)
-            response = requests.get(url, timeout=10)
+            time.sleep(2)
+            response = requests.get(url, timeout=15)
 
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, "lxml")
@@ -111,7 +113,7 @@ def crawl_product_pages(result):
                         full_url = urljoin(base_url, url_match.group(1))
                         # 老逻辑：按钮文本为familyName，level=2，带URL
                         child_item = {
-                            "familyName": btn_tag.get_text(strip=True),
+                            "familyName": h5_family_name,
                             "level": "2",
                             "url": full_url
                         }
@@ -176,28 +178,12 @@ if __name__ == "__main__":
         # print(json.dumps(result, indent=2, ensure_ascii=False))
 
         seed= extract_final_urls(result)
+        base_path = "./seed_json"
+        # if not os.path.exists(base_path):
+        #     os.makedirs(base_path)
+        file_path = os.path.join(base_path, "richtek.json")
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(seed, f, indent=2, ensure_ascii=False)
 
         # print(json.dumps(seed, indent=2, ensure_ascii=False))
         # print(len(seed))
-
-        for item in seed:
-            path = item["url"]
-            category = item["category"]
-            custom_map = {"category":category}
-
-            headers = {
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-                "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7",
-                "Cache-Control": "no-cache",
-                "Pragma": "no-cache",
-                "Priority": "u=0, i",
-                "Sec-Ch-Ua": "\"Google Chrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
-                "Sec-Ch-Ua-Mobile": "?0",
-                "Sec-Ch-Ua-Platform": "\"Windows\"",
-                "Sec-Fetch-Dest": "document",
-                "Sec-Fetch-Mode": "navigate",
-                "Sec-Fetch-Site": "same-origin",
-                "Sec-Fetch-User": "?1",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
-            }
-            create_api(plan_id="b2a78a3e68c6cc4999ace00db9229ccc",path=path,custom_map=custom_map,headers=headers)

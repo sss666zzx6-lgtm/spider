@@ -1,7 +1,7 @@
+import json
 import os
 import requests
 from curl_cffi import requests
-import json
 from bs4 import BeautifulSoup
 from requests.compat import urljoin
 

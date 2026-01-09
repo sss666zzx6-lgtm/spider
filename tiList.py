@@ -2,7 +2,7 @@ import requests
 
 # res = requests.get("https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12473&destinationType=GPT&mode=parametric&locale=en-US")
 # print(res.json())
-url = "https://www.ti.com/product/CSD17556Q5B"
+url = "https://www.ti.com/product/MSP430G2221"
 response = requests.get(url)
 
 print(response.text)
@@ -29,7 +29,7 @@ print(response)
 # false}
 
 import requests
-import json
+import ceshi
 
 # 请求URL
 # url = "https://www.monolithicpower.com/_fs-ch-1T1wmsGaOgGaSxcX/fst-post-back"

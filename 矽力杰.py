@@ -1,6 +1,5 @@
 import requests
 
-
 url = "https://www.silergy.com/list/216"
 
 response = requests.get(url)

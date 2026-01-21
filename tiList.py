@@ -2,7 +2,7 @@ import requests
 
 # res = requests.get("https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12473&destinationType=GPT&mode=parametric&locale=en-US")
 # print(res.json())
-url = "https://www.ti.com/product/MSP430G2221"
+url = "https://www.ti.com/product/TPS7A20"
 response = requests.get(url)
 
 print(response.text)

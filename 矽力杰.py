@@ -2,7 +2,7 @@ import requests
 
 # url = "https://www.silergy.com/list/216"
 
-url = "https://www.anpec.com.tw/en/product-list/Analog-Digital-Converter/"
+url = "https://www.silergy.com/productsview/SY8884ADFC"
 
 response = requests.get(url)
 

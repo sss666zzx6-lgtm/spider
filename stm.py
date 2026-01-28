@@ -15,8 +15,8 @@ headers = {
 # print(response)
 
 
-url = "https://www.st.com/en/automotive-microcontrollers/spc5-general-purpose-mcus/products.html"
-response = requests.get(url,headers=headers)
+url = "https://www.st.com/en/power-management/voltage-references/products.html"
+response = requests.get(url,headers=headers,timeout=10)
 
 print(response.text)
 print(response)

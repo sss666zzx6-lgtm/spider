@@ -1,0 +1,4187 @@
+[
+  {
+    "title": "Analog Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/analog-products",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Amplifiers",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Comparators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/comparators",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Amplifiers"
+    ]
+  },
+  {
+    "title": "Current Sense Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/current-sense-amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Amplifiers"
+    ]
+  },
+  {
+    "title": "Operational Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/operational-amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Amplifiers"
+    ]
+  },
+  {
+    "title": "Specialized Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/specialized-amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Amplifiers"
+    ]
+  },
+  {
+    "title": "Comparators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/comparators",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/comparators/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Current Sense Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/current-sense-amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/current-sense-amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Operational Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/operational-amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/operational-amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Specialized Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/amplifiers/specialized-amplifiers",
+    "link": "https://www.renesas.cn/en/products/analog-products/amplifiers/specialized-amplifiers/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Audio & Video",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Audio Codecs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/audio-codecs",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Audio ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/audio-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Audio Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/audio-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Display ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/display-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Security Surveillance ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/security-surveillance-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "USB Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/usb-audio",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Video Decoders/Encoders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/video-decodersencoders",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Video ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/video-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Video Switching",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/video-switching",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Wireless Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/wireless-audio",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Audio & Video"
+    ]
+  },
+  {
+    "title": "Audio Codecs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/audio-codecs",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/audio-codecs/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Audio ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/audio-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/audio-ics/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Audio Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/audio-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/audio-switches/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Display ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/display-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/display-ics/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Security Surveillance ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/security-surveillance-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/security-surveillance-ics/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "USB Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/usb-audio",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/usb-audio/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Video Decoders/Encoders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/video-decodersencoders",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/video-decodersencoders/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Video ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/video-ics",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/video-ics/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Video Switching",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/video-switching",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/video-switching/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Wireless Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/wireless-audio",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/wireless-audio/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Data Converters",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Analog-to-Digital Converters (ADC) - High-Speed",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/analog-digital-converters-adc-high-speed",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Data Converters"
+    ]
+  },
+  {
+    "title": "Analog-to-Digital Converters (ADC) - Precision",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/analog-digital-converters-adc-precision",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Data Converters"
+    ]
+  },
+  {
+    "title": "Digital Controlled Potentiometers (DCPs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/digital-controlled-potentiometers-dcp",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Data Converters"
+    ]
+  },
+  {
+    "title": "Digital-to-Analog Converters (DAC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/digital-analog-converters-dac",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Data Converters"
+    ]
+  },
+  {
+    "title": "Resolver-to-Digital Converters",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/resolver-digital-converters",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Data Converters"
+    ]
+  },
+  {
+    "title": "Voltage References",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/voltage-references",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Data Converters"
+    ]
+  },
+  {
+    "title": "Analog-to-Digital Converters (ADC) - High-Speed",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/analog-digital-converters-adc-high-speed",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/analog-digital-converters-adc-high-speed/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Analog-to-Digital Converters (ADC) - Precision",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/analog-digital-converters-adc-precision",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/analog-digital-converters-adc-precision/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Digital Controlled Potentiometers (DCPs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/digital-controlled-potentiometers-dcp",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/digital-controlled-potentiometers-dcp/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Digital-to-Analog Converters (DAC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/digital-analog-converters-dac",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/digital-analog-converters-dac/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Resolver-to-Digital Converters",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/data-converters/resolver-digital-converters",
+    "link": "https://www.renesas.cn/en/products/analog-products/data-converters/resolver-digital-converters/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Voltage References",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/voltage-references",
+    "link": "https://www.renesas.cn/en/products/power-management/voltage-references/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Power Line Communications (PLC)",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "PLC Modem ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-modem-ics",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Power Line Communications (PLC)"
+    ]
+  },
+  {
+    "title": "PLC Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Power Line Communications (PLC)"
+    ]
+  },
+  {
+    "title": "PLC Modem ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-modem-ics",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-modem-ics/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "PLC Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Switches & Multiplexers",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Analog Signal Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/analog-signal-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Switches & Multiplexers"
+    ]
+  },
+  {
+    "title": "Audio Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/audio-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Switches & Multiplexers"
+    ]
+  },
+  {
+    "title": "Crosspoint Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/crosspoint-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Switches & Multiplexers"
+    ]
+  },
+  {
+    "title": "USB Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/usb-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/product-selector",
+    "parent_title": [
+      "Analog Products",
+      "Switches & Multiplexers"
+    ]
+  },
+  {
+    "title": "Analog Signal Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/analog-signal-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/analog-signal-switches/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Audio Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/audio-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/audio-switches/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "Crosspoint Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/crosspoint-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/crosspoint-switches/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "USB Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/usb-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/usb-switches/product-selector",
+    "parent_title": [
+      "Analog Products"
+    ]
+  },
+  {
+    "title": "ASIC & IP",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/asic-ip",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Custom ASICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/custom-asics",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Intellectual Property (IP)",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Processor IP Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/processor-ip-solutions",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP",
+      "Intellectual Property (IP)"
+    ]
+  },
+  {
+    "title": "Interface IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/interface-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP",
+      "Intellectual Property (IP)"
+    ]
+  },
+  {
+    "title": "Memory IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/memory-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP",
+      "Intellectual Property (IP)"
+    ]
+  },
+  {
+    "title": "Digital IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/digital-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP",
+      "Intellectual Property (IP)"
+    ]
+  },
+  {
+    "title": "Analog IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/analog-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP",
+      "Intellectual Property (IP)"
+    ]
+  },
+  {
+    "title": "Other IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/other-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP",
+      "Intellectual Property (IP)"
+    ]
+  },
+  {
+    "title": "Processor IP Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/processor-ip-solutions",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Interface IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/interface-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Memory IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/memory-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Digital IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/digital-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Analog IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/analog-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Other IPs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/asic-ip/intellectual-property-ip/other-ips",
+    "link": "",
+    "parent_title": [
+      "ASIC & IP"
+    ]
+  },
+  {
+    "title": "Automotive Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/automotive-products",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Automotive Photocouplers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-photocouplers",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-photocouplers/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "RL78 Automotive MCUs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/rl78-automotive-mcus",
+    "link": "https://www.renesas.cn/en/products/automotive-products/rl78-automotive-mcus/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "RH850 Automotive MCUs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/microcontrollers-microprocessors/rh850-automotive-mcus",
+    "link": "https://www.renesas.cn/en/products/microcontrollers-microprocessors/rh850-automotive-mcus/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "R-Car Automotive System-on-Chips (SoCs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-system-chips-socs",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-system-chips-socs/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Timing",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/clocks-timing/application-specific-clocks/automotive-timing",
+    "link": "https://www.renesas.cn/en/products/clocks-timing/application-specific-clocks/automotive-timing/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Battery Management",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-battery-management",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-battery-management/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Power Devices",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Power MOSFETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/automotive-power-mosfets",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Devices"
+    ]
+  },
+  {
+    "title": "Automotive Thermal Shut Down Functioned MOSFETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/automotive-thermal-shut-down-functioned-mosfets",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Devices"
+    ]
+  },
+  {
+    "title": "Protected & Intelligent Power Devices",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/protected-and-intelligent-power-devices",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Devices"
+    ]
+  },
+  {
+    "title": "Automotive Power MOSFETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/automotive-power-mosfets",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/automotive-power-mosfets/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Thermal Shut Down Functioned MOSFETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/automotive-thermal-shut-down-functioned-mosfets",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-devices/automotive-thermal-shut-down-functioned-mosfets/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Protected & Intelligent Power Devices",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/protected-and-intelligent-power-devices",
+    "link": "https://www.renesas.cn/en/products/power-management/protected-and-intelligent-power-devices/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Power Management",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Linear Regulators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/automotive-linear-regulators",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Management"
+    ]
+  },
+  {
+    "title": "Automotive Switching Regulators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/automotive-switching-regulators",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Management"
+    ]
+  },
+  {
+    "title": "MCU PMIC",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/mcu-pmic",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Management"
+    ]
+  },
+  {
+    "title": "Motor & Solenoid Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/motor-and-solenoid-drivers",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Management"
+    ]
+  },
+  {
+    "title": "SoC PMIC",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/soc-pmic",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Power Management"
+    ]
+  },
+  {
+    "title": "Automotive Linear Regulators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/automotive-linear-regulators",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/automotive-linear-regulators/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Switching Regulators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/automotive-switching-regulators",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/automotive-switching-regulators/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "MCU PMIC",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/mcu-pmic",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/mcu-pmic/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Motor & Solenoid Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/motor-and-solenoid-drivers",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/motor-and-solenoid-drivers/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "SoC PMIC",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/soc-pmic",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-power-management/soc-pmic/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Sensors",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Ambient Light Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Impedance Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Position Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-position-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Sensor Signal Conditioners (SSC/AFE)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "LiDAR Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Ambient Light Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Impedance Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Position Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-position-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-position-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Sensor Signal Conditioners (SSC/AFE)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "LiDAR Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Video & Display",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Display Processors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-display-processors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Video & Display"
+    ]
+  },
+  {
+    "title": "Automotive LED Backlight Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-led-backlight-drivers",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Video & Display"
+    ]
+  },
+  {
+    "title": "Automotive Programmable Gamma",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-programmable-gamma",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Video & Display"
+    ]
+  },
+  {
+    "title": "Automotive Video Decoders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-video-decoders",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/product-selector",
+    "parent_title": [
+      "Automotive Products",
+      "Automotive Video & Display"
+    ]
+  },
+  {
+    "title": "Automotive Display Processors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-display-processors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-display-processors/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive LED Backlight Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-led-backlight-drivers",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-led-backlight-drivers/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Programmable Gamma",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-programmable-gamma",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-programmable-gamma/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Automotive Video Decoders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-video-decoders",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-video-display/automotive-video-decoders/product-selector",
+    "parent_title": [
+      "Automotive Products"
+    ]
+  },
+  {
+    "title": "Clocks & Timing",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/clocks-timing",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Application-Specific Clocks",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/clocks-timing/application-specific-clocks",
+    "link": "https://www.renesas.cn/en/products/clocks-timing/application-specific-clocks/product-selector",
+    "parent_title": [
+      "Clocks & Timing"
+    ]
+  },
+  {
+    "title": "Clock Distribution",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/clocks-timing/clock-distribution",
+    "link": "https://www.renesas.cn/en/products/clocks-timing/clock-distribution/product-selector",
+    "parent_title": [
+      "Clocks & Timing"
+    ]
+  },
+  {
+    "title": "Clock Generation",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/clocks-timing/clock-generation",
+    "link": "https://www.renesas.cn/en/products/clocks-timing/clock-generation/product-selector",
+    "parent_title": [
+      "Clocks & Timing"
+    ]
+  },
+  {
+    "title": "Crystal Oscillators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/clocks-timing/crystal-oscillators",
+    "link": "https://www.renesas.cn/en/products/clocks-timing/crystal-oscillators/product-selector",
+    "parent_title": [
+      "Clocks & Timing"
+    ]
+  },
+  {
+    "title": "Jitter Attenuators with Frequency Translation",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/clocks-timing/jitter-attenuators-frequency-translation",
+    "link": "https://www.renesas.cn/en/products/clocks-timing/jitter-attenuators-frequency-translation/product-selector",
+    "parent_title": [
+      "Clocks & Timing"
+    ]
+  },
+  {
+    "title": "Interface",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "2-Wire Bus Buffers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/2-wire-bus-buffers",
+    "link": "https://www.renesas.cn/en/products/interface/2-wire-bus-buffers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "AS-Interface Products",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/as-interface-products",
+    "link": "https://www.renesas.cn/en/products/interface/as-interface-products/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Data Communications ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/data-communications-ics",
+    "link": "https://www.renesas.cn/en/products/interface/data-communications-ics/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Haptic Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/haptic-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/haptic-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "IO-Link Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/io-link-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/io-link-line-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Logic Level Signal Translators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/logic-level-signal-translators",
+    "link": "https://www.renesas.cn/en/products/interface/logic-level-signal-translators/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Memory Interface Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "DDR4 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr4-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "DDR5 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr5-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "I3C Intelligent Switches & Expanders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/memory-multiplexers",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "SDR Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/sdr-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "DDR4 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr4-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr4-solutions/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "DDR5 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr5-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr5-solutions/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "I3C Intelligent Switches & Expanders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/memory-multiplexers",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/memory-multiplexers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "SDR Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/sdr-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/sdr-solutions/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Optical Interconnect",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Laser Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Optical Interconnect"
+    ]
+  },
+  {
+    "title": "Optical Modulator Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect/optical-modulator-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Optical Interconnect"
+    ]
+  },
+  {
+    "title": "Optical Transimpedance Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect/optical-transimpedance-amplifiers",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Optical Interconnect"
+    ]
+  },
+  {
+    "title": "Laser Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/laser-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Optical Modulator Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect/optical-modulator-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/optical-modulator-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Optical Transimpedance Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/optical-interconnect/optical-transimpedance-amplifiers",
+    "link": "https://www.renesas.cn/en/products/interface/optical-interconnect/optical-transimpedance-amplifiers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Automotive Photocouplers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-photocouplers",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Photocouplers/Optocouplers"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers IC Output",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-ic-output",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Photocouplers/Optocouplers"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers Motor Drive",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-motor-drive",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Photocouplers/Optocouplers"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers Transistor Output",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-transistor-output",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/product-selector",
+    "parent_title": [
+      "Interface",
+      "Photocouplers/Optocouplers"
+    ]
+  },
+  {
+    "title": "Automotive Photocouplers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-photocouplers",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-photocouplers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers IC Output",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-ic-output",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-ic-output/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers Motor Drive",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-motor-drive",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-motor-drive/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Photocouplers/Optocouplers Transistor Output",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-transistor-output",
+    "link": "https://www.renesas.cn/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-transistor-output/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Physical Layer Products",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/physical-layer-products",
+    "link": "https://www.renesas.cn/en/products/interface/physical-layer-products/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Power Line Communications (PLC)",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "PLC Modem ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-modem-ics",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/product-selector",
+    "parent_title": [
+      "Interface",
+      "Power Line Communications (PLC)"
+    ]
+  },
+  {
+    "title": "PLC Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/product-selector",
+    "parent_title": [
+      "Interface",
+      "Power Line Communications (PLC)"
+    ]
+  },
+  {
+    "title": "PLC Modem ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-modem-ics",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-modem-ics/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "PLC Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "RS-485, RS-422 & RS-232",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Multiprotocol RS-485/RS-422 and RS-232",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/multiprotocol-rs-485rs-422-and-rs-232",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/product-selector",
+    "parent_title": [
+      "Interface",
+      "RS-485, RS-422 & RS-232"
+    ]
+  },
+  {
+    "title": "RS-232 Serial Interface",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/rs-232-serial-interface",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/product-selector",
+    "parent_title": [
+      "Interface",
+      "RS-485, RS-422 & RS-232"
+    ]
+  },
+  {
+    "title": "RS-485/RS-422",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/product-selector",
+    "parent_title": [
+      "Interface",
+      "RS-485, RS-422 & RS-232"
+    ]
+  },
+  {
+    "title": "Multiprotocol RS-485/RS-422 and RS-232",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/multiprotocol-rs-485rs-422-and-rs-232",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/multiprotocol-rs-485rs-422-and-rs-232/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "RS-232 Serial Interface",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/rs-232-serial-interface",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/rs-232-serial-interface/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "RS-485/RS-422",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422",
+    "link": "https://www.renesas.cn/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Telecom Interface Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Digital Subscriber Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/digital-subscriber-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Telecom Interface Products"
+    ]
+  },
+  {
+    "title": "PCM CODECs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/pcm-codecs",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Telecom Interface Products"
+    ]
+  },
+  {
+    "title": "Subscriber Line Interfaces (SLICs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/subscriber-line-interfaces-slics",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Telecom Interface Products"
+    ]
+  },
+  {
+    "title": "T1/J1/E1 Interface Products",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/t1-j1-e1-interface-products",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Telecom Interface Products"
+    ]
+  },
+  {
+    "title": "Time Slot Interchange (TSI) Digital Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/time-slot-interchange-tsi-digital-switches",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Telecom Interface Products"
+    ]
+  },
+  {
+    "title": "PLC Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "Telecom Interface Products"
+    ]
+  },
+  {
+    "title": "Digital Subscriber Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/digital-subscriber-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/digital-subscriber-line-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "PCM CODECs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/pcm-codecs",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/pcm-codecs/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Subscriber Line Interfaces (SLICs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/subscriber-line-interfaces-slics",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/subscriber-line-interfaces-slics/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "T1/J1/E1 Interface Products",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/t1-j1-e1-interface-products",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/t1-j1-e1-interface-products/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Time Slot Interchange (TSI) Digital Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/telecom-interface-products/time-slot-interchange-tsi-digital-switches",
+    "link": "https://www.renesas.cn/en/products/interface/telecom-interface-products/time-slot-interchange-tsi-digital-switches/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "PLC Line Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers",
+    "link": "https://www.renesas.cn/en/products/interface/power-line-communications-plc/plc-line-drivers/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "USB Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/interface/usb-products",
+    "link": "https://www.renesas.cn/en/products/interface/usb-products/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "USB Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/usb-audio",
+    "link": "https://www.renesas.cn/en/products/interface/usb-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "USB Products"
+    ]
+  },
+  {
+    "title": "USB Hosts & Hubs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/usb-products/usb-hosts-hubs",
+    "link": "https://www.renesas.cn/en/products/interface/usb-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "USB Products"
+    ]
+  },
+  {
+    "title": "USB Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/usb-switches",
+    "link": "https://www.renesas.cn/en/products/interface/usb-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "USB Products"
+    ]
+  },
+  {
+    "title": "USB-C Power",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power",
+    "link": "https://www.renesas.cn/en/products/interface/usb-products/product-selector",
+    "parent_title": [
+      "Interface",
+      "USB Products"
+    ]
+  },
+  {
+    "title": "USB Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/usb-audio",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/usb-audio/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "USB Hosts & Hubs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/usb-products/usb-hosts-hubs",
+    "link": "https://www.renesas.cn/en/products/interface/usb-products/usb-hosts-hubs/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "USB Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/usb-switches",
+    "link": "https://www.renesas.cn/en/products/analog-products/switches-multiplexers/usb-switches/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "USB-C Power",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power",
+    "link": "https://www.renesas.cn/en/products/power-management/usb-c-power/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "VME",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/interface/vme",
+    "link": "https://www.renesas.cn/en/products/interface/vme/product-selector",
+    "parent_title": [
+      "Interface"
+    ]
+  },
+  {
+    "title": "Memory & Logic",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Bus Switch",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "3.3V CBTLV General-Purpose Bus Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/33v-cbtlv-general-purpose-bus-switch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Bus Switch"
+    ]
+  },
+  {
+    "title": "3.3V QuickSwitch High Bandwidth Bus Switch",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/33v-quickswitch-high-bandwidth-bus-switch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Bus Switch"
+    ]
+  },
+  {
+    "title": "5V QuickSwitch",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/5v-quickswitch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Bus Switch"
+    ]
+  },
+  {
+    "title": "Analog Multiplexers & Demultiplexers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/analog-multiplexers-and-demultiplexers",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Bus Switch"
+    ]
+  },
+  {
+    "title": "3.3V CBTLV General-Purpose Bus Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/33v-cbtlv-general-purpose-bus-switch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/33v-cbtlv-general-purpose-bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "3.3V QuickSwitch High Bandwidth Bus Switch",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/33v-quickswitch-high-bandwidth-bus-switch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/33v-quickswitch-high-bandwidth-bus-switch/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "5V QuickSwitch",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/5v-quickswitch",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/5v-quickswitch/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Analog Multiplexers & Demultiplexers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/bus-switch/analog-multiplexers-and-demultiplexers",
+    "link": "https://www.renesas.cn/en/products/memory-logic/bus-switch/analog-multiplexers-and-demultiplexers/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "EHB (Embedded Host Bridges)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/ehb-embedded-host-bridges",
+    "link": "https://www.renesas.cn/en/products/memory-logic/ehb-embedded-host-bridges/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "FIFO Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/fifo-products",
+    "link": "https://www.renesas.cn/en/products/memory-logic/fifo-products/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Asynchronous FIFOs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/fifo-products/asynchronous-fifos",
+    "link": "https://www.renesas.cn/en/products/memory-logic/fifo-products/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "FIFO Products"
+    ]
+  },
+  {
+    "title": "Synchronous FIFOs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/fifo-products/synchronous-fifos",
+    "link": "https://www.renesas.cn/en/products/memory-logic/fifo-products/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "FIFO Products"
+    ]
+  },
+  {
+    "title": "Asynchronous FIFOs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/fifo-products/asynchronous-fifos",
+    "link": "https://www.renesas.cn/en/products/memory-logic/fifo-products/asynchronous-fifos/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Synchronous FIFOs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/fifo-products/synchronous-fifos",
+    "link": "https://www.renesas.cn/en/products/memory-logic/fifo-products/synchronous-fifos/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Memory Interface Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "DDR4 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr4-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "DDR5 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr5-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "I3C Intelligent Switches & Expanders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/memory-multiplexers",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "SDR Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/sdr-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Memory Interface Products"
+    ]
+  },
+  {
+    "title": "DDR4 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr4-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr4-solutions/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "DDR5 Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr5-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/ddr5-solutions/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "I3C Intelligent Switches & Expanders",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/memory-multiplexers",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/memory-multiplexers/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "SDR Solutions",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/sdr-solutions",
+    "link": "https://www.renesas.cn/en/products/memory-logic/memory-interface-products/sdr-solutions/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Multi-Port Memory",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Asynchronous Dual-Port RAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/asynchronous-dual-port-rams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Multi-Port Memory"
+    ]
+  },
+  {
+    "title": "Bank-Switchable Dual-Port RAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/bank-switchable-dual-port-rams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Multi-Port Memory"
+    ]
+  },
+  {
+    "title": "Synchronous Dual-Port RAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/synchronous-dual-port-rams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Multi-Port Memory"
+    ]
+  },
+  {
+    "title": "Asynchronous Dual-Port RAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/asynchronous-dual-port-rams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/asynchronous-dual-port-rams/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Bank-Switchable Dual-Port RAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/bank-switchable-dual-port-rams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/bank-switchable-dual-port-rams/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Synchronous Dual-Port RAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/synchronous-dual-port-rams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/multi-port-memory/synchronous-dual-port-rams/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Non-Volatile Memory",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory",
+    "link": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "EEPROM & PROM",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/eeprom-prom",
+    "link": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Non-Volatile Memory"
+    ]
+  },
+  {
+    "title": "SPI NOR Flash",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/spi-nor-flash",
+    "link": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Non-Volatile Memory"
+    ]
+  },
+  {
+    "title": "EEPROM & PROM",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/eeprom-prom",
+    "link": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/eeprom-prom/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "SPI NOR Flash",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/spi-nor-flash",
+    "link": "https://www.renesas.cn/en/products/memory-logic/non-volatile-memory/spi-nor-flash/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "SRAMs",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Asynchronous SRAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/asynchronous-srams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "SRAMs"
+    ]
+  },
+  {
+    "title": "Low Power SRAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/low-power-srams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "SRAMs"
+    ]
+  },
+  {
+    "title": "Synchronous Burst",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/synchronous-burst",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "SRAMs"
+    ]
+  },
+  {
+    "title": "Zero Bus Turnaround (ZBT)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/zero-bus-turnaround-zbt",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "SRAMs"
+    ]
+  },
+  {
+    "title": "Asynchronous SRAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/asynchronous-srams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/asynchronous-srams/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Low Power SRAMs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/low-power-srams",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/low-power-srams/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Synchronous Burst",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/synchronous-burst",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/synchronous-burst/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Zero Bus Turnaround (ZBT)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/srams/zero-bus-turnaround-zbt",
+    "link": "https://www.renesas.cn/en/products/memory-logic/srams/zero-bus-turnaround-zbt/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Standard Logic",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Advanced Low-Voltage CMOS (ALVC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic/advanced-low-voltage-cmos-alvc",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Standard Logic"
+    ]
+  },
+  {
+    "title": "Fast CMOS TTL-Compatible (FCT)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic/fast-cmos-ttl-compatible-fct",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Standard Logic"
+    ]
+  },
+  {
+    "title": "Low-Voltage CMOS (LVC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic/low-voltage-cmos-lvc",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/product-selector",
+    "parent_title": [
+      "Memory & Logic",
+      "Standard Logic"
+    ]
+  },
+  {
+    "title": "Advanced Low-Voltage CMOS (ALVC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic/advanced-low-voltage-cmos-alvc",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/advanced-low-voltage-cmos-alvc/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Fast CMOS TTL-Compatible (FCT)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic/fast-cmos-ttl-compatible-fct",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/fast-cmos-ttl-compatible-fct/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Low-Voltage CMOS (LVC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/memory-logic/standard-logic/low-voltage-cmos-lvc",
+    "link": "https://www.renesas.cn/en/products/memory-logic/standard-logic/low-voltage-cmos-lvc/product-selector",
+    "parent_title": [
+      "Memory & Logic"
+    ]
+  },
+  {
+    "title": "Power Discretes",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-discretes",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "GaN Power Discretes",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-discretes/gan-power-discretes",
+    "link": "https://www.renesas.cn/en/products/power-discretes/gan-power-discretes/product-selector",
+    "parent_title": [
+      "Power Discretes"
+    ]
+  },
+  {
+    "title": "Power MOSFETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-discretes/power-mosfets",
+    "link": "https://www.renesas.cn/en/products/power-discretes/power-mosfets/product-selector",
+    "parent_title": [
+      "Power Discretes"
+    ]
+  },
+  {
+    "title": "Power Management",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "AC/DC & Isolated DC/DC Converters",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Flyback & Forward Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/flyback-forward-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "AC/DC & Isolated DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Non-Isolated AC/DC Buck Converters",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/non-isolated-acdc-buck-converters",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "AC/DC & Isolated DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Power Factor Correction (PFC) Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/power-factor-correction-pfc-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "AC/DC & Isolated DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Synchronous Rectifier Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/synchronous-rectifier-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "AC/DC & Isolated DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Flyback & Forward Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/flyback-forward-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/flyback-forward-controllers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Non-Isolated AC/DC Buck Converters",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/non-isolated-acdc-buck-converters",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/non-isolated-acdc-buck-converters/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Power Factor Correction (PFC) Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/power-factor-correction-pfc-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/power-factor-correction-pfc-controllers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Synchronous Rectifier Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/synchronous-rectifier-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/acdc-isolated-dcdc-converters/synchronous-rectifier-controllers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Battery Management ICs",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Battery Charger ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management/battery-charger-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Battery Management ICs"
+    ]
+  },
+  {
+    "title": "Battery Fuel Gauges",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management/battery-fuel-gauges",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Battery Management ICs"
+    ]
+  },
+  {
+    "title": "Battery Protectors, Monitors & Balancers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management/battery-protectors-monitors-balancers",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Battery Management ICs"
+    ]
+  },
+  {
+    "title": "Battery Charger ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management/battery-charger-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/battery-charger-ics/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Battery Fuel Gauges",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management/battery-fuel-gauges",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/battery-fuel-gauges/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Battery Protectors, Monitors & Balancers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/battery-management/battery-protectors-monitors-balancers",
+    "link": "https://www.renesas.cn/en/products/power-management/battery-management/battery-protectors-monitors-balancers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "DC/DC Converters",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Charge Pumps (Inductorless)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/charge-pumps-inductorless",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Step-down (Buck)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-down-buck",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Step-up (Boost)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-boost",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Step-up/Step-down (Buck-Boost)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-upstep-down-buck-boost",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/product-selector",
+    "parent_title": [
+      "Power Management",
+      "DC/DC Converters"
+    ]
+  },
+  {
+    "title": "Charge Pumps (Inductorless)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/charge-pumps-inductorless",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/charge-pumps-inductorless/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Step-down (Buck)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-down-buck",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-down-buck/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Step-up (Boost)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-boost",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-boost/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Step-up/Step-down (Buck-Boost)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-upstep-down-buck-boost",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-converters/step-upstep-down-buck-boost/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "DC/DC Power Modules",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/dcdc-power-modules",
+    "link": "https://www.renesas.cn/en/products/power-management/dcdc-power-modules/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "FET Drivers",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "3-Phase MOSFET Drivers, 3-Phase FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/3-phase-mosfet-drivers-3-phase-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "Full-Bridge FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/full-bridge-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "GaN FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/gan-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "Half-Bridge FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/half-bridge-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "High-Side FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/high-side-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "Low-Side FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/low-side-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "Smart IGBT Driver / Controller ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/smart-igbt-driver-controller-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "Synchronous Buck FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/synchronous-buck-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "FET Drivers"
+    ]
+  },
+  {
+    "title": "3-Phase MOSFET Drivers, 3-Phase FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/3-phase-mosfet-drivers-3-phase-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/3-phase-mosfet-drivers-3-phase-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Full-Bridge FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/full-bridge-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/full-bridge-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "GaN FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/gan-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/gan-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Half-Bridge FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/half-bridge-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/half-bridge-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "High-Side FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/high-side-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/high-side-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Low-Side FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/low-side-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/low-side-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Smart IGBT Driver / Controller ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/smart-igbt-driver-controller-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/smart-igbt-driver-controller-ics/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Synchronous Buck FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/fet-drivers/synchronous-buck-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/fet-drivers/synchronous-buck-fet-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "LED Drivers",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/led-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/led-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Backlight LED Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/display-ics/backlight-led-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/led-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "LED Drivers"
+    ]
+  },
+  {
+    "title": "RGB LED Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/led-drivers/rgb-led-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/led-drivers/product-selector",
+    "parent_title": [
+      "Power Management",
+      "LED Drivers"
+    ]
+  },
+  {
+    "title": "Backlight LED Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/display-ics/backlight-led-drivers",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/display-ics/backlight-led-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "RGB LED Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/led-drivers/rgb-led-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/led-drivers/rgb-led-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Linear Regulators (LDO)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/linear-regulators-ldo",
+    "link": "https://www.renesas.cn/en/products/power-management/linear-regulators-ldo/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Motor Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/motor-drivers",
+    "link": "https://www.renesas.cn/en/products/power-management/motor-drivers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Multi-Channel Power Management ICs (PMICs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/multi-channel-power-management-ics-pmics",
+    "link": "https://www.renesas.cn/en/products/power-management/multi-channel-power-management-ics-pmics/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Multiphase Power",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/multiphase-power",
+    "link": "https://www.renesas.cn/en/products/power-management/multiphase-power/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Multiphase DC/DC Switching Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/multiphase-power/multiphase-dcdc-switching-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/multiphase-power/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Multiphase Power"
+    ]
+  },
+  {
+    "title": "Smart Power Stages",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/multiphase-power/smart-power-stages",
+    "link": "https://www.renesas.cn/en/products/power-management/multiphase-power/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Multiphase Power"
+    ]
+  },
+  {
+    "title": "Multiphase DC/DC Switching Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/multiphase-power/multiphase-dcdc-switching-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/multiphase-power/multiphase-dcdc-switching-controllers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Smart Power Stages",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/multiphase-power/smart-power-stages",
+    "link": "https://www.renesas.cn/en/products/power-management/multiphase-power/smart-power-stages/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Power Supply Support",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Hot Swap & Ideal Diode/ORing FET Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/hot-swap-ideal-diode-oring-fet-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Power Supply Support"
+    ]
+  },
+  {
+    "title": "Load Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/load-switches",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Power Supply Support"
+    ]
+  },
+  {
+    "title": "Power Supply Sequencers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/power-supply-sequencers",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Power Supply Support"
+    ]
+  },
+  {
+    "title": "Voltage Supervisor & Reset ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/voltage-supervisor-reset-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Power Supply Support"
+    ]
+  },
+  {
+    "title": "Hot Swap & Ideal Diode/ORing FET Controllers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/hot-swap-ideal-diode-oring-fet-controllers",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/hot-swap-ideal-diode-oring-fet-controllers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Load Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/load-switches",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/load-switches/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Power Supply Sequencers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/power-supply-sequencers",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/power-supply-sequencers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Voltage Supervisor & Reset ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/power-supply-support/voltage-supervisor-reset-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/power-supply-support/voltage-supervisor-reset-ics/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Protected & Intelligent Power Devices",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/protected-and-intelligent-power-devices",
+    "link": "https://www.renesas.cn/en/products/power-management/protected-and-intelligent-power-devices/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Solid State Lighting",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/solid-state-lighting",
+    "link": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Solid State Lighting Driver ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/solid-state-lighting-driver-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Solid State Lighting"
+    ]
+  },
+  {
+    "title": "Solid State Lighting Interface ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/solid-state-lighting-interface-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/product-selector",
+    "parent_title": [
+      "Power Management",
+      "Solid State Lighting"
+    ]
+  },
+  {
+    "title": "Solid State Lighting Driver ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/solid-state-lighting-driver-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/solid-state-lighting-driver-ics/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Solid State Lighting Interface ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/solid-state-lighting-interface-ics",
+    "link": "https://www.renesas.cn/en/products/power-management/solid-state-lighting/solid-state-lighting-interface-ics/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "USB-C Power",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power",
+    "link": "https://www.renesas.cn/en/products/power-management/usb-c-power/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "USB-C & Power Delivery",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power/usb-c-power-delivery",
+    "link": "https://www.renesas.cn/en/products/power-management/usb-c-power/product-selector",
+    "parent_title": [
+      "Power Management",
+      "USB-C Power"
+    ]
+  },
+  {
+    "title": "USB-C Rapid Chargers​",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power/usb-c-rapid-chargers",
+    "link": "https://www.renesas.cn/en/products/power-management/usb-c-power/product-selector",
+    "parent_title": [
+      "Power Management",
+      "USB-C Power"
+    ]
+  },
+  {
+    "title": "USB-C & Power Delivery",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power/usb-c-power-delivery",
+    "link": "https://www.renesas.cn/en/products/power-management/usb-c-power/usb-c-power-type-c-power-delivery/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "USB-C Rapid Chargers​",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/usb-c-power/usb-c-rapid-chargers",
+    "link": "https://www.renesas.cn/en/products/power-management/usb-c-power/usb-c-rapid-chargers/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Voltage References",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/power-management/voltage-references",
+    "link": "https://www.renesas.cn/en/products/power-management/voltage-references/product-selector",
+    "parent_title": [
+      "Power Management"
+    ]
+  },
+  {
+    "title": "Programmable Logic",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/programmable-logic",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "ForgeFPGA Low-density FPGAs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/forgefpga-low-density-fpgas",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/forgefpga-low-density-fpgas/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "GreenPAK Programmable Mixed-Signal Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "GreenPAK with Extended Temperature Ranges",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-extended-temperature-ranges",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "HVPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/hvpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "AnalogPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/analogpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "Automotive GreenPAK Programmable Mixed-Signal ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/automotive-greenpak-programmable-mixed-signal-ics",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "Dual Supply GreenPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/dual-supply-greenpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "GreenPAK with Asynchronous State Machine",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-asynchronous-state-machine",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "GreenPAK with In-System Programmability",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-system-programmability",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "Power GreenPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/power-greenpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "Other GreenPAKs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/other-greenpaks",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/product-selector",
+    "parent_title": [
+      "Programmable Logic",
+      "GreenPAK Programmable Mixed-Signal Products"
+    ]
+  },
+  {
+    "title": "GreenPAK with Extended Temperature Ranges",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-extended-temperature-ranges",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-extended-temperature-ranges/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "HVPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/hvpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/hvpak/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "AnalogPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/analogpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/analogpak/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "Automotive GreenPAK Programmable Mixed-Signal ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/automotive-greenpak-programmable-mixed-signal-ics",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/automotive-greenpak-programmable-mixed-signal-ics/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "Dual Supply GreenPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/dual-supply-greenpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/dual-supply-greenpak/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "GreenPAK with Asynchronous State Machine",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-asynchronous-state-machine",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-asynchronous-state-machine/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "GreenPAK with In-System Programmability",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-system-programmability",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-system-programmability/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "Power GreenPAK",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/power-greenpak",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/power-greenpak/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "Other GreenPAKs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/other-greenpaks",
+    "link": "https://www.renesas.cn/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/other-greenpaks/product-selector",
+    "parent_title": [
+      "Programmable Logic"
+    ]
+  },
+  {
+    "title": "Product SelectorSensor Products",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/sensor-products/product-selector",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Inductive Position Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/inductive-position-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/inductive-position-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Optical Sensors",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Ambient Light Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Optical Sensors"
+    ]
+  },
+  {
+    "title": "Laser Diode Drivers (LDD)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/laser-diode-drivers-ldd",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Optical Sensors"
+    ]
+  },
+  {
+    "title": "LiDAR Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Optical Sensors"
+    ]
+  },
+  {
+    "title": "Ambient Light Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Laser Diode Drivers (LDD)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/laser-diode-drivers-ldd",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/laser-diode-drivers-ldd/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "LiDAR Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Sensor Signal Conditioners (SSC/AFE)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/sensor-signal-conditioners-ssc-afe",
+    "link": "https://www.renesas.cn/en/products/sensor-products/sensor-signal-conditioners-ssc-afe/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Automotive Sensors",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Automotive Ambient Light Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Impedance Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Position Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-position-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Sensor Signal Conditioners (SSC/AFE)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "LiDAR Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products",
+      "Automotive Sensors"
+    ]
+  },
+  {
+    "title": "Automotive Ambient Light Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Automotive Impedance Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Automotive Position Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-position-sensors",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-position-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Automotive Sensor Signal Conditioners (SSC/AFE)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe",
+    "link": "https://www.renesas.cn/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "LiDAR Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors",
+    "link": "https://www.renesas.cn/en/products/sensor-products/optical-sensors/lidar-sensors/product-selector",
+    "parent_title": [
+      "Product SelectorSensor Products"
+    ]
+  },
+  {
+    "title": "Space & Harsh Environment",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Hi-Rel Analog",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Analog Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-analog-switches",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Buffers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-buffers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Comparators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-comparators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Current Sense Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sense-amps",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Current Sources",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sources",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Multiplexers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-multiplexers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Operational Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-op-amps",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Temperature Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-temperature-sensors",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Transistor Arrays",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-transistor-arrays",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Voltage References",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-voltage-references",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Analog"
+    ]
+  },
+  {
+    "title": "Hi-Rel Analog Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-analog-switches",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-analog-switches/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Buffers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-buffers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-buffers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Comparators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-comparators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-comparators/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Current Sense Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sense-amps",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sense-amps/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Current Sources",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sources",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sources/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Multiplexers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-multiplexers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-multiplexers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Operational Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-op-amps",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-op-amps/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Temperature Sensors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-temperature-sensors",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-temperature-sensors/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Transistor Arrays",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-transistor-arrays",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-transistor-arrays/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Voltage References",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-voltage-references",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-analog/hi-rel-voltage-references/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Data Converters",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Analog-to-Digital Converters (ADC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-analog-digital-converters-adc",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Data Converters"
+    ]
+  },
+  {
+    "title": "Hi-Rel Digital-to-Analog Converters (DAC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-digital-analog-converters-dac",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Data Converters"
+    ]
+  },
+  {
+    "title": "Hi-Rel Sample & Hold Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-sample-hold-amplifiers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Data Converters"
+    ]
+  },
+  {
+    "title": "Hi-Rel Analog-to-Digital Converters (ADC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-analog-digital-converters-adc",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-analog-digital-converters-adc/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Digital-to-Analog Converters (DAC)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-digital-analog-converters-dac",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-digital-analog-converters-dac/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Sample & Hold Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-sample-hold-amplifiers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-sample-hold-amplifiers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Digital",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Digital Isolators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/hi-rel-digital-isolators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Digital"
+    ]
+  },
+  {
+    "title": "Hi-Rel Memory",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/hi-rel-memory",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Digital"
+    ]
+  },
+  {
+    "title": "Hi-Rel Digital Isolators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/hi-rel-digital-isolators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/hi-rel-digital-isolators/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Memory",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/hi-rel-memory",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-digital/hi-rel-memory/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Interface",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel CAN Transceivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-can-transceivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Interface"
+    ]
+  },
+  {
+    "title": "Hi-Rel Data Communications ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-data-communications-ics",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Interface"
+    ]
+  },
+  {
+    "title": "Hi-Rel RS-485/RS-422 Serial Interface",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-serial-interface",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Interface"
+    ]
+  },
+  {
+    "title": "Hi-Rel CAN Transceivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-can-transceivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-can-transceivers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Data Communications ICs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-data-communications-ics",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-data-communications-ics/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel RS-485/RS-422 Serial Interface",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-serial-interface",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-interface/hi-rel-serial-interface/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Power Discretes",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel GaN FET Power Stages",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fet-power-stages",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Discretes"
+    ]
+  },
+  {
+    "title": "Hi-Rel GaN FETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fets",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Discretes"
+    ]
+  },
+  {
+    "title": "Hi-Rel GaN FET Power Stages",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fet-power-stages",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fet-power-stages/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel GaN FETs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fets",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fets/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Power Management",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel GaN FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-gan-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Linear Regulators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-linear-regulators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel MOSFET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-mosfet-drivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Power Supply Sequencers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-supply-sequencers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Power Timing",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-timing",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Protection Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-protection-switches",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Source Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-source-drivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Supervisors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-supervisors",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Switching Controllers (External FETs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-controllers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel Switching Regulators (Integrated FETs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-regulators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel Power Management"
+    ]
+  },
+  {
+    "title": "Hi-Rel GaN FET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-gan-fet-drivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-gan-fet-drivers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Linear Regulators",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-linear-regulators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-linear-regulators/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel MOSFET Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-mosfet-drivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-mosfet-drivers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Power Supply Sequencers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-supply-sequencers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-supply-sequencers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Power Timing",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-timing",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-timing/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Protection Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-protection-switches",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-protection-switches/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Source Drivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-source-drivers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-source-drivers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Supervisors",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-supervisors",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-supervisors/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Switching Controllers (External FETs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-controllers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-controllers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel Switching Regulators (Integrated FETs)",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-regulators",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-regulators/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel RF",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel RF Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-amplifiers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel RF"
+    ]
+  },
+  {
+    "title": "Hi-Rel RF Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-switches",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment",
+      "Hi-Rel RF"
+    ]
+  },
+  {
+    "title": "Hi-Rel RF Amplifiers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-amplifiers",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-amplifiers/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Hi-Rel RF Switches",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-switches",
+    "link": "https://www.renesas.cn/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-switches/product-selector",
+    "parent_title": [
+      "Space & Harsh Environment"
+    ]
+  },
+  {
+    "title": "Wireless Connectivity",
+    "has_child": 1,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity",
+    "link": "",
+    "parent_title": []
+  },
+  {
+    "title": "Bluetooth Low Energy",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity/bluetooth-low-energy",
+    "link": "https://www.renesas.cn/en/products/wireless-connectivity/bluetooth-low-energy/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  },
+  {
+    "title": "DECT",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity/dect",
+    "link": "https://www.renesas.cn/en/products/wireless-connectivity/dect/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  },
+  {
+    "title": "NFC",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity/nfc",
+    "link": "https://www.renesas.cn/en/products/wireless-connectivity/nfc/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  },
+  {
+    "title": "Sub-GHz/Wi-SUN Transceivers",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity/sub-ghz-wi-sun-transceivers",
+    "link": "https://www.renesas.cn/en/products/wireless-connectivity/sub-ghz-wi-sun-transceivers/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  },
+  {
+    "title": "Wi-Fi MCUs",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity/wi-fi-mcus",
+    "link": "https://www.renesas.cn/en/products/wireless-connectivity/wi-fi-mcus/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  },
+  {
+    "title": "Wi-Fi Networking",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/wireless-connectivity/wi-fi-networking",
+    "link": "https://www.renesas.cn/en/products/wireless-connectivity/wi-fi-networking/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  },
+  {
+    "title": "Wireless Audio",
+    "has_child": 0,
+    "url": "https://www.renesas.cn/en/products/analog-products/audio-video/wireless-audio",
+    "link": "https://www.renesas.cn/en/products/analog-products/audio-video/wireless-audio/product-selector",
+    "parent_title": [
+      "Wireless Connectivity"
+    ]
+  }
+]

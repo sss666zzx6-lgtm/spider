@@ -1,0 +1,2030 @@
+[
+  {
+    "url": "https://www.infineon.com/products/battery-management-ics",
+    "category": "Battery management ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/clocks-timing-solutions/buffers",
+    "category": "Clocks and timing solutions^CYPRESS™ Buffers"
+  },
+  {
+    "url": "https://www.infineon.com/products/clocks-timing-solutions/clock-generators",
+    "category": "Clocks and timing solutions^CYPRESS™ Clock generators"
+  },
+  {
+    "url": "https://www.infineon.com/products/clocks-timing-solutions/oscillators",
+    "category": "Clocks and timing solutions^CYPRESS™ Oscillators"
+  },
+  {
+    "url": "https://www.infineon.com/products/esd-surge-protection/surge-protection-devices",
+    "category": "ESD and surge protection devices^Diodes for surge protection"
+  },
+  {
+    "url": "https://www.infineon.com/products/esd-surge-protection/low-capacitance-esd-devices",
+    "category": "ESD and surge protection devices^Low-capacitance diodes for ESD protection"
+  },
+  {
+    "url": "https://www.infineon.com/products/esd-surge-protection/multi-purpose-esd-devices",
+    "category": "ESD and surge protection devices^Multi-purpose diodes for ESD protection"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88ea1512",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88EA1512"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88ea1517",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88EA1517"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88q1010",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88Q1010"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88q111x",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88Q111x"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88q120xm",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88Q120xM"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88q211x",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88Q211x"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-phy/88q222xm",
+    "category": "Automotive Ethernet^Automotive Ethernet PHY for in-vehicle networking^88Q222xM"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88ea6321",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88EA6321"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88q5030",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88Q5030"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88q5050",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88Q5050"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88q5072",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88Q5072"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88q5152",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88Q5152"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88q5192",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88Q5192"
+  },
+  {
+    "url": "https://www.infineon.com/products/ethernet/automotive-switch/88q6113",
+    "category": "Automotive Ethernet^Automotive Ethernet Switches for in-vehicle networking^88Q6113"
+  },
+  {
+    "url": "https://www.infineon.com/products/evaluation-boards",
+    "category": "Evaluation Boards"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/defense/commercial-memories",
+    "category": "High reliability^Defense^Commercial off-the-shelf (COTs) memory portfolio"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/defense/hirel-memories",
+    "category": "High reliability^Defense^Defense memory portfolio"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/defense/power/hirel-power-ics",
+    "category": "High reliability^Defense^High-reliability power conversion and management^High-reliability power ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/custom-services/die-wafer-sales",
+    "category": "High reliability^High-reliability custom services^High-reliability die and wafer sales"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/new-space/memories",
+    "category": "High reliability^NewSpace^NewSpace memory portfolio"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/new-space/power",
+    "category": "High reliability^NewSpace^Radiation tolerant power^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/new-space/power/rad-tolerant-mosfets",
+    "category": "High reliability^NewSpace^Radiation tolerant power^Rad tolerant MOSFETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/rad-hard-rf",
+    "category": "High reliability^Space^Rad hard microwave and RF^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/rad-hard-rf/hirel-silicon-bipolar-transistors",
+    "category": "High reliability^Space^Rad hard microwave and RF^Rad hard RF bipolar transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/rad-hard-rf/hirel-silicon-diodes",
+    "category": "High reliability^Space^Rad hard microwave and RF^Rad hard silicon diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-dc-dc-converters",
+    "category": "High reliability^Space^Radiation hardened power^Rad hard DC-DC converters"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-gan",
+    "category": "High reliability^Space^Radiation hardened power^Rad hard GaN"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-power-ics",
+    "category": "High reliability^Space^Radiation hardened power^Rad hard power ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-solid-state-relays",
+    "category": "High reliability^Space^Radiation hardened power^Rad hard solid-state relays"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-synchronous-rectifiers",
+    "category": "High reliability^Space^Radiation hardened power^Rad hard synchronous rectifiers"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/power/schottkys-rectifiers",
+    "category": "High reliability^Space^Radiation hardened power^Schottkys and rectifiers"
+  },
+  {
+    "url": "https://www.infineon.com/products/high-reliability/space/rad-hard-memories",
+    "category": "High reliability^Space^Space memory portfolio"
+  },
+  {
+    "url": "https://www.infineon.com/products/isolation/digital-isolators",
+    "category": "Isolation^Digital isolators"
+  },
+  {
+    "url": "https://www.infineon.com/products/isolation/isolated-industrial-interface/isoface-digital-input-ics",
+    "category": "Isolation^Isolated industrial interface^ISOFACE™ digital input ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/isolation/isolated-industrial-interface/isoface-output-switches",
+    "category": "Isolation^Isolated industrial interface^ISOFACE™ output switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/flash-plus-ram-mcp-solutions",
+    "category": "Memories^Flash+RAM MCP solutions"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/f-ram-ferroelectric-ram/excelon-f-ram",
+    "category": "Memories^F-RAM (Ferroelectric RAM)^EXCELON™ F-RAM"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/parallel",
+    "category": "Memories^NOR flash^Parallel NOR flash^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/parallel/burst-mode",
+    "category": "Memories^NOR flash^Parallel NOR flash^Burst mode"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/parallel/high-performance-page-mode",
+    "category": "Memories^NOR flash^Parallel NOR flash^High-performance page mode"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/parallel/simultaneous-read-write",
+    "category": "Memories^NOR flash^Parallel NOR flash^Simultaneous Read/Write"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/parallel/standard-interface",
+    "category": "Memories^NOR flash^Parallel NOR flash^Standard interface parallel flash"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family",
+    "category": "Memories^NOR flash^SEMPER™ NOR flash family^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family/semper-nano-nor-flash",
+    "category": "Memories^NOR flash^SEMPER™ NOR flash family^SEMPER™ Nano NOR flash"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family/semper-nor-flash",
+    "category": "Memories^NOR flash^SEMPER™ NOR flash family^SEMPER™ NOR flash"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash",
+    "category": "Memories^NOR flash^Serial NOR flash^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash/dual-qspi-flash",
+    "category": "Memories^NOR flash^Serial NOR flash^Dual QSPI flash"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash/hyperflash",
+    "category": "Memories^NOR flash^Serial NOR flash^HYPERFLASH™"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash/quad-spi-flash",
+    "category": "Memories^NOR flash^Serial NOR flash^Quad SPI flash"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/nvsram-non-volatile-sram",
+    "category": "Memories^nvSRAM (non-volatile SRAM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/psram-pseudostatic-dram",
+    "category": "Memories^PSRAM (Pseudostatic RAM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/radiation-hardened-high-reliability-memories/commercial-memories-cots",
+    "category": "Memories^Radiation hardened and high-reliability memories^Commercial Memories (COTS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/radiation-hardened-high-reliability-memories/defense-memories",
+    "category": "Memories^Radiation hardened and high-reliability memories^Defense Memories"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/radiation-hardened-high-reliability-memories/new-space",
+    "category": "Memories^Radiation hardened and high-reliability memories^New Space"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/radiation-hardened-high-reliability-memories/space-memories",
+    "category": "Memories^Radiation hardened and high-reliability memories^Space Memories"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/rram-resistive-ram",
+    "category": "Memories^RRAM Resistive Ram"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/sram-static-ram/asynchronous-sram",
+    "category": "Memories^SRAM (static RAM)^Asynchronous SRAM"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram",
+    "category": "Memories^SRAM (static RAM)^Synchronous SRAM^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram/ddr",
+    "category": "Memories^SRAM (static RAM)^Synchronous SRAM^Dual data rate (DDR) sync SRAMs"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram/qdr",
+    "category": "Memories^SRAM (static RAM)^Synchronous SRAM^Quad data rate (QDR™) sync SRAMs"
+  },
+  {
+    "url": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram/synchronous-sram-with-ecc",
+    "category": "Memories^SRAM (static RAM)^Synchronous SRAM^Synchronous SRAM with ECC"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm0-plus-32-bit-arm-cortex-m0-plus",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM0+ 32-bit Arm® Cortex®-M0+ microcontroller (MCU) families^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm0-plus-32-bit-arm-cortex-m0-plus/s6e1a-series",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM0+ 32-bit Arm® Cortex®-M0+ microcontroller (MCU) families^FM0+ S6E1A series Arm® Cortex®-M0+ microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm0-plus-32-bit-arm-cortex-m0-plus/s6e1c-series",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM0+ 32-bit Arm® Cortex®-M0+ microcontroller (MCU) families^FM0+ S6E1C series Arm® Cortex®-M0+ microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afx1xk-series-low-power",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFx1xK series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afx1xl-m-n-series-low-power",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFx1xL/M/N series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afx2xk-l-series-low-power",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFx2xK/L series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afx3xk-l-series-ultra-low-leakage",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFx3xK/L series ultra-low leak Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afx4xl-m-n-series-low-power",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFx4xL/M/N series low power Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afx5xm-n-r-series-low-power",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFx5xM/N/R series low power Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9afxaxl-m-n-series-ultra-low-leakage",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9AFxAxL/M/N series ultra-low leak Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9bfx1xn-r-series-high-performance",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9BFx1xN/R high-performance series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9bfx1xs-t-series",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9BFx1xS/T high-performance series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9bfx2xj-series",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9BFx2xJ series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9bfx2xk-l-m-series",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9BFx2xK/L/M series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3/fm3-cy9bfx2xs-t-series",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families^FM3 CY9BFx2xS/T series Arm® Cortex®-M3 microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4/fm4-cy9bfx6xk-l-series-motor-control",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families^FM4 CY9BFx6xK/L high-performance series Arm® Cortex®-M4F microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4/fm4-cy9bfx6xm-n-r-series-motor-control-arm-cortex-m4-microcont",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families^FM4 CY9BFx6xM/N/R high-performance series Arm® Cortex®-M4F microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4/fm4-s6e2c-high-performance-arm-cortex-m4-mcu",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families^FM4 S6E2C high-performance series Arm® Cortex®-M4F microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4/fm4-s6e2g-series-connectivity-arm-cortex-m4-microcontroller-m",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families^FM4 S6E2G series connectivity Arm® Cortex®-M4F microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4/fm4-s6e2h-series-motor-control",
+    "category": "Microcontroller^32-bit FM Arm® Cortex® Microcontroller^FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families^FM4 S6E2H high-performance series Arm® Cortex®-M4F microcontroller (MCU)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc21xl",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC21xL"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc21xsc",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC21xSC (wireless charging)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc22xl",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC22xL"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc23xl",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC23xL"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc23xla-adas",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC23xLA (ADAS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc23xlx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC23xLX"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc264da-adas",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC264DA (ADAS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc26xd",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC26xD"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc27xt",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC27xT"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc297ta-adas",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC297TA (ADAS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc29xt",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC29xT"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc29xtt-adas",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC29xTT (ADAS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc29xtx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ family – TC29xTX"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc2xx-emulation-devices",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC2x^AURIX™ TC2x emulation devices"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc32xlp",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family - TC32xLP"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc33xda",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC33xDA"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc33xlp",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family - TC33xLP"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc35xta-adas",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC35xTA (ADAS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc36xdp",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC36xDP"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc37xtp",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC37xTP"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc37xtx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC37xTX"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc38xqp",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC38xQP"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc39xxa-adas",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC39xXA (ADAS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc39xxx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC39xXX"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc3ex",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ family – TC3Ex"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc37x-emulation-devices",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ TC37xTE (emulation devices)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc39x-emulation-devices",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC3x^AURIX™ TC39xXE (emulation devices)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC4x^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x/tc4dx",
+    "category": "Microcontroller^32-bit AURIX™ TriCore™ microcontroller^32-bit TriCore™ AURIX™ – TC4x^AURIX™ TC4Dx"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 Arm® Cortex®-M0/M0+^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/psoc-analog-coprocessor-m0-plus",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 Arm® Cortex®-M0/M0+^32-bit PSOC™ analog coprocessor Arm® Cortex®-M0+ MCU"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/ble-bluetooth-smart",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 Arm® Cortex®-M0/M0+^PSOC™ 4 Bluetooth® LE MCU"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/4000",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 Arm® Cortex®-M0/M0+^PSOC™ 4000 Family Series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/4100",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 Arm® Cortex®-M0/M0+^PSOC™ 4100 - Intelligent analog"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/4200",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 Arm® Cortex®-M0/M0+^PSOC™ 4200 - Programmable digital"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-hv-m0",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 HV Arm® Cortex®-M0+^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-hv-m0/hv-ms",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 HV Arm® Cortex®-M0+^PSOC™ 4 HVMS"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-hv-m0/hv-pa",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 4 HV Arm® Cortex®-M0+^PSOC™ 4 HVPA"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 5 LP Arm® Cortex®-M3^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c52lpxxx",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 5 LP Arm® Cortex®-M3^CY8C52LPxxx"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c54lpxxx",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 5 LP Arm® Cortex®-M3^CY8C54LPxxx"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c56lpxxx",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 5 LP Arm® Cortex®-M3^CY8C56LPxxx"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c58lpxxx",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 5 LP Arm® Cortex®-M3^CY8C58LPxxx"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 6 Arm® Cortex®-M4/M0+^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu/psoc-61",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 6 Arm® Cortex®-M4/M0+^PSOC™ 61 - Entry-level"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu/psoc-62",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 6 Arm® Cortex®-M4/M0+^PSOC™ 62 - Performance"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu/psoc-63",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ 6 Arm® Cortex®-M4/M0+^PSOC™ 63 Bluetooth® LE MCU"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Multitouch Arm® Cortex®-M0^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0/gen6",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Multitouch Arm® Cortex®-M0^PSOC™ Automotive Multitouch Gen6"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0/gen7",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Multitouch Arm® Cortex®-M0^PSOC™ Automotive Multitouch Gen7"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0/gen8",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Multitouch Arm® Cortex®-M0^PSOC™ Automotive Multitouch Gen8"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Control Arm® Cortex®-M33^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu/psoc-control-c3-entry-line",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Control Arm® Cortex®-M33^PSOC™ Control C3 Entry Line"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu/psoc-control-c3-main-line",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Control Arm® Cortex®-M33^PSOC™ Control C3 Main Line"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/fingerprint-m0-plus",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Fingerprint Arm® Cortex®-M0+^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/fingerprint-m0-plus/fpg1",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Fingerprint Arm® Cortex®-M0+^PSOC™ Fingerprint FPG1"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Automotive 4: Arm® Cortex®-M0/M0+^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/l-series",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Automotive 4: Arm® Cortex®-M0/M0+^PSOC™ Automotive 4 L series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/m-series",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Automotive 4: Arm® Cortex®-M0/M0+^PSOC™ Automotive 4 M series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/s-series",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Automotive 4: Arm® Cortex®-M0/M0+^PSOC™ Automotive 4 S series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/series",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Automotive 4: Arm® Cortex®-M0/M0+^PSOC™ Automotive 4 series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Edge Arm® Cortex® M55/M33^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e81",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Edge Arm® Cortex® M55/M33^PSOC™ Edge E81"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e82",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Edge Arm® Cortex® M55/M33^PSOC™ Edge E82"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e83",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Edge Arm® Cortex® M55/M33^PSOC™ Edge E83"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e84",
+    "category": "Microcontroller^32-bit PSOC™ Arm® Cortex® microcontroller^PSOC™ Edge Arm® Cortex® M55/M33^PSOC™ Edge E84"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2b6",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^TRAVEO™ T2G CYT2B6 series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2b7",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^TRAVEO™ T2G CYT2B7 series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2b9",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^TRAVEO™ T2G CYT2B9 series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2bl",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^TRAVEO™ T2G CYT2BL series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt3bb-cyt4bb",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^TRAVEO™ T2G CYT3BB/CYT4BB series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt4bf",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for body^TRAVEO™ T2G CYT4BF series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for cluster^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster/t2g-cyt2cl",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for cluster^TRAVEO™ T2G CYT2CL"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster/t2g-cyt3dl",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for cluster^TRAVEO™ T2G CYT3DL series"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster/t2g-cyt4dn",
+    "category": "Microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® microcontroller^32-bit TRAVEO™ T2G Arm® Cortex® for cluster^TRAVEO™ T2G CYT4DN"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0/xmc1100",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0^XMC1100"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0/xmc1200",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0^XMC1200"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0/xmc1300",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0^XMC1300"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0/xmc1400",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC1000 industrial microcontroller Arm® Cortex®-M0^XMC1400"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4100-4200",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^XMC4100/XMC4200"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4300",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^XMC4300"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4400",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^XMC4400"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4500",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^XMC4500"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4700",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^XMC4700"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4800",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC4000 industrial microcontroller Arm® Cortex®-M4^XMC4800"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc7000-m7",
+    "category": "Microcontroller^32-bit XMC™ industrial microcontroller Arm® Cortex®-M^32-bit XMC7000 Industrial Microcontroller Arm® Cortex®-M7"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/32-bit/c500-family",
+    "category": "Microcontroller^Legacy microcontroller^Legacy 32-bit MCU^C500 family"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/psoc-1",
+    "category": "Microcontroller^Legacy microcontroller^Legacy 8-bit/16-bit microcontroller^PSOC™ 1"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/psoc-3",
+    "category": "Microcontroller^Legacy microcontroller^Legacy 8-bit/16-bit microcontroller^PSOC™ 3"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc800-a-family-automotive",
+    "category": "Microcontroller^Legacy microcontroller^Legacy 8-bit/16-bit microcontroller^XC800 A-family (automotive)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc800-i-family-industrial-multimarket",
+    "category": "Microcontroller^Legacy microcontroller^Legacy 8-bit/16-bit microcontroller^XC800 I-family (industrial and multimarket)"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus",
+    "category": "Microcontroller^Legacy microcontroller^Other legacy MCUs^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus/8-bit-fmc-new-8fx-mcu-portfolio",
+    "category": "Microcontroller^Legacy microcontroller^Other legacy MCUs^8-bit F²MC new 8FX microcontroller (MCU) families"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/embedded-power-ics-system-on-chip/h-bridge-driver-ic-integrated-arm-cortex-m0",
+    "category": "Microcontroller^MOTIX™ MCU | 32-bit motor control SoC based on Arm® Cortex®-M^MOTIX™ MCU | 32-bit motor control SoC with integrated h-bridge driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/embedded-power-ics-system-on-chip/3-phase-bridge-driver-integrated-arm-cortex-m3",
+    "category": "Microcontroller^MOTIX™ MCU | 32-bit motor control SoC based on Arm® Cortex®-M^MOTIX™ MCU | 32-bit motor control SoC with integrated 3-phase bridge driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/embedded-power-ics-system-on-chip/half-bridge-driver-integrated-arm-cortex-m0",
+    "category": "Microcontroller^MOTIX™ MCU | 32-bit motor control SoC based on Arm® Cortex®-M^MOTIX™ MCU | 32-bit motor control SoC with integrated half-bridge driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/embedded-power-ics-system-on-chip/relay-driver-integrated-arm-cortex-m0",
+    "category": "Microcontroller^MOTIX™ MCU | 32-bit motor control SoC based on Arm® Cortex®-M^MOTIX™ MCU | 32-bit motor control SoC with integrated relay driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/capsense",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CAPSENSE™"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/capsense-express",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CAPSENSE™ Express"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/capsense-mbr3",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CAPSENSE™ MBR3"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/capsense-plus",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CAPSENSE™ Plus"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/cy8c201xx",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CY8C201xx"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/cy8cmbr2016",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CY8CMBR2016"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/cy8cmbr2044",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CY8CMBR2044"
+  },
+  {
+    "url": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers/cy8cmbr2110",
+    "category": "Microcontroller^Sensing controllers^CAPSENSE™ controllers^CY8CMBR2110"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset",
+    "category": "Power^AC-DC power conversion^AC-DC integrated power stage - CoolSET™^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset/coolset-sip",
+    "category": "Power^AC-DC power conversion^AC-DC integrated power stage - CoolSET™^CoolSET™ System in Package (SiP)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset/fixed-frequency-coolset",
+    "category": "Power^AC-DC power conversion^AC-DC integrated power stage - CoolSET™^Fixed frequency CoolSET™"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset/quasi-resonant-coolset",
+    "category": "Power^AC-DC power conversion^AC-DC integrated power stage - CoolSET™^Quasi-resonant CoolSET™"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/battery-charging-ic",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^Battery charging ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/digital-pfc-plus-llc-combo-ic",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^Digital PFC + half-bridge/LLC combo ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/llc-resonant-mode-controller",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^Half-bridge and LLC controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/hybrid-flyback-ics",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^Hybrid Flyback Ics"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/pfc-ccm-continuous-conduction-mode-ics",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^PFC-CCM (continuous conduction mode) ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/pwm-ff-fixed-frequency-flyback-ics",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^PWM-FF (fixed frequency) flyback ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/pwm-qr-quasi-resonant-flyback-ics",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^PWM-QR (quasi-resonant) flyback ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/synchronous-rectification-ics",
+    "category": "Power^AC-DC power conversion^AC-DC PWM-PFC controller^Synchronous rectification ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics/alternator-regulator",
+    "category": "Power^Automotive conventional powertrain ICs^Alternator regulator"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics/constant-current-control-ic-for-transmission",
+    "category": "Power^Automotive conventional powertrain ICs^Constant current control IC for transmission"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics/engine-management-ic",
+    "category": "Power^Automotive conventional powertrain ICs^Engine management IC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/class-d-audio-amplifier-ic/discrete-class-d-audio-amplifier-ics",
+    "category": "Power^Class D audio amplifier ICs^Discrete Class-D audio amplifier ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/class-d-audio-amplifier-ic/integrated-class-d-audio-amplifier-ics",
+    "category": "Power^Class D audio amplifier ICs^Integrated class D audio amplifier ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/contactless-power-sensing-ics/nfc-tag-side-controllers",
+    "category": "Power^Contactless power and sensing ICs^NFC tag controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/contactless-power-sensing-ics/nfc-pwn",
+    "category": "Power^Contactless power and sensing ICs^NFC-PWM configuration IC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/digital-multiphase-controllers",
+    "category": "Power^DC-DC converters^Digital multiphase controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/digital-power-controllers",
+    "category": "Power^DC-DC converters^Digital power controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/integrated-pol-voltage-regulators",
+    "category": "Power^DC-DC converters^Integrated POL voltage regulators"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/integrated-power-stages",
+    "category": "Power^DC-DC converters^Integrated smart power stages"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/high-density-power-modules",
+    "category": "Power^DC-DC converters^High density power modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators",
+    "category": "Power^DC-DC converters^Switching regulators^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators/optireg-switchers-automotive",
+    "category": "Power^DC-DC converters^Switching regulators^OPTIREG™ switcher"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/bridge-rectifier-ac-switches",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Bridge rectifiers & AC switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes",
+    "category": "Power^Diodes and thyristors (Si/SiC)^CoolSiC™ Schottky diodes^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/1200v-g5",
+    "category": "Power^Diodes and thyristors (Si/SiC)^CoolSiC™ Schottky diodes^CoolSiC™ Schottky diodes 1200 V G5"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/2000v-g5",
+    "category": "Power^Diodes and thyristors (Si/SiC)^CoolSiC™ Schottky diodes^CoolSiC™ Schottky Diodes 2000 V G5"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/650v-g5-and-g6",
+    "category": "Power^Diodes and thyristors (Si/SiC)^CoolSiC™ Schottky diodes^CoolSiC™ Schottky diodes 650 V G5"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/diode-bare-dies",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Diode bare dies"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Silicon diodes^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/600v-1200v-ultra-soft",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Silicon diodes^600 V/1200 V ultra-soft diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/650v-rapid-1-and-rapid-2",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Silicon diodes^650 V Rapid 1 and Rapid 2"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/650-v-1200-v-emitter-controlled-7",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Silicon diodes^650 V/1200 V Emitter Controlled 7"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-modules",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor / Diode Power Modules^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-modules/gate-leads-for-modules",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor / Diode Power Modules^Gate leads for modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-soft-starter-modules",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor soft starter modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor/diode discs^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/accessories",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor/diode discs^Accessories"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/diode-discs",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor/diode discs^Diode discs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/welding-diodes",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor/diode discs^Housingless welding diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/thyristor-discs",
+    "category": "Power^Diodes and thyristors (Si/SiC)^Thyristor/diode discs^Thyristor Discs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches",
+    "category": "Power^Gallium nitride (GaN)^GaN bidirectional switches^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches/high-voltage-gan-bidirectional-switches",
+    "category": "Power^Gallium nitride (GaN)^GaN bidirectional switches^High-voltage GaN bidirectional switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches/medium-voltage-gan-bidirectional-switches",
+    "category": "Power^Gallium nitride (GaN)^GaN bidirectional switches^Medium-voltage GaN bidirectional switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor",
+    "category": "Power^Gallium nitride (GaN)^GaN transistors (GaN HEMTs)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gallium-nitride/gan-with-integrated-driver",
+    "category": "Power^Gallium nitride (GaN)^GaN with integrated driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/automotive",
+    "category": "Power^Gate driver ICs^Automotive gate driver ICs^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/automotive/eicedriver-apd-power-distribution",
+    "category": "Power^Gate driver ICs^Automotive gate driver ICs^EiceDRIVER™ APD gate driver ICs | Automotive power distribution"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/automotive/high-voltage-xev-applications",
+    "category": "Power^Gate driver ICs^Automotive gate driver ICs^EiceDRIVER™ isolated gate driver ICs for EV applications"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/automotive/bldc",
+    "category": "Power^Gate driver ICs^Automotive gate driver ICs^MOTIX™ gate driver ICs for BLDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/galvanic-isolated-gate-driver",
+    "category": "Power^Gate driver ICs^Isolated Gate Driver ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/level-shift",
+    "category": "Power^Gate driver ICs^Level-Shift Gate Driver ICs^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/level-shift/junction-isolated-ji",
+    "category": "Power^Gate driver ICs^Level-Shift Gate Driver ICs^Junction isolated (JI) gate driver ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/gate-driver-ics/transformer-driver-ics",
+    "category": "Power^Gate driver ICs^Transformer Driver ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/automotive-qualified-igbts/coolsic-mosfet-modules",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^Automotive-qualified IGBTs^Automotive IGBT and CoolSiC™ MOSFET modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/automotive-qualified-igbts/automotive-igbt-bare-dies",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^Automotive-qualified IGBTs^Automotive IGBT bare dies"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/automotive-qualified-igbts/igbt-discretes",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^Automotive-qualified IGBTs^Automotive IGBT discretes"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/igbt-bare-dies",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^IGBT bare dies"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/igbt-discretes",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^IGBT discretes"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/igbt-modules",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^IGBT modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/igbt/igbt-press-packs",
+    "category": "Power^IGBTs – Insulated gate bipolar transistors^IGBT press packs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/intelligent-power-modules-ipm",
+    "category": "Power^Intelligent power modules (IPM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/ac-dc",
+    "category": "Power^LED driver ICs^AC-DC LED driver ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/fluorescent-ballast-ics",
+    "category": "Power^LED driver ICs^Ballast IC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/dc-dc",
+    "category": "Power^LED driver ICs^DC-DC LED driver IC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/dimming-interface-ics",
+    "category": "Power^LED driver ICs^LED dimming interface IC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/linear",
+    "category": "Power^LED driver ICs^Linear LED driver IC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-basic",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Basic"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-basic-plus",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Basic+"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-interior",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Interior"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-linear",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Linear"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-pixel-rear",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Pixel Rear"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-power",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Power"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/litix-automotive/litix-power-flex",
+    "category": "Power^LED driver ICs^LITIX™ - Automotive LED Driver IC^LITIX™ Power Flex"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/nfc-pwm-configuration-ics",
+    "category": "Power^LED driver ICs^NFC wireless configuration IC with PWM output"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/led-driver-ics/laser-driver-ic",
+    "category": "Power^LED driver ICs^VCSEL driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/imotion-integrated",
+    "category": "Power^Motor control ICs^iMOTION™ Integrated motor control solutions^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/imotion-integrated/imc-controller-ics",
+    "category": "Power^Motor control ICs^iMOTION™ Integrated motor control solutions^iMOTION™ integrated motor control (IMC)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/imotion-integrated/imd-controller-ics",
+    "category": "Power^Motor control ICs^iMOTION™ Integrated motor control solutions^iMOTION™ integrated motor driver (IMD)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/imotion-integrated/ipm-fully-integrated-modules",
+    "category": "Power^Motor control ICs^iMOTION™ Integrated motor control solutions^iMOTION™ integrated power module (IPM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/embedded-power-ics-system-on-chip",
+    "category": "Power^Motor control ICs^MOTIX™ MCU | 32-bit motor control SoC based on Arm® Cortex®-M"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/bldc",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for BLDC motors^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/bldc/battery-supplied-bldc",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for BLDC motors^MOTIX™ battery-supplied BLDC motor controller ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/bldc/bldc-motor-gate-driver",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for BLDC motors^MOTIX™ gate driver ICs for BLDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/bldc/bldc-motor-system-ics",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for BLDC motors^MOTIX™ motor system ICs (SBC) for BLDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/brushed-dc",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for brushed DC motors^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/brushed-dc/integrated-full-bridge-ics",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for brushed DC motors^MOTIX™ full-bridge ICs for BDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/brushed-dc/dc-motor-system-ics",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for brushed DC motors^MOTIX™ motor system ICs (SBC) for BDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/brushed-dc/multi-half-bridge-ics",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for brushed DC motors^MOTIX™ multi half-bridge ICs for BDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/brushed-dc/multi-mosfet-driver-ics",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for brushed DC motors^MOTIX™ multi MOSFET gate driver ICs for BDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/brushed-dc/single-half-bridge-ics",
+    "category": "Power^Motor control ICs^MOTIX™ motor control ICs for brushed DC motors^MOTIX™ single half-bridge ICs for BDC motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/motor-control-ics/servo-and-stepper-motor-driver",
+    "category": "Power^Motor control ICs^MOTIX™ multi half-bridge ICs for servo and stepper motors"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/automotive-mosfet",
+    "category": "Power^Power MOSFETs^Automotive MOSFET"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/dual-mosfet",
+    "category": "Power^Power MOSFETs^Dual MOSFETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/modules",
+    "category": "Power^Power MOSFETs^MOSFET (Si & SiC) Modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel-depletion-mode",
+    "category": "Power^Power MOSFETs^N-channel depletion mode MOSFET"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel/12v-40v",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^12 V-40 V N-channel power MOSFETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel/45v-80v",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^45 V-80 V N-channel power MOSFETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel/85v-300v",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^85 V-300 V N-channel power MOSFETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel/500v-950v",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^500 V-950 V CoolMOS™ N-channel power MOSFET"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel/optimos-strongirfet",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^OptiMOS™ and StrongIRFET™ family"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/n-channel/optimos-strongirfet-packages",
+    "category": "Power^Power MOSFETs^N-channel MOSFETs^OptiMOS™ and StrongIRFET™ packages"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/p-channel",
+    "category": "Power^Power MOSFETs^P-channel  MOSFETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/silicon-carbide",
+    "category": "Power^Power MOSFETs^Silicon carbide CoolSiC™ MOSFETs^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/silicon-carbide/modules",
+    "category": "Power^Power MOSFETs^Silicon carbide CoolSiC™ MOSFETs^Silicon Carbide CoolSiC™ MOSFET modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/silicon-carbide/discretes",
+    "category": "Power^Power MOSFETs^Silicon carbide CoolSiC™ MOSFETs^Silicon carbide MOSFET discretes"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/small-signal-small-power",
+    "category": "Power^Power MOSFETs^Small signal/small power MOSFET^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/small-signal-small-power/industrial",
+    "category": "Power^Power MOSFETs^Small signal/small power MOSFET^Small signal for industrial applications"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/mosfet/small-signal-small-power/small-signal-mosfets-for-automotive-applications",
+    "category": "Power^Power MOSFETs^Small signal/small power MOSFET^Small signal MOSFETs for automotive applications"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/modules/igbt-modules",
+    "category": "Power^Power modules^IGBT modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/modules/mosfet-si-sic-modules",
+    "category": "Power^Power modules^MOSFET (Si & SiC) Modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/modules/intelligent-power-modules-ipm",
+    "category": "Power^Power modules^Intelligent power modules (IPM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/modules/diodes-and-thyristors-si-sic",
+    "category": "Power^Power modules^Diodes and thyristors (Si/SiC)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/modules/automotive-igbt-and-coolsic-mosfet-modules",
+    "category": "Power^Power modules^Automotive IGBT and CoolSiC™ MOSFET modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/automotive-transceivers",
+    "category": "Power^Power supply ICs^Automotive transceivers"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/linear-voltage-regulators",
+    "category": "Power^Power supply ICs^Linear Voltage Regulators for Automotive Applications^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/linear-voltage-regulators/high-performance-voltage-regulators",
+    "category": "Power^Power supply ICs^Linear Voltage Regulators for Automotive Applications^OPTIREG™ linear high-performance voltage regulators"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/linear-voltage-regulators/linear-post-regulators",
+    "category": "Power^Power supply ICs^Linear Voltage Regulators for Automotive Applications^OPTIREG™ linear post regulators"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/linear-voltage-regulators/voltage-trackers",
+    "category": "Power^Power supply ICs^Linear Voltage Regulators for Automotive Applications^OPTIREG™ linear voltage trackers"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/optireg-pmic",
+    "category": "Power^Power supply ICs^OPTIREG™ PMIC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/optireg-switchers-automotive",
+    "category": "Power^Power supply ICs^OPTIREG™ switcher"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/system-basis-chips-sbc",
+    "category": "Power^Power supply ICs^OPTIREG™ System Basis Chips (SBC)^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/system-basis-chips-sbc/dcdc-sbc",
+    "category": "Power^Power supply ICs^OPTIREG™ System Basis Chips (SBC)^OPTIREG™ DCDC SBC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/system-basis-chips-sbc/lite-sbc",
+    "category": "Power^Power supply ICs^OPTIREG™ System Basis Chips (SBC)^OPTIREG™ Lite SBC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/system-basis-chips-sbc/mid-range-plus-sbc",
+    "category": "Power^Power supply ICs^OPTIREG™ System Basis Chips (SBC)^OPTIREG™ Mid-Range+ SBC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/power-supply-ics/system-basis-chips-sbc/multi-can-power-plus-sbc",
+    "category": "Power^Power supply ICs^OPTIREG™ System Basis Chips (SBC)^OPTIREG™ Multi-CAN Power+ SBC"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/protection-and-monitoring-ics",
+    "category": "Power^Protection and monitoring ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/silicon-carbide/cross-link-ipm",
+    "category": "Power^Silicon carbide (SiC)^Intelligent power modules (IPM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/silicon-carbide/coolsic--schottky-diodes",
+    "category": "Power^Silicon carbide (SiC)^CoolSiC™ Schottky diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/efuses",
+    "category": "Power^Smart power switches^eFuse^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/efuses/eicedriver-apd-power-distribution",
+    "category": "Power^Smart power switches^eFuse^EiceDRIVER™ APD gate driver ICs | Automotive power distribution"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/efuses/spoc-wire-guard-12v-automotive",
+    "category": "Power^Smart power switches^eFuse^SPOC™ Wire Guard 12V | Automotive eFuse with SPI"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/efuses/profet-wire-guard-12v-automotive",
+    "category": "Power^Smart power switches^eFuse^PROFET™ Wire Guard 12V | Automotive eFuse"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches",
+    "category": "Power^Smart power switches^High-side switches^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/classic-profet-12v-automotive",
+    "category": "Power^Smart power switches^High-side switches^Classic PROFET™ 12V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/classic-profet-24v-automotive",
+    "category": "Power^Smart power switches^High-side switches^Classic PROFET™ 24V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/power-profet-plus-12v-automotive",
+    "category": "Power^Smart power switches^High-side switches^Power PROFET™ + 12/24/48V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-plus-12v-automotive",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ + 12V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-plus-24v-automotive",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ + 24V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-plus-48v-automotive",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ + 48V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-plus-2-12v-automotive",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ +2 12V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-industrial",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ Industrial | Smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-load-guard-12v-automotive",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ Load Guard 12V | Automotive smart high-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/high-side-switches/profet-wire-guard-12v-automotive",
+    "category": "Power^Smart power switches^High-side switches^PROFET™ Wire Guard 12V | Automotive eFuse"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/low-side-switches",
+    "category": "Power^Smart power switches^Low-side switches^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/low-side-switches/classic-hitfet-12v",
+    "category": "Power^Smart power switches^Low-side switches^Classic HITFET™ 12V | Automotive smart low-side switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/low-side-switches/classic-hitfet-24v",
+    "category": "Power^Smart power switches^Low-side switches^Classic HITFET™ 24V | Automotive smart low-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/low-side-switches/hitfet-plus-12v",
+    "category": "Power^Smart power switches^Low-side switches^HITFET™ +12V | Automotive low-side switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/low-side-switches/hitfet-plus-24v",
+    "category": "Power^Smart power switches^Low-side switches^HITFET™ + 24V | Automotive smart low-side switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/low-side-switches/tempfet-automotive",
+    "category": "Power^Smart power switches^Low-side switches^TEMPFET™ | Automotive low-side temperature protected switch"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller/flex-multichannel-spi",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^FLEX"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller/spider",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^SPIDER"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller/spider-plus-multichannel-spi-driver-enhanced-relay-control",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^SPIDER+"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller/spider-plus-led-multichannel-spi-driver-enhanced-relay-control",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^SPIDER+ LED"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller/spoc-plus-2-multichannel-spi-high-side-power-controller",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^SPOC™ +2 | Multichannel serial interface high-side power controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/smart-power-switches/multichannel-spi-switches-controller/spoc-wire-guard-12v-automotive",
+    "category": "Power^Smart power switches^Multichannel SPI Switches & Controller^SPOC™ Wire Guard 12V | Automotive eFuse with SPI"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/solid-state-relays-and-isolators/photovoltaic-isolators",
+    "category": "Power^Solid state relays^Photovoltaic isolators"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/solid-state-relays-and-isolators/photovoltaic-relays",
+    "category": "Power^Solid state relays^Photovoltaic relays"
+  },
+  {
+    "url": "https://www.infineon.com/products/power/wireless-charging-ics",
+    "category": "Power^Wireless charging ICs"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/antenna-cross-switches",
+    "category": "RF^Antenna cross switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/antenna-tuners",
+    "category": "RF^Antenna tuners"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/bias-and-control",
+    "category": "RF^Bias and control"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/coupler",
+    "category": "RF^Coupler"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/driver-amplifiers",
+    "category": "RF^Driver amplifiers"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/high-reliability-discrete/hirel-radiation-hard-powermos-transistor",
+    "category": "RF^High Reliability Discrete^HiRel Radiation Hard PowerMOS Transistor"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/high-reliability-discrete/hirel-silicon-bipolar-transistor-technology",
+    "category": "RF^High Reliability Discrete^HiRel Silicon Bipolar Transistor technology"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/high-reliability-discrete/hirel-silicon-diodes",
+    "category": "RF^High Reliability Discrete^HiRel Silicon Diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/low-noise-amplifier-lnas/4g-5g-lna",
+    "category": "RF^Low noise amplifiers (LNAs)^4G/5G MIPI LNA and LNA bank"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/low-noise-amplifier-lnas/gnss-lnas",
+    "category": "RF^Low noise amplifiers (LNAs)^GNSS LNAs"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/low-noise-amplifier-lnas/multi-purpose-lnas",
+    "category": "RF^Low noise amplifiers (LNAs)^Multi-purpose LNAs"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/rf-diode/rf-mixer-detector-schottky-diode",
+    "category": "RF^RF diode^RF mixer and detector Schottky diode"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/rf-diode/rf-pin-diode",
+    "category": "RF^RF diode^RF PIN diode"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/rf-switches-spxt-dpxt",
+    "category": "RF^RF switches"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/rf-transistors/high-linearity-rf-transistors",
+    "category": "RF^RF transistors^High-linearity RF transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/rf-transistors/low-noise-rf-transistors",
+    "category": "RF^RF transistors^Low-noise RF transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/rf-transistors/rf-mosfet-and-active-bias-controllers",
+    "category": "RF^RF transistors^RF MOSFETs and active bias controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/rf/wireless-control-receiver",
+    "category": "RF^Wireless control receiver"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/calypso-products",
+    "category": "Security and smart card solutions^Calypso® products"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/cipurse-products",
+    "category": "Security and smart card solutions^CIPURSE™ products"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/contactless-memories/my-d-move",
+    "category": "Security and smart card solutions^Contactless memories^my-d™ move"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/contactless-memories/my-d-move-lean",
+    "category": "Security and smart card solutions^Contactless memories^my-d™ move lean"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/contactless-memories/my-d-vicinity-plain",
+    "category": "Security and smart card solutions^Contactless memories^my-d™ vicinity plain"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/contactless-memories/my-d-vicinity-secure",
+    "category": "Security and smart card solutions^Contactless memories^my-d™ vicinity secure"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/contactless-memories/sle-66r35",
+    "category": "Security and smart card solutions^Contactless memories^NRG™ SLE 66R35x"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Authenticate"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate-nfc-solutions",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Authenticate NFC solutions^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate-nfc-solutions/nfc-i2c-bridge-tags",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Authenticate NFC solutions^NFC-I2C bridge tags"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate-nfc-solutions/plain-nfc-tags",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Authenticate NFC solutions^Plain NFC tags"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-authenticate-nfc-solutions/optiga-authenticate-nfc-secured-tags",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Authenticate NFC solutions^Secured NFC tags"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-connect",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Connect – turnkey eSIM security solutions"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-trust",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Trust"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm",
+    "category": "Security and smart card solutions^OPTIGA™ embedded security solutions^OPTIGA™ Trusted Platform Module (TPM)"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/secora-security-solutions/secora-blockchain",
+    "category": "Security and smart card solutions^SECORA™ security solutions^SECORA™ Blockchain security solutions"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/secora-security-solutions/secora-id-key-security-solutions",
+    "category": "Security and smart card solutions^SECORA™ security solutions^SECORA™ ID Key security solutions"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/secora-security-solutions/secora-id",
+    "category": "Security and smart card solutions^SECORA™ security solutions^SECORA™ ID security solutions"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/security-controllers/contactless-and-dual-interface-security-controllers",
+    "category": "Security and smart card solutions^Security controllers^Contactless and dual-interface security controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/security-controllers/security-controllers-optimized-for-automotive-applications",
+    "category": "Security and smart card solutions^Security controllers^Security controllers optimized for automotive applications"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/security-controllers/security-controllers-optimized-for-industrial-applications",
+    "category": "Security and smart card solutions^Security controllers^Security controllers optimized for industrial applications"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/security-controllers/serial-interface-security-controllers",
+    "category": "Security and smart card solutions^Security controllers^Serial interface security controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/security-controllers/tegrion-security-controllers",
+    "category": "Security and smart card solutions^Security controllers^TEGRION™ security controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/smart-card-modules/smart-card-contact-based-controller-module",
+    "category": "Security and smart card solutions^Smart card modules^Smart card contact-based controller modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/smart-card-modules/smart-card-contactless-controller-module",
+    "category": "Security and smart card solutions^Smart card modules^Smart card contactless controller modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/smart-card-modules/smart-card-dual-interface-module",
+    "category": "Security and smart card solutions^Smart card modules^Smart card dual-interface modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/smart-card-solutions/mtcos-native-generic-id-solution",
+    "category": "Security and smart card solutions^Smart solutions for government ID^MTCOS native generic ID solution"
+  },
+  {
+    "url": "https://www.infineon.com/products/security-smart-card-solutions/smart-card-solutions/secora-id-java-card-solution",
+    "category": "Security and smart card solutions^Smart solutions for government ID^SECORA™ ID Java Card solution"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/tof-3d-image-sensors/consumer",
+    "category": "Sensor technology^ToF 3D image sensors^ToF 3D image sensors for consumer"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/tof-3d-image-sensors/automotive",
+    "category": "Sensor technology^ToF 3D image sensors^ToF 3D image sensors for automotive and industrial"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/tof-3d-image-sensors/laser-driver-ic",
+    "category": "Sensor technology^ToF 3D image sensors^VCSEL driver"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/current-sensors",
+    "category": "Sensor technology^Current sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/gas-sensors/co2-sensors",
+    "category": "Sensor technology^Gas sensors^CO2 sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/gas-sensors/h2-sensors",
+    "category": "Sensor technology^Gas sensors^H2 sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/inductive-position-sensors",
+    "category": "Sensor technology^Inductive position sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/mems-microphones",
+    "category": "Sensor technology^MEMS microphones"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/pressure-sensors/barometric-bap-manifold-map-sensors",
+    "category": "Sensor technology^Pressure sensors^Barometric (BAP) and Manifold (MAP) sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/pressure-sensors/pressure-sensors-for-iot",
+    "category": "Sensor technology^Pressure sensors^Pressure sensors for IoT"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/pressure-sensors/pressure-sensor-for-side-crash-detection-sab",
+    "category": "Sensor technology^Pressure sensors^Pressure sensors for side crash detection (SAB)"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/pressure-sensors/tire-pressure-sensor-tpms",
+    "category": "Sensor technology^Pressure sensors^Tire pressure sensors (TPMS)"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/radar-sensors/radar-sensors-for-automotive/24ghz-radar",
+    "category": "Sensor technology^Radar sensors^Radar sensors for automotive^24 GHz radar sensors for automotive"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/radar-sensors/radar-sensors-for-automotive/60ghz-radar",
+    "category": "Sensor technology^Radar sensors^Radar sensors for automotive^60 GHz radar sensors for automotive"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/radar-sensors/radar-sensors-for-iot/24ghz-radar",
+    "category": "Sensor technology^Radar sensors^Radar sensors for IoT^24 GHz radar sensors for IoT"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar",
+    "category": "Sensor technology^Radar sensors^Radar sensors for IoT^60 GHz radar sensors for IoT"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/radar-sensors/radar-sensors-for-iot/60ghz-cmos-radar",
+    "category": "Sensor technology^Radar sensors^Radar sensors for IoT^60 GHz CMOS radar sensors for IoT"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/magnetic-position-sensors/3d-sensors",
+    "category": "Sensor technology^Magnetic position sensors^3D sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/magnetic-position-sensors/angle-sensors",
+    "category": "Sensor technology^Magnetic position sensors^Angle sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/magnetic-position-sensors/linear-sensors",
+    "category": "Sensor technology^Magnetic position sensors^Linear sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/magnetic-position-sensors/switches-latches",
+    "category": "Sensor technology^Magnetic position sensors^Switches and latches"
+  },
+  {
+    "url": "https://www.infineon.com/products/sensor/magnetic-speed-sensors",
+    "category": "Sensor technology^Magnetic speed sensors"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/bipolar-transistor/digital-transistor",
+    "category": "Small signal transistors and diodes^Bipolar transistors^AF digital transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/bipolar-transistor/fast-switching-transistor",
+    "category": "Small signal transistors and diodes^Bipolar transistors^AF fast switching transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/bipolar-transistor/general-purpose-transistor",
+    "category": "Small signal transistors and diodes^Bipolar transistors^AF general-purpose transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/bipolar-transistor/high-voltage-transistor",
+    "category": "Small signal transistors and diodes^Bipolar transistors^AF high-voltage transistors"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/diode/schottky-diode",
+    "category": "Small signal transistors and diodes^Diodes^AF Schottky diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/diode/general-purpose-high-speed-switching-diode",
+    "category": "Small signal transistors and diodes^Diodes^General-purpose diodes"
+  },
+  {
+    "url": "https://www.infineon.com/products/small-signal-transistors-diodes/small-signal-small-power-mosfet",
+    "category": "Small signal transistors and diodes^Small signal/small power MOSFET"
+  },
+  {
+    "url": "https://www.infineon.com/products/transceivers/automotive/can-transceivers",
+    "category": "Transceivers^Automotive transceivers^Automotive CAN transceivers"
+  },
+  {
+    "url": "https://www.infineon.com/products/transceivers/automotive/cxpi-transceivers",
+    "category": "Transceivers^Automotive transceivers^Automotive CXPI transceivers"
+  },
+  {
+    "url": "https://www.infineon.com/products/transceivers/automotive/lin-transceivers",
+    "category": "Transceivers^Automotive transceivers^Automotive LIN transceivers"
+  },
+  {
+    "url": "https://www.infineon.com/products/transceivers/control-communications",
+    "category": "Transceivers^Control communication"
+  },
+  {
+    "url": "https://www.infineon.com/products/transceivers/powerline-communications",
+    "category": "Transceivers^Powerline communications"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-2-0-peripheral-controllers/ez-usb-e3",
+    "category": "Universal Serial Bus (USB)^USB 2.0 peripheral controllers^EZ-USB™ E3"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-2-0-peripheral-controllers/ez-usb-fx2g3-usb-2-0-peripheral-controller",
+    "category": "Universal Serial Bus (USB)^USB 2.0 peripheral controllers^EZ-USB™ FX2G3 USB 2.0 peripheral controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-2-0-peripheral-controllers/ez-usb-fx2lp-fx2g2-usb-2-0",
+    "category": "Universal Serial Bus (USB)^USB 2.0 peripheral controllers^EZ-USB™ FX2LP FX2G2 USB 2.0 peripheral controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-2-0-peripheral-controllers/ez-usb-serial-bridge-controller",
+    "category": "Universal Serial Bus (USB)^USB 2.0 peripheral controllers^EZ-USB™ serial bridge controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-cx3-mipi-csi2-to-usb-5gbps-camera-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ CX3 MIPI CSI2 to USB 3.0 camera controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-fx10-fx5n-usb-10-gbps-peripheral-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ FX10 & FX5N USB 10Gbps peripheral controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-fx20-usb-20-gbps-peripheral-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ FX20 USB 20 Gbps peripheral controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-fx3-usb-5gbps-peripheral-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ FX3 USB 5 Gbps peripheral controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-fx3s-usb-5gbps-peripheral-controller-with-storage-interface",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ FX3S USB 5 Gbps peripheral controller with storage interface"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-fx5-usb-5-gbps-peripheral-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ FX5 USB 5 Gbps peripheral controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-sd3-usb-5gbps-storage-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ SD3 USB 5 Gbps storage controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-3-2-peripheral-controllers/ez-usb-sx3-fifo-to-usb-5gbps-peripheral-controller",
+    "category": "Universal Serial Bus (USB)^USB 3.2 peripheral controllers^EZ-USB™ SX3 FIFO to USB 5 Gbps peripheral controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/ez-usb-hub-controllers/ez-usb-hx2lp-usb-2-0",
+    "category": "Universal Serial Bus (USB)^USB hub controllers^EZ-USB™ HX2LP USB 2.0 Hub controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/ez-usb-hub-controllers/ez-usb-hx2vl-usb-2-0",
+    "category": "Universal Serial Bus (USB)^USB hub controllers^EZ-USB™ HX2VL USB 2.0 Hub 2-/4-port controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/ez-usb-hub-controllers/ez-usb-hx3-usb-5-gbps",
+    "category": "Universal Serial Bus (USB)^USB hub controllers^EZ-USB™ HX3 USB 5 Gbps hub controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/ez-usb-hub-controllers/ez-usb-hx3pd-usb-10-gbps-usb-pd",
+    "category": "Universal Serial Bus (USB)^USB hub controllers^EZ-USB™ HX3PD USB 10 Gbps hub controller with USB power delivery"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-high-voltage-microcontrollers/ez-pd-pmg1-b1-mcu-with-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB PD high-voltage microcontrollers^EZ-PD™ PMG1-B1 Battery Charge Controller with USB-C PD MCU"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-high-voltage-microcontrollers/ez-pd-pmg1-s0-mcu-with-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB PD high-voltage microcontrollers^EZ-PD™ PMG1-S0 high-voltage MCU with USB-C and PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-high-voltage-microcontrollers/ez-pd-pmg1-s1-high-voltage-mcu-with-usb-c-and-pd",
+    "category": "Universal Serial Bus (USB)^USB PD high-voltage microcontrollers^EZ-PD™ PMG1-S1 high-voltage MCU with USB-C and PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-high-voltage-microcontrollers/ez-pd-pmg1-s2-mcu-with-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB PD high-voltage microcontrollers^EZ-PD™ PMG1-S2 high-voltage MCU with USB PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-high-voltage-microcontrollers/ez-pd-pmg1-s3-high-voltage-mcu-with-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB PD high-voltage microcontrollers^EZ-PD™ PMG1-S3 high-voltage MCU with USB-C & PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-ccg3-usb-c-pd-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ CCG3 USB type-C port controller PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-ccg3pa-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ CCG3PA USB-C and PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-ccg3pa-nfet-usb-c-pd-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ CCG3PA-NFET USB-C PD controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-ccg7x-consumer-usb-c-power-delivery-dc-dc-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ CCG7x consumer USB-C Power Delivery & DC-DC controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag1-power-adapter-generation-1",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG1: power adapter generation 1^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag1-power-adapter-generation-1/ez-pd-pag1p-primary-side-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG1: power adapter generation 1^EZ-PD™ PAG1P primary-side controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag1-power-adapter-generation-1/ez-pd-pag1s-secondary-side-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG1: power adapter generation 1^EZ-PD™ PAG1S secondary-side controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag2-power-adapter-generation-2",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG2: Power Adapter Generation 2^Overview"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag2-power-adapter-generation-2/ez-pd-pag2p-primary-side-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG2: Power Adapter Generation 2^EZ-PD™ PAG2P: Primary-side controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag2-power-adapter-generation-2/ez-pd-pag2s-secondary-side-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG2: Power Adapter Generation 2^EZ-PD™ PAG2S: Secondary-side controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-ac-dc-and-dc-dc-charging-solutions/ez-pd-pag2-pd-usb-c-pd-controller",
+    "category": "Universal Serial Bus (USB)^USB-C AC-DC and DC-DC charging solutions^EZ-PD™ PAG2-PD USB-C PD Controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-charging-port-controllers/ez-pd-barrel-connector-replacement-bcr",
+    "category": "Universal Serial Bus (USB)^USB-C charging port controllers^EZ-PD™ barrel connector replacement (BCR)"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-charging-port-controllers/ez-pd-barrel-connector-replacement-lite-bcr-lite",
+    "category": "Universal Serial Bus (USB)^USB-C charging port controllers^EZ-PD™ barrel connector replacement Lite (BCR-Lite)"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-charging-port-controllers/ez-pd-barrel-connector-replacement-plus-bcr-plus",
+    "category": "Universal Serial Bus (USB)^USB-C charging port controllers^EZ-PD™ barrel connector replacement plus (BCR-Plus)"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-acg1f-one-port-usb-c-controller",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ ACG1F one-port USB-C controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg2-usb-c-port-controller",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG2 USB Type-C port controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg3pa-automotive-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG3PA Automotive USB-C and Power Delivery controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg4-two-port-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG4 two-port USB-C and PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg5-ccg5c-dual-single-port-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG5 dual-port and CCG5C single-port USB-C PD controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg6-one-port-usb-c-pd-controller",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG6 one-port USB-C & PD controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg6-cfp-ccg8-cfp",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG6_CFP and EZ-PD™ CCG8_CFP Dual-Single-Port USB-C PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg6df-ccg6sf-dual-single-port-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG6DF dual-port and CCG6SF single-port USB-C PD controllers"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg7d-automotive-dual-port-usb-c-pd-plus-dc-dc-controller",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG7D Automotive dual-port USB-C PD + DC-DC controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg7s-automotive-single-port-usb-c-pd-plus-dc-dc-controller",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG7S Automotive single-port USB-C PD solution with a DC-DC controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg7saf-automotive-single-port-usb-c-pd-plus-dc-dc-controller-plus-fets",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG7SAF Automotive Single-port USB-C PD + DC-DC Controller + FETs"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-ccg8-dual-single-port-usb-c-pd",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CCG8 dual-single-port USB-C PD"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-cmg1-usb-c-emca-controller",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CMG1 USB-C EMCA controller"
+  },
+  {
+    "url": "https://www.infineon.com/products/universal-serial-bus/usb-c-power-delivery-controllers/ez-pd-cmg2-usb-c-emca-controller-with-epr",
+    "category": "Universal Serial Bus (USB)^USB-C Power Delivery controllers^EZ-PD™ CMG2 USB-C EMCA controller with EPR"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-automotive-wireless",
+    "category": "Wireless connectivity^AIROC™ Automotive wireless"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/airoc-bluetooth-le",
+    "category": "Wireless connectivity^AIROC™ Bluetooth® and multiprotocol^AIROC™ Bluetooth® LE"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/airoc-bluetooth-le-bluetooth",
+    "category": "Wireless connectivity^AIROC™ Bluetooth® and multiprotocol^AIROC™ Bluetooth® MCUs"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/airoc-bluetooth-modules",
+    "category": "Wireless connectivity^AIROC™ Bluetooth® and multiprotocol^AIROC™ Bluetooth® modules"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/psoc-4-ble",
+    "category": "Wireless connectivity^AIROC™ Bluetooth® and multiprotocol^PSOC™ 4 BLE"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/psoc-63-ble",
+    "category": "Wireless connectivity^AIROC™ Bluetooth® and multiprotocol^PSOC™ 63 BLE"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-connected-mcu",
+    "category": "Wireless connectivity^AIROC™ connected MCU"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/wi-fi-4",
+    "category": "Wireless connectivity^AIROC™ Wi-Fi + Bluetooth® combos^Wi-Fi 4 (802.11n)"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/wi-fi-5-802-11ac",
+    "category": "Wireless connectivity^AIROC™ Wi-Fi + Bluetooth® combos^Wi-Fi 5 (802.11ac)"
+  },
+  {
+    "url": "https://www.infineon.com/products/wireless-connectivity/airoc-wi-fi-plus-bluetooth-combos/wi-fi-6-6e",
+    "category": "Wireless connectivity^AIROC™ Wi-Fi + Bluetooth® combos^Wi-Fi 6/6E (802.11ax)"
+  }
+]

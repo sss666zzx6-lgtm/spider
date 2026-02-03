@@ -1,0 +1,290 @@
+[
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=89&bookmarkid=287dde7e-e2c0-ea11-80e1-005056863180&blockId=%7b021020B2-734C-4020-BBB0-921528A8FAAC%7d",
+    "category": "AC-DC^PFC Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=93&bookmarkid=99bb278f-e2c0-ea11-80e1-005056863180&blockId=%7b43069A67-EE82-4F93-AE5D-E1DAF4781CCD%7d",
+    "category": "AC-DC^Multi-Mode Flyback Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=87&bookmarkid=fc6071a6-e2c0-ea11-80e1-005056863180&blockId=%7bF5912286-B869-4BFF-A340-E303AA1121F8%7d",
+    "category": "AC-DC^Secondary Side Regulators"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=119&bookmarkid=fb7c04c2-3dc6-ea11-80e1-005056863180&blockId=%7bC09A3477-54C7-4134-9A3A-E76ED3629A21%7d",
+    "category": "AC-DC^Synchronous Rectifier Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=138&bookmarkid=2aaafd96-1f16-ee11-80f5-005056863180&blockId=%7b373A156C-B5D2-4C7B-8E1F-2D9DED6A86A1%7d",
+    "category": "Amplifiers^Current Sense Amplifiers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=42&bookmarkid=1d7d1e2b-f2c0-ea11-80e1-005056863180&blockId=%7b44278318-63CF-4788-8AD5-DB09AB407F06%7d",
+    "category": "Amplifiers^OP Amps"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=69&bookmarkid=c87b7b71-fb22-eb11-80e1-005056863180&blockId=%7b062BC5F7-2A75-4FC1-92E5-91431F37EA3C%7d",
+    "category": "Audio^Class-D Audio Power Amplifiers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=43&bookmarkid=a74fe4c1-fb22-eb11-80e1-005056863180&blockId=%7bF2C5C378-FC6B-453D-9635-3B234DB48864%7d",
+    "category": "Audio^Smart Audio Amplifiers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=99&bookmarkid=66a444eb-f1c0-ea11-80e1-005056863180&blockId=%7b29FB1F70-4174-41C7-818D-B1B60EF718E1%7d",
+    "category": "Audio^Audio Switches"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=27&bookmarkid=e266099a-6c8a-ee11-8100-0050568dc1fc&blockId=%7bFF842851-04EF-455D-B123-9C2C63EB4641%7d",
+    "category": "Battery Management^Single Cell Li-ion Battery Chargers^Linear Chargers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=27&bookmarkid=13cde503-6d8a-ee11-8100-0050568dc1fc&blockId=%7bE42C9A37-8E6B-4427-8CED-7350BD9D17F5%7d",
+    "category": "Battery Management^Single Cell Li-ion Battery Chargers^Switching Chargers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=27&bookmarkid=b6a30f4b-3223-eb11-80e8-0050568d03c7&blockId=%7b37374790-5281-4137-94F7-78C37DF68335%7d",
+    "category": "Battery Management^Single Cell Li-ion Battery Chargers^Direct Charge"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=105&bookmarkid=b3c757ce-e0c0-ea11-80e1-005056863180&blockId=%7b7F7F50DB-7853-4AC1-A32A-18FF3C106D15%7d",
+    "category": "Battery Management^Multiple Cell Li-ion Battery Chargers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=107&blockId=%7b9EAAFD50-73E3-49C3-8824-189D271D6CE2%7d",
+    "category": "Battery Management^Wireless Power Solutions^Receivers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=135&blockId=%7bC76F582F-C124-4C3D-ACF7-DEFFD2B044F2%7d",
+    "category": "Battery Management^Wireless Power Solutions^Transmitters"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=28&bookmarkid=86910430-e1c0-ea11-80e1-005056863180&blockId=%7bAA65AC16-293B-4989-8745-64E0D6203D54%7d",
+    "category": "Battery Management^Monitoring and Protection"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=65&bookmarkid=65dc3241-e1c0-ea11-80e1-005056863180&blockId=%7b4B466EE1-09E7-4098-8831-B656D3268ABE%7d",
+    "category": "Battery Management^Battery Fuel Gauge"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=73&bookmarkid=d7687a31-e2c0-ea11-80e1-005056863180&blockId=%7b5B04BDD3-B1A3-4B3F-8D22-4C48C92AA145%7d",
+    "category": "BLDC Motor Drivers^Motor Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=117&bookmarkid=9582e2e5-8ec2-ea11-80e1-005056863180&blockId=%7bD88BEDA7-380C-4B5E-A172-2778E4B9639F%7d",
+    "category": "BLDC Motor Drivers^Motor Drivers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=120&bookmarkid=0505c64d-e2c0-ea11-80e1-005056863180&blockId=%7b3E05DFEA-02AB-4D7E-AB3D-3ADFEA203F7A%7d",
+    "category": "BLDC Motor Drivers^System Integrated  Power Modules (sIPM®)"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=116&bookmarkid=2005e23c-f2c0-ea11-80e1-005056863180&blockId=%7bB73A3BF0-5C14-49DE-9B10-24749CECD0E3%7d",
+    "category": "Gate Drivers & DrMOS^Gate Drivers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=96&bookmarkid=867d4347-f2c0-ea11-80e1-005056863180&blockId=%7b765CACA4-AC90-4C17-A403-3AFA055E17E3%7d",
+    "category": "Gate Drivers & DrMOS^DrMOS"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=124&bookmarkid=18e1fb87-2123-eb11-80e8-0050568d03c7&blockId=%7b494A563F-6732-4CEB-8C29-0A3A768F3C5E%7d",
+    "category": "LCD & OLED Display Power^LCD Bias Power"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=124&bookmarkid=d4a734c6-2123-eb11-80e8-0050568d03c7&blockId=%7bD02B51DF-3EBD-4781-9C36-FA5EFEC84B01%7d",
+    "category": "LCD & OLED Display Power^OLED Display Power for Mobile Devices"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=124&bookmarkid=864973d8-2123-eb11-80e8-0050568d03c7&blockId=%7b120E6FA3-A8DC-4F27-92F6-F6B09B42B3D6%7d",
+    "category": "LCD & OLED Display Power^OLED Display Power for Smart Watches"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=121&bookmarkid=25259400-0323-eb11-80e1-005056863180&blockId=%7bC0191FE9-A850-4B29-A136-04FF5FF73E1E%7d",
+    "category": "LED Drivers^Backlight LED Drivers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=122&bookmarkid=84a5062a-0323-eb11-80e1-005056863180&blockId=%7bFA51FDB7-8B3A-418C-B351-05EEDF0EE6CD%7d",
+    "category": "LED Drivers^Flash LED Drivers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=30&bookmarkid=602d5470-f2c0-ea11-80e1-005056863180&blockId=%7bCF172088-7686-4991-8B28-07E915BF2717%7d",
+    "category": "LED Drivers^RGB & White LED Drivers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=8c919a35-6b8a-ee11-8100-0050568dc1fc&blockId=%7bCB24CCE1-D752-4FF6-8C96-2F64F7F41DD2%7d",
+    "category": "Linear Regulators^Single Output"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=13&blockId=%7bBA867805-1AF4-4687-B0AF-53265AB8629F%7d",
+    "category": "Linear Regulators^Multiple Output"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=af621701-3823-eb11-80e8-0050568d03c7&blockId=%7b83ED03D8-8446-412A-A7E2-364BFF7DC152%7d",
+    "category": "Linear Regulators^Wide Vin"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=d2de3473-3823-eb11-80e8-0050568d03c7&blockId=%7b8760990C-217B-4BC2-B056-DFFE1C4CF143%7d",
+    "category": "Linear Regulators^Low Iq^Iq ≤ 2μA"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=cf9e543a-3823-eb11-80e8-0050568d03c7&blockId=%7b4A61CE74-3AEC-4F02-9994-32280E8BBB81%7d",
+    "category": "Linear Regulators^Low Iq^Iq ≤ 30μA"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=4769df8f-3823-eb11-80e8-0050568d03c7&blockId=%7b5B63CFDD-36E7-4FBD-94AA-F882917C72FB%7d",
+    "category": "Linear Regulators^Low Noise & High PSRR^Low Noise"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=9cdc30b5-3823-eb11-80e8-0050568d03c7&blockId=%7b72F114F0-4C91-4CEE-88F7-6960D6E6E9C3%7d",
+    "category": "Linear Regulators^Low Noise & High PSRR^High PSRR"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=df832ec5-3823-eb11-80e8-0050568d03c7&blockId=%7b8B6D92BE-9BF1-4C3B-B946-A79B0CC7B133%7d",
+    "category": "Linear Regulators^Automotive & Industrial^Automotive"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=11&bookmarkid=55e104e9-3823-eb11-80e8-0050568d03c7&blockId=%7bC948419A-31B2-4DDE-9E75-D9836875FE1B%7d",
+    "category": "Linear Regulators^Automotive & Industrial^Industrial"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=14&bookmarkid=54e9e197-6de7-ea11-80e1-005056863180&blockId=%7bE74BE13F-663A-489E-851E-8AB3E9D4E1E7%7d",
+    "category": "Memory Power Solutions^DDR I/II/III/IV Power Solutions"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=37&bookmarkid=777793ae-2423-eb11-80e8-0050568d03c7&blockId=%7bA724E1C8-8D6D-4B5A-A30E-CA9FEC0EFE2B%7d",
+    "category": "PMICs^Automotive"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=37&bookmarkid=42e3f901-2523-eb11-80e8-0050568d03c7&blockId=%7b10CC6153-7CC9-4D51-A1AC-29C6AA30BC7A%7d",
+    "category": "PMICs^SSD"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=37&bookmarkid=4c65c5f1-2423-eb11-80e8-0050568d03c7&blockId=%7b4FFCD7A5-31E0-4F2D-85DC-81AA5A6D695F%7d",
+    "category": "PMICs^Portable Devices"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=37&bookmarkid=4068aee0-2423-eb11-80e8-0050568d03c7&blockId=%7b5A57216A-9D3A-42F6-AD01-6AB9CE2EA3B4%7d",
+    "category": "PMICs^PC"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=37&bookmarkid=68431313-2523-eb11-80e8-0050568d03c7&blockId=%7b0E0A3616-7AB1-4D7E-A2F7-E9A3BD9E10ED%7d",
+    "category": "PMICs^TV^PMICs"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=37&bookmarkid=a774ddce-2423-eb11-80e8-0050568d03c7&blockId=%7bE02C9939-CA08-436B-825E-41D2119D1AD2%7d",
+    "category": "PMICs^TV^LNB Regulators"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=106&bookmarkid=eddf3daa-f1c0-ea11-80e1-005056863180&blockId=%7b0EDDB32B-C37E-4189-862A-704296BC95A3%7d",
+    "category": "Supervisors & Reset ICs^Power Monitoring and Protection"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=40&bookmarkid=d8b8dbc3-f1c0-ea11-80e1-005056863180&blockId=%7bD038D3AA-DB28-4099-A16B-B242651B4594%7d",
+    "category": "Supervisors & Reset ICs^Reset ICs"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=95&bookmarkid=194b4873-0423-eb11-80e1-005056863180&blockId=%7bECEFFF7A-4E11-4C23-BFEC-65278A5808D0%7d",
+    "category": "Supervisors & Reset ICs^Hot Swap Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=125&bookmarkid=7a5ab940-0423-eb11-80e1-005056863180&blockId=%7b9F202872-AAF8-4990-B618-B48F901F259D%7d",
+    "category": "Supervisors & Reset ICs^Secure Authentication"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=39&bookmarkid=53fa0926-2223-eb11-80e8-0050568d03c7&blockId=%7b4B5C9F8F-8F57-4F2B-BBE5-01D9C8FA1F4C%7d",
+    "category": "Switches^Analog Switches"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=39&bookmarkid=e254ef6b-2223-eb11-80e8-0050568d03c7&blockId=%7b3687CEA0-6193-4BE1-8D29-C79A98166E8A%7d",
+    "category": "Switches^Power Switches"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=39&bookmarkid=00df2f39-2223-eb11-80e8-0050568d03c7&blockId=%7bB767E3A4-5A1A-4CC1-B172-7B40CEEE9671%7d",
+    "category": "Switches^Load Switches"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=39&bookmarkid=99a62159-2223-eb11-80e8-0050568d03c7&blockId=%7b728FB347-8A17-425A-9F3A-5A580C14D9A9%7d",
+    "category": "Switches^Power Muxes"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=17&bookmarkid=b0067f1e-3d23-eb11-80e8-0050568d03c7&blockId=%7b73C2EB1D-41CC-4D10-A6FF-F3959913DA7C%7d",
+    "category": "Switching Regulators^Step-Down (Buck)^Vin < 8V"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=17&bookmarkid=96e22f54-3d23-eb11-80e8-0050568d03c7&blockId=%7bFF166009-FC21-42BE-9737-288F7E1667A4%7d",
+    "category": "Switching Regulators^Step-Down (Buck)^Vin: 8~30V"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=17&bookmarkid=3097fd6e-3d23-eb11-80e8-0050568d03c7&blockId=%7bAA1EAAB6-E333-4717-8840-13B04D5BEB9F%7d",
+    "category": "Switching Regulators^Step-Down (Buck)^Vin > 30V"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=22&bookmarkid=b52b781a-ccc0-ea11-80e1-005056863180&blockId=%7bAEF2CE4A-4BC7-4FAE-9311-54AEB10859F6%7d",
+    "category": "Switching Regulators^Step-Down (Buck)^Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=18&bookmarkid=67ae9029-ccc0-ea11-80e1-005056863180&blockId=%7b2189C130-96D1-419D-9F92-8EB047D7DE24%7d",
+    "category": "Switching Regulators^Step-Up (Boost)^Converters"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=23&bookmarkid=b19caf87-dfc0-ea11-80e1-005056863180&blockId=%7bBCCBDC43-89E4-402A-936F-86D97A83D502%7d",
+    "category": "Switching Regulators^Step-Up (Boost)^Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=53&bookmarkid=5801159c-dfc0-ea11-80e1-005056863180&blockId=%7bC73415AC-BB27-4CA7-B03E-4855325B2FFC%7d",
+    "category": "Switching Regulators^Step-Up or Step-Down (Buck-Boost)^Converters"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=136&bookmarkid=06a60eed-8151-ec11-80e9-005056863180&blockId=%7bDC4A15AA-3922-4879-9121-DDFD6CE2576E%7d",
+    "category": "Switching Regulators^Step-Up or Step-Down (Buck-Boost)^Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=24&bookmarkid=c88909c1-dfc0-ea11-80e1-005056863180&blockId=%7b13FFB874-DC56-445C-A4BA-4B31740F5DCF%7d",
+    "category": "Switching Regulators^Multi-Phase Step-Down"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=17&bookmarkid=4f9ec4d6-3d23-eb11-80e8-0050568d03c7&blockId=%7b30DA6A9B-E1B5-44D5-8312-E8922CF63A81%7d",
+    "category": "Switching Regulators^Digital Interface Control^Step-Down"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=18&bookmarkid=43d50108-3e23-eb11-80e8-0050568d03c7&blockId=%7b581971A4-B56B-4C32-A34E-24241A02F937%7d",
+    "category": "Switching Regulators^Digital Interface Control^Step-Up"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=53&bookmarkid=01916731-3e23-eb11-80e8-0050568d03c7&blockId=%7bE5F5DA14-0782-4433-8836-B8DC4AC70224%7d",
+    "category": "Switching Regulators^Digital Interface Control^Step-Up/Down"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=114&bookmarkid=22049664-c2ad-ee11-8100-0050568dc1fc&blockId=%7b23D30DA0-698B-4EF4-86E5-7415E33160DE%7d",
+    "category": "USB Type-C & PD Solutions^USB PD Type-C Port Controllers"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=114&bookmarkid=6ca2b15e-2323-eb11-80e8-0050568d03c7&blockId=%7bB78D6B21-BF6E-4AD1-AAA6-0C251BFC109B%7d",
+    "category": "USB Type-C & PD Solutions^USB PD Controllers for AC-DC Power"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=114&bookmarkid=f4932b74-2323-eb11-80e8-0050568d03c7&blockId=%7b84181D83-64F8-4CE7-B5B3-31286AB3CF9F%7d",
+    "category": "USB Type-C & PD Solutions^USB PD Controllers for DC-DC Power"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=114&bookmarkid=712e518a-2323-eb11-80e8-0050568d03c7&blockId=%7b2F21FD70-C845-4D8D-A53B-2D08AAAB44A0%7d",
+    "category": "USB Type-C & PD Solutions^USB Interface"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=111&bookmarkid=7aaae8ae-2323-eb11-80e8-0050568d03c7&blockId=%7bF58B002D-AB72-4ED9-9B72-021C7448E13F%7d",
+    "category": "USB Type-C & PD Solutions^e-Marker"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=55&bookmarkid=f45aaf4f-0523-eb11-80e1-005056863180&blockId=%7b0A3B4893-3400-406A-B9AC-276F826C15A8%7d",
+    "category": "Vcore^Intel Vcore Solutions"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=123&bookmarkid=ed1e0026-0523-eb11-80e1-005056863180&blockId=%7b45B9DE0F-4094-4958-9053-5D8AA30A6C65%7d",
+    "category": "Vcore^AMD Vcore Solutions"
+  },
+  {
+    "url": "https://www.richtek.com/Parametric%20Search/Parametric%20Search?tree_id=25&bookmarkid=99abe3ce-e2c0-ea11-80e1-005056863180&blockId=%7b7FA0AD6B-867B-4ECE-8D3E-B94C408CEE9C%7d",
+    "category": "Vcore^Reference Voltage Generators"
+  }
+]

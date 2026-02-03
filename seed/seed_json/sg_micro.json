@@ -1,0 +1,366 @@
+[
+  {
+    "url": "https://www.sg-micro.com/products/operational-amplifiers-opamps",
+    "category": "Analog and Mixed-signal^Amplifiers^Operational Amplifiers (OpAmps)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/instrumentation-amplifiers",
+    "category": "Analog and Mixed-signal^Amplifiers^Instrumentation Amplifiers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/current-sense-amplifiers",
+    "category": "Analog and Mixed-signal^Amplifiers^Current-sense Amplifiers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/differential-amplifiers",
+    "category": "Analog and Mixed-signal^Amplifiers^Differential Amplifiers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/application-specific",
+    "category": "Analog and Mixed-signal^Amplifiers^Application-Specific Amplifiers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/comparators",
+    "category": "Analog and Mixed-signal^Amplifiers^Comparators"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/digital-to-analog-converters-dacs",
+    "category": "Analog and Mixed-signal^Data Converters^Digital-to-analog Converters (DACs)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/analog-to-digital-converters-adcs",
+    "category": "Analog and Mixed-signal^Data Converters^Analog-to-digital Converters (ADCs)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/afe",
+    "category": "Analog and Mixed-signal^Data Converters^AFE"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/series-voltage-references",
+    "category": "Analog and Mixed-signal^Voltage References^Series Voltage References"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/shunt-voltage-references",
+    "category": "Analog and Mixed-signal^Voltage References^Shunt Voltage References"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/audio-amplifiers",
+    "category": "Analog and Mixed-signal^Audio & Video Products^Audio Amplifiers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/click-pop-suppressors",
+    "category": "Analog and Mixed-signal^Audio & Video Products^Click-Pop Suppressors"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/audio-line-drivers",
+    "category": "Analog and Mixed-signal^Audio & Video Products^Audio Line Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/audio-converters",
+    "category": "Analog and Mixed-signal^Audio & Video Products^Audio Converters"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/video-buffers",
+    "category": "Analog and Mixed-signal^Audio & Video Products^Video Buffers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/logic-gates",
+    "category": "Analog and Mixed-signal^Logic Ics^Logic Gates"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/buffers-drivers-transceivers",
+    "category": "Analog and Mixed-signal^Logic Ics^Buffers, Drivers & Transceivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/flip-flops-latches-registers",
+    "category": "Analog and Mixed-signal^Logic Ics^Flip-flops, Latches & Registers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/specialty-logic-ics",
+    "category": "Analog and Mixed-signal^Logic Ics^Specialty Logic ICs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/auto-direction",
+    "category": "Analog and Mixed-signal^Level Shifters^Auto Direction Level Shifters"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/fixed-direction",
+    "category": "Analog and Mixed-signal^Level Shifters^Fixed Direction Level Shifters"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/direction-controlled",
+    "category": "Analog and Mixed-signal^Level Shifters^Direction Controlled Level Shifters"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/application-specific-level-shifters",
+    "category": "Analog and Mixed-signal^Level Shifters^Application Specific Level Shifters"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/esd-protection",
+    "category": "Analog and Mixed-signal^Interface^ESD Protection"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/i2c-ics",
+    "category": "Analog and Mixed-signal^Interface^I2C ICs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/multi-switch-detection-interface-ics",
+    "category": "Analog and Mixed-signal^Interface^Multi-switch Detection Interface (MSDI) ICs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/usb-ics",
+    "category": "Analog and Mixed-signal^Interface^USB ICs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/analog-switches",
+    "category": "Analog and Mixed-signal^Analog Switches & Multiplexers^Analog Switches"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/usb-switches",
+    "category": "Analog and Mixed-signal^Analog Switches & Multiplexers^USB Switches"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/bus-switches",
+    "category": "Analog and Mixed-signal^Analog Switches & Multiplexers^Bus Switches"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/multiplexers",
+    "category": "Analog and Mixed-signal^Analog Switches & Multiplexers^Multiplexers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/protocol-specific",
+    "category": "Analog and Mixed-signal^Analog Switches & Multiplexers^Protocol Specific"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/digital-temperature-sensors",
+    "category": "Analog and Mixed-signal^Temperature Sensors^Digital Temperature Sensors"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/analog-temperature-sensors",
+    "category": "Analog and Mixed-signal^Temperature Sensors^Analog Temperature Sensors"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/power-amplifiers",
+    "category": "Analog and Mixed-signal^RF Products^Power Amplifiers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/rf-switch",
+    "category": "Analog and Mixed-signal^RF Products^RF Switch"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/rf-lna",
+    "category": "Analog and Mixed-signal^RF Products^RF LNA"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/quad-matched-resistor",
+    "category": "Analog and Mixed-signal^Precision Resistor Network^Quad Matched Resistor"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/magnetic-encoder",
+    "category": "Analog and Mixed-signal^AMR Sensors^Magnetic Encoder"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/angular-position-sensors",
+    "category": "Analog and Mixed-signal^AMR Sensors^Angular Position Sensors"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/magnetic-switches",
+    "category": "Analog and Mixed-signal^AMR Sensors^Magnetic Switches"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/step-up-boost-regulators",
+    "category": "Power Management^DC/DC Switching Regulators^Step-up (boost) Regulators"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/step-down-buck-regulators",
+    "category": "Power Management^DC/DC Switching Regulators^Step-down (buck) Regulators"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/buck-boost-regulators",
+    "category": "Power Management^DC/DC Switching Regulators^Buck-boost Regulators"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/inverting-regulators",
+    "category": "Power Management^DC/DC Switching Regulators^Inverting Regulators"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/switching-power-supply-controller",
+    "category": "Power Management^DC/DC Switching Regulators^Switching Power Supply Controller"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/charge-pumps-inductorless",
+    "category": "Power Management^DC/DC Switching Regulators^Charge Pumps (Inductorless)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/isolated-power-supply",
+    "category": "Power Management^DC/DC Switching Regulators^Isolated Power Supplies"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/step-up-controllers",
+    "category": "Power Management^DC/DC Switching Regulators^Step-up (boost) Controllers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/buck-controllers",
+    "category": "Power Management^DC/DC Switching Regulators^Step-down (buck) Controllers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/low-vin-7-v",
+    "category": "Power Management^Linear & Low-dropout (LDO) Regulators^LDO Low VIN (≤7 V)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/mid-vin-7-v-to-30-v",
+    "category": "Power Management^Linear & Low-dropout (LDO) Regulators^LDO Mid VIN (7 V to 30 V)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/wide-vin-30-v",
+    "category": "Power Management^Linear & Low-dropout (LDO) Regulators^LDO Wide VIN (>30 V)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/p-channel-mosfets",
+    "category": "Power Management^MOSFETs^P-channel MOSFETs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/n-channel-mosfets",
+    "category": "Power Management^MOSFETs^N-channel MOSFETs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/linear-regulation-chargers",
+    "category": "Power Management^Battery Management and Protection Ics^Linear Chargers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/switching-chargers",
+    "category": "Power Management^Battery Management and Protection Ics^Switching Chargers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/switched-cap-chargers",
+    "category": "Power Management^Battery Management and Protection Ics^Switched Cap Chargers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/battery-protection-ics",
+    "category": "Power Management^Battery Management and Protection Ics^Battery Protection ICs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/multi-supply-monitors",
+    "category": "Power Management^System Power Management and Supervisory Ics^Multi-Supply Monitors"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/single-supply-monitors",
+    "category": "Power Management^System Power Management and Supervisory Ics^Single-Supply Monitors"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/watchdog-timer-only",
+    "category": "Power Management^System Power Management and Supervisory Ics^Watchdog Timer Only"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/supply-monitors-with-watchdog-timers",
+    "category": "Power Management^System Power Management and Supervisory Ics^Supply Monitors with Watchdog Timers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/supply-monitors-without-watchdog-timers",
+    "category": "Power Management^System Power Management and Supervisory Ics^Supply Monitors without Watchdog Timers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/hot-swap-controllers",
+    "category": "Power Management^Power Switches^Hot Swap Controllers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/over-voltage-protection-switch",
+    "category": "Power Management^Power Switches^Over-voltage Protection Switch"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/load-switches",
+    "category": "Power Management^Power Switches^Load Switches"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/ideal-diode-controllers",
+    "category": "Power Management^Power Switches^Ideal Diode Controllers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/lcd-bias-supplies",
+    "category": "Power Management^LCD & OLED Display Powers and Drivers^LCD Bias Supplies"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/amoled-display-supplies",
+    "category": "Power Management^LCD & OLED Display Powers and Drivers^AMOLED Display Supplies"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/automotive-led-drivers",
+    "category": "Power Management^LED Drivers^Automotive LED Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/backlight-led-drivers",
+    "category": "Power Management^LED Drivers^Backlight LED Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/rgb-led-drivers",
+    "category": "Power Management^LED Drivers^RGB LED Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/led-flash-drivers",
+    "category": "Power Management^LED Drivers^LED Flash Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/brushed-dc-bdc-motor-drivers",
+    "category": "Power Management^Motor & Gate Drivers^Brushed DC (BDC) Motor Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/brushless-dc-bldc-motor-drivers",
+    "category": "Power Management^Motor & Gate Drivers^Brushless DC (BLDC) Motor Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/stepper-motor-drivers",
+    "category": "Power Management^Motor & Gate Drivers^Stepper Motor Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/high-side-drivers",
+    "category": "Power Management^Motor & Gate Drivers^High-side Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/low-side",
+    "category": "Power Management^Motor & Gate Drivers^Low-side Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/low-side-drivers",
+    "category": "Power Management^Motor & Gate Drivers^Low-side Gate Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/half-bridge-gate-driver",
+    "category": "Power Management^Motor & Gate Drivers^Half-bridge Gate Driver"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/actuator-drivers",
+    "category": "Power Management^Motor & Gate Drivers^Actuator Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/tec-drivers",
+    "category": "Power Management^Application Specific Auxiliary Power Ics^TEC Drivers"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/eml-bias-ics",
+    "category": "Power Management^Application Specific Auxiliary Power Ics^EML Bias ICs"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/apd-bias",
+    "category": "Power Management^Application Specific Auxiliary Power Ics^APD Bias"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/backup-power",
+    "category": "Power Management^Application Specific Auxiliary Power Ics^Backup Power"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/afe-for-siph",
+    "category": "Power Management^Application Specific Auxiliary Power Ics^AFE for SiPh"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/power-management-unit",
+    "category": "Power Management^Power Management Unit (PMU)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/system-basis-chips",
+    "category": "Power Management^System Basis Chips (SBCs)"
+  },
+  {
+    "url": "https://www.sg-micro.com/products/power-modules",
+    "category": "Power Management^Power Modules"
+  }
+]

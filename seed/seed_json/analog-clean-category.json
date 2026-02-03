@@ -1,0 +1,582 @@
+[
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2989.js",
+    "name": "Amplifiers^Operational Amplifiers^High-Speed Op Amps"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3913.js",
+    "name": "Amplifiers^Operational Amplifiers^Precision Op Amps"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2403.js",
+    "name": "Amplifiers^Operational Amplifiers^Rail-to-Rail Op Amps"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3914.js",
+    "name": "Amplifiers^Operational Amplifiers^Zero-Drift Op Amps"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2391.js",
+    "name": "Amplifiers^Active Filters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2392.js",
+    "name": "Amplifiers^Amplifier-Based Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2393.js",
+    "name": "Amplifiers^Audio Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2394.js",
+    "name": "Amplifiers^Comparators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2396.js",
+    "name": "Amplifiers^Current Sense Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2803.js",
+    "name": "Amplifiers^Difference Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2397.js",
+    "name": "Amplifiers^Differential Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2398.js",
+    "name": "Amplifiers^Instrumentation Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2400.js",
+    "name": "Amplifiers^Linear Multipliers & Dividers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3045.js",
+    "name": "Amplifiers^LNAs & Power Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2395.js",
+    "name": "Amplifiers^Matched Resistors & Transistors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2404.js",
+    "name": "Amplifiers^RMS to DC Converters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2405.js",
+    "name": "Amplifiers^Sample & Hold Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2406.js",
+    "name": "Amplifiers^Transimpedance Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2407.js",
+    "name": "Amplifiers^Variable Gain Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2409.js",
+    "name": "Clocks & Timers^Clock & Data Recovery"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2410.js",
+    "name": "Clocks & Timers^Clocks"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2428.js",
+    "name": "Clocks & Timers^Fanout Buffers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2411.js",
+    "name": "Clocks & Timers^Oscillators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2412.js",
+    "name": "Clocks & Timers^Pulse & PWM Generators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2413.js",
+    "name": "Clocks & Timers^Real Time Clocks & Timers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3869.js",
+    "name": "Data Converters^ADC/DAC Combo Converters^High Speed ADC/DAC Combos"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3870.js",
+    "name": "Data Converters^ADC/DAC Combo Converters^Precision ADC/DAC Combos"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2417.js",
+    "name": "Data Converters^Analog to Digital Converters^High Speed ADCs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2418.js",
+    "name": "Data Converters^Analog to Digital Converters^Precision ADCs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2423.js",
+    "name": "Data Converters^Digital to Analog Converters^High Speed DACs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2422.js",
+    "name": "Data Converters^Digital to Analog Converters^Precision DACs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3018.js",
+    "name": "Data Converters^Audio & Video Converters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2420.js",
+    "name": "Data Converters^Digital Potentiometers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2419.js",
+    "name": "Data Converters^Direct Digital Synthesis"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/4316.js",
+    "name": "Data Converters^Voltage to Frequency Converters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/4454.js",
+    "name": "Interface^A<sup>2</sup>B Audio Bus"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3018.js",
+    "name": "Interface^Audio & Video Converters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2426.js",
+    "name": "Interface^Automatic Test Equipment"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3028.js",
+    "name": "Interface^Digital & Analog I/O"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3031.js",
+    "name": "Interface^Ethernet Transceivers & Switches"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2429.js",
+    "name": "Interface^Flip Flops & Logic Gates"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3017.js",
+    "name": "Interface^HDMI & Video Interface"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2431.js",
+    "name": "Interface^Interface Receivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2432.js",
+    "name": "Interface^Interface Transceivers & Isolators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2433.js",
+    "name": "Interface^Interface Transmitters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2430.js",
+    "name": "Interface^I/O Expanders"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2434.js",
+    "name": "Interface^Level Translators & Buffers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2399.js",
+    "name": "Interface^Limiting Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3947.js",
+    "name": "Interface^RS-232 & RS-485 Interface"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2435.js",
+    "name": "Interface^SerDes & GMSL"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3032.js",
+    "name": "Isolation^Isolated Interface^Isolated CAN"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2991.js",
+    "name": "Isolation^Isolated Interface^Isolated I<sup>2</sup>C"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3000.js",
+    "name": "Isolation^Isolated Interface^Isolated LVDS"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2992.js",
+    "name": "Isolation^Isolated Interface^Isolated RS-485 & RS-232"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2998.js",
+    "name": "Isolation^Isolated Interface^Isolated SPI"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2999.js",
+    "name": "Isolation^Isolated Interface^Isolated USB"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3002.js",
+    "name": "Isolation^Digital Isolators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2994.js",
+    "name": "Isolation^Isolated ADCs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2993.js",
+    "name": "Isolation^Isolated Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2996.js",
+    "name": "Isolation^Isolated Gate Drivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/4371.js",
+    "name": "Isolation^Isolated Regulators & Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2997.js",
+    "name": "Isolation^Isolated Transceivers with DC-DC Converters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2950.js",
+    "name": "Memory^iButton"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2951.js",
+    "name": "Memory^iButton Accessories"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2952.js",
+    "name": "Memory^Memory & Data Loggers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3995.js",
+    "name": "Motors & Motion Control^Motor Drivers & Motion Controllers^Motor Drivers & Motion Controllers ICs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3994.js",
+    "name": "Motors & Motion Control^Motor Drivers & Motion Controllers^Motor Drivers & Motion Controllers Modules"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2941.js",
+    "name": "Motors & Motion Control^Brushless DC Motors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2464.js",
+    "name": "Motors & Motion Control^Motor Encoders"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3992.js",
+    "name": "Motors & Motion Control^Smart Motors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2942.js",
+    "name": "Motors & Motion Control^Stepper Motors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2452.js",
+    "name": "Power Management^Battery Management^Battery Chargers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2453.js",
+    "name": "Power Management^Battery Management^Battery Monitors & Fuel Gauges"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3916.js",
+    "name": "Power Management^Battery Management^Multifunction Battery Chargers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3681.js",
+    "name": "Power Management^Battery Management^USB Charging"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3989.js",
+    "name": "Power Management^PoE Controllers^PoE Powered Devices"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3988.js",
+    "name": "Power Management^PoE Controllers^PoE Power Sourcing Equipment"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2470.js",
+    "name": "Power Management^Switching Regulators & Controllers^Boost Regulators & Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3949.js",
+    "name": "Power Management^Switching Regulators & Controllers^Buck-Boost Regulators & Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2469.js",
+    "name": "Power Management^Switching Regulators & Controllers^Buck Regulators & Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/4371.js",
+    "name": "Power Management^Switching Regulators & Controllers^Isolated Regulators & Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3891.js",
+    "name": "Power Management^Switching Regulators & Controllers^µModule Regulators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2454.js",
+    "name": "Power Management^Charge Pumps"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2455.js",
+    "name": "Power Management^Circuit Monitors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2467.js",
+    "name": "Power Management^Fan Speed & TEC Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2456.js",
+    "name": "Power Management^Hot Swap Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2457.js",
+    "name": "Power Management^Lamp & Tube Drivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2458.js",
+    "name": "Power Management^LED Drivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2459.js",
+    "name": "Power Management^Linear Regulators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2460.js",
+    "name": "Power Management^MOSFET & Gate Drivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3887.js",
+    "name": "Power Management^PMIC"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2753.js",
+    "name": "Power Management^Power System Managers & Sequencers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3026.js",
+    "name": "Power Management^Protection Switches & Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3027.js",
+    "name": "Power Management^Supervisors & Resets"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3897.js",
+    "name": "Processors & Microcontrollers^Audio Processors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3020.js",
+    "name": "Processors & Microcontrollers^DSP"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3896.js",
+    "name": "Processors & Microcontrollers^Heterogeneous Multicore Processors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3019.js",
+    "name": "Processors & Microcontrollers^Microcontrollers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2444.js",
+    "name": "RF & Microwave^Analog RF Receivers & Transmitters^RF Analog Receivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2445.js",
+    "name": "RF & Microwave^Analog RF Receivers & Transmitters^RF Analog Transceivers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2446.js",
+    "name": "RF & Microwave^Analog RF Receivers & Transmitters^RF Analog Transmitters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3004.js",
+    "name": "RF & Microwave^RF Amplifiers^RF Amplifier-Based Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3005.js",
+    "name": "RF & Microwave^RF Amplifiers^RF Differential Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3006.js",
+    "name": "RF & Microwave^RF Amplifiers^RF Gain Blocks"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3007.js",
+    "name": "RF & Microwave^RF Amplifiers^RF Low Noise Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3008.js",
+    "name": "RF & Microwave^RF Amplifiers^RF Power Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3009.js",
+    "name": "RF & Microwave^RF Amplifiers^RF Variable Gain Amplifiers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2437.js",
+    "name": "RF & Microwave^Beamformers & Vector Modulators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2439.js",
+    "name": "RF & Microwave^Frequency Dividers & Multipliers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3953.js",
+    "name": "RF & Microwave^Mixed Signal Front End (MxFE)"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2441.js",
+    "name": "RF & Microwave^Modulators & Demodulators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2411.js",
+    "name": "RF & Microwave^Oscillators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2442.js",
+    "name": "RF & Microwave^Phase Shifters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2752.js",
+    "name": "RF & Microwave^PLL Synthesizers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3023.js",
+    "name": "RF & Microwave^RF ADCs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2438.js",
+    "name": "RF & Microwave^RF Attenuators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3024.js",
+    "name": "RF & Microwave^RF DACs"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2440.js",
+    "name": "RF & Microwave^RF Mixers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2443.js",
+    "name": "RF & Microwave^RF Power Detectors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3010.js",
+    "name": "RF & Microwave^RF Switches"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3025.js",
+    "name": "RF & Microwave^Software Defined Radio"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2447.js",
+    "name": "RF & Microwave^Tunable Filters"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3029.js",
+    "name": "Security & Authentication^Secure Authenticators"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3030.js",
+    "name": "Security & Authentication^Security Managers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3900.js",
+    "name": "Sensors^Sensor Analog Front Ends^Biosensor Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3012.js",
+    "name": "Sensors^Sensor Analog Front Ends^Electrochemical Sensor Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3013.js",
+    "name": "Sensors^Sensor Analog Front Ends^Magnetic Sensor Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3902.js",
+    "name": "Sensors^Sensor Analog Front Ends^Optical Sensor Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3901.js",
+    "name": "Sensors^Sensor Analog Front Ends^Pressure Sensor Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3014.js",
+    "name": "Sensors^Sensor Analog Front Ends^Temperature Sensor Front Ends"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2772.js",
+    "name": "Sensors^Temperature Sensors^Analog Temperature Sensors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2750.js",
+    "name": "Sensors^Temperature Sensors^Digital Temperature Sensors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2751.js",
+    "name": "Sensors^Temperature Sensors^External Interface Temperature Sensors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2749.js",
+    "name": "Sensors^Temperature Sensors^Fan Speed Controllers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2773.js",
+    "name": "Sensors^Temperature Sensors^Temperature Switches"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2475.js",
+    "name": "Sensors^Accelerometers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2476.js",
+    "name": "Sensors^Gyroscopes"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2477.js",
+    "name": "Sensors^Inertial Measurement Units"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2478.js",
+    "name": "Sensors^Magnetic Sensors"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2479.js",
+    "name": "Sensors^Optical Sensors & Time of Flight"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2484.js",
+    "name": "Switches & Multiplexers^Analog Switches & Multiplexers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/2483.js",
+    "name": "Switches & Multiplexers^Crosspoint Switches"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3745.js",
+    "name": "Switches & Multiplexers^Digital Switches & Multiplexers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3015.js",
+    "name": "Switches & Multiplexers^Fault Protected Switches & Multiplexers"
+  },
+  {
+    "url": "https://www.analog.com/cdp/pst2/data/standard/3016.js",
+    "name": "Switches & Multiplexers^MEMS Switches"
+  }
+]

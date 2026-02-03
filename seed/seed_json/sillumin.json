@@ -1,0 +1,78 @@
+[
+  {
+    "url": "https://www.sillumin.com/product/isolated-drive.html",
+    "category": "驱动^门极驱动^隔离驱动"
+  },
+  {
+    "url": "https://www.sillumin.com/product/non-isolated-drive.html",
+    "category": "驱动^门极驱动^非隔离驱动"
+  },
+  {
+    "url": "https://www.sillumin.com/product/digital-drive.html",
+    "category": "驱动^门极驱动^数字驱动"
+  },
+  {
+    "url": "https://www.sillumin.com/product/stepper-motor.html",
+    "category": "驱动^电机驱动^步进电机"
+  },
+  {
+    "url": "https://www.sillumin.com/product/dc-motor.html",
+    "category": "驱动^电机驱动^直流电机"
+  },
+  {
+    "url": "https://www.sillumin.com/product/dc-brushless-motor.html",
+    "category": "驱动^电机驱动^直流无刷电机"
+  },
+  {
+    "url": "https://www.sillumin.com/product/digital-isolator.html",
+    "category": "信号与接口^数字隔离器"
+  },
+  {
+    "url": "https://www.sillumin.com/product/non-isolated-interface.html",
+    "category": "信号与接口^非隔离接口"
+  },
+  {
+    "url": "https://www.sillumin.com/product/isolated-interface.html",
+    "category": "信号与接口^隔离接口"
+  },
+  {
+    "url": "https://www.sillumin.com/product/isolated-sampling.html",
+    "category": "信号与接口^隔离采样"
+  },
+  {
+    "url": "https://www.sillumin.com/product/TEC-controller.html",
+    "category": "电源管理^TEC控制器"
+  },
+  {
+    "url": "https://www.sillumin.com/product/smart-shutdown-chip.html",
+    "category": "电源管理^智能光伏^智能关断芯片"
+  },
+  {
+    "url": "https://www.sillumin.com/product/smart-optimization-chip.html",
+    "category": "电源管理^智能光伏^智能优化芯片"
+  },
+  {
+    "url": "https://www.sillumin.com/product/boost-switching-regulator.html",
+    "category": "电源管理^开关电源^升压开关稳压器"
+  },
+  {
+    "url": "https://www.sillumin.com/product/buck-switching-regulator.html",
+    "category": "电源管理^开关电源^降压开关稳压器"
+  },
+  {
+    "url": "https://www.sillumin.com/product/charge-pump.html",
+    "category": "电源管理^开关电源^电荷泵"
+  },
+  {
+    "url": "https://www.sillumin.com/product/switching-power-supply-controller.html",
+    "category": "电源管理^开关电源^开关电源控制器"
+  },
+  {
+    "url": "https://www.sillumin.com/product/automotive-lighting.html",
+    "category": "电源管理^LED驱动^汽车照明"
+  },
+  {
+    "url": "https://www.sillumin.com/product/commercial-lighting.html",
+    "category": "电源管理^LED驱动^商业照明"
+  }
+]

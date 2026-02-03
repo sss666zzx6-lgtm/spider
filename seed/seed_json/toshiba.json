@@ -1,0 +1,258 @@
+[
+  {
+    "url": "/parametric?code=param_206&region=apc&lang=en",
+    "category": "Diodes^TVS Diodes (ESD Protection Diodes)"
+  },
+  {
+    "url": "/parametric?code=param_210&region=apc&lang=en",
+    "category": "Diodes^SiC Schottky Barrier Diodes"
+  },
+  {
+    "url": "/parametric?code=param_208&region=apc&lang=en",
+    "category": "Diodes^Schottky Barrier Diodes"
+  },
+  {
+    "url": "/parametric?code=param_204&region=apc&lang=en",
+    "category": "Diodes^Rectifier Diodes"
+  },
+  {
+    "url": "/parametric?code=param_207&region=apc&lang=en",
+    "category": "Diodes^Switching Diodes"
+  },
+  {
+    "url": "/parametric?code=param_205&region=apc&lang=en",
+    "category": "Diodes^Zener Diodes"
+  },
+  {
+    "url": "/parametric?code=param_209&region=apc&lang=en",
+    "category": "Diodes^Variable Capacitance Diodes"
+  },
+  {
+    "url": "/parametric?code=param_317&region=apc&lang=en",
+    "category": "MOSFETs^SiC MOSFETs"
+  },
+  {
+    "url": "/parametric?code=param_304&region=apc&lang=en",
+    "category": "MOSFETs^MOSFETs"
+  },
+  {
+    "url": "/parametric?code=param_314&region=apc&lang=en",
+    "category": "MOSFETs^MOSFETs (Complementary)"
+  },
+  {
+    "url": "/parametric?code=param_313&region=apc&lang=en",
+    "category": "MOSFETs^Automotive MOSFETs"
+  },
+  {
+    "url": "/parametric?code=param_316&region=apc&lang=en",
+    "category": "MOSFETs^SiC MOSFET Modules"
+  },
+  {
+    "url": "/parametric?code=param_306&region=apc&lang=en",
+    "category": "Bipolar Transistors^Bipolar Transistors"
+  },
+  {
+    "url": "/parametric?code=param_307&region=apc&lang=en",
+    "category": "Bipolar Transistors^Transistors with Bias Resistors (BRT, Digital Transistors)"
+  },
+  {
+    "url": "/parametric?code=param_305&region=apc&lang=en",
+    "category": "Bipolar Transistors^Junction FETs"
+  },
+  {
+    "url": "/parametric?code=param_312&region=apc&lang=en",
+    "category": "Bipolar Transistors^Multi-Chip Discrete Devices"
+  },
+  {
+    "url": "/parametric?code=param_308&region=apc&lang=en",
+    "category": "IGBTs/IEGTs^IGBTs"
+  },
+  {
+    "url": "/parametric?code=param_315&region=apc&lang=en",
+    "category": "IGBTs/IEGTs^IEGTs (PPI)"
+  },
+  {
+    "url": "/parametric?code=param_408&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Photocouplers (photo-IC output)"
+  },
+  {
+    "url": "/parametric?code=param_409&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Photocouplers (phototransistor & photodarlington transistor output)"
+  },
+  {
+    "url": "/parametric?code=param_411&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Photocouplers (photovoltaic output)"
+  },
+  {
+    "url": "/parametric?code=param_412&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Photocouplers (Isolation Amplifier)"
+  },
+  {
+    "url": "/parametric?code=param_413&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Automotive Photocouplers"
+  },
+  {
+    "url": "/parametric?code=param_414&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Standard Digital Isolators"
+  },
+  {
+    "url": "/parametric?code=param_406&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Photorelays (MOSFET Output)"
+  },
+  {
+    "url": "/parametric?code=param_410&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Photocouplers (phototriac & photothyristor output)"
+  },
+  {
+    "url": "/parametric?code=param_407&region=apc&lang=en",
+    "category": "Isolators/Solid State Relays^Fiber Couplers (TOSLINK™)"
+  },
+  {
+    "url": "/parametric?code=param_504&region=apc&lang=en",
+    "category": "Logic ICs^CMOS Logic ICs"
+  },
+  {
+    "url": "/parametric?code=param_505&region=apc&lang=en",
+    "category": "Logic ICs^One-Gate Logic ICs (L-MOS)"
+  },
+  {
+    "url": "/parametric?code=param_507&region=apc&lang=en",
+    "category": "Logic ICs^Bus Switches"
+  },
+  {
+    "url": "/parametric?code=param_506&region=apc&lang=en",
+    "category": "Logic ICs^Level Shifters"
+  },
+  {
+    "url": "/parametric?code=param_610&region=apc&lang=en",
+    "category": "Power Management ICs^LDO Regulators"
+  },
+  {
+    "url": "/parametric?code=param_616&region=apc&lang=en",
+    "category": "Power Management ICs^Load Switch ICs"
+  },
+  {
+    "url": "/parametric?code=param_619&region=apc&lang=en",
+    "category": "Power Management ICs^eFuse ICs"
+  },
+  {
+    "url": "/parametric?code=param_605&region=apc&lang=en",
+    "category": "Power Management ICs^LED Drivers"
+  },
+  {
+    "url": "/parametric?code=param_613&region=apc&lang=en",
+    "category": "Power Management ICs^Other Power Supply ICs"
+  },
+  {
+    "url": "/parametric?code=param_622&region=apc&lang=en",
+    "category": "Motor Driver ICs^Brushless DC Motor Driver ICs"
+  },
+  {
+    "url": "/parametric?code=param_621&region=apc&lang=en",
+    "category": "Motor Driver ICs^Brushed DC Motor Driver ICs"
+  },
+  {
+    "url": "/parametric?code=param_620&region=apc&lang=en",
+    "category": "Motor Driver ICs^Stepping Motor Driver ICs"
+  },
+  {
+    "url": "/parametric?code=param_618&region=apc&lang=en",
+    "category": "Intelligent Power ICs^3-phase Brushless DC Motor Driver ICs, built-in Power Devices"
+  },
+  {
+    "url": "/parametric?code=param_607&region=apc&lang=en",
+    "category": "Intelligent Power ICs^Automotive Driver ICs/Industrial Driver ICs"
+  },
+  {
+    "url": "/parametric?code=param_606&region=apc&lang=en",
+    "category": "Linear ICs^Operational Amplifier ICs and Comparator ICs"
+  },
+  {
+    "url": "/parametric?code=param_608&region=apc&lang=en",
+    "category": "Linear ICs^Transistor Arrays"
+  },
+  {
+    "url": "/parametric?code=param_623&region=apc&lang=en",
+    "category": "Linear ICs^Thermoflagger™ (Over temperature detection IC)"
+  },
+  {
+    "url": "/parametric?code=param_624&region=apc&lang=en",
+    "category": "Linear ICs^RF Switch"
+  },
+  {
+    "url": "/parametric?code=param_814&region=apc&lang=en",
+    "category": "Microcontroller^All Microcontrollers"
+  },
+  {
+    "url": "/parametric?code=param_805&region=apc&lang=en",
+    "category": "Microcontroller^TLCS-870/C1 Series and TLCS-870/C1E Series"
+  },
+  {
+    "url": "/parametric?code=param_813&region=apc&lang=en",
+    "category": "Microcontroller^TX00 Series"
+  },
+  {
+    "url": "/parametric?code=param_808&region=apc&lang=en",
+    "category": "Microcontroller^TX03 Series"
+  },
+  {
+    "url": "/parametric?code=param_815&region=apc&lang=en",
+    "category": "Microcontroller^TX04 Series"
+  },
+  {
+    "url": "/parametric?code=param_816&region=apc&lang=en",
+    "category": "Microcontroller^TXZ+ family"
+  },
+  {
+    "url": "/parametric?code=param_907&region=apc&lang=en",
+    "category": "Automotive Devices^Audio & Video Equipment ICs"
+  },
+  {
+    "url": "/parametric?code=param_905&region=apc&lang=en",
+    "category": "Automotive Devices^Automotive Motor Driver ICs/Automotive System Power Supplies ICs"
+  },
+  {
+    "url": "/parametric?code=param_912&region=apc&lang=en",
+    "category": "Automotive Devices^Automotive Video Processors"
+  },
+  {
+    "url": "/parametric?code=param_914&region=apc&lang=en",
+    "category": "Automotive Devices^Automotive Ethernet Bridge ICs"
+  },
+  {
+    "url": "/parametric?code=param_607&region=apc&lang=en",
+    "category": "Automotive Devices^Automotive driver ICs"
+  },
+  {
+    "url": "/parametric?code=param_313&region=apc&lang=en",
+    "category": "Automotive Devices^Automotive MOSFETs"
+  },
+  {
+    "url": "/parametric?code=param_413&region=apc&lang=en",
+    "category": "Automotive Devices^Automotive Photocouplers"
+  },
+  {
+    "url": "/parametric?code=param_909&region=apc&lang=en",
+    "category": "ASSPs^Interface Bridges (Mobile Peripheral Devices)"
+  },
+  {
+    "url": "/parametric?code=param_906&region=apc&lang=en",
+    "category": "ASSPs^Other Product ICs"
+  },
+  {
+    "url": "/parametric?code=param_904&region=apc&lang=en",
+    "category": "Wireless Communications Equipment ICs^Communications Equipment ICs"
+  },
+  {
+    "url": "/parametric?code=param_1004&region=apc&lang=en",
+    "category": "Sensors^Magnetic Sensors"
+  },
+  {
+    "url": "/parametric?code=param_1005&region=apc&lang=en",
+    "category": "Sensors^Linear Image Sensors"
+  },
+  {
+    "url": "/parametric?code=param_623&region=apc&lang=en",
+    "category": "Sensors^Thermoflagger™ (Over temperature detection IC)"
+  }
+]

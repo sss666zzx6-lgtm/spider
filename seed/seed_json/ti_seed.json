@@ -1,0 +1,1014 @@
+[
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12622&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^RF amplifiers^RF gain block amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12623&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^RF amplifiers^RF fully differential amplifiers (FDAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12625&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^RF amplifiers^RF variable gain amplifiers (VGAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=386000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^RF amplifiers^RF low noise amplifiers (LNAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1562&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Operational amplifiers (op amps)^General-purpose op amps"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3523&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Operational amplifiers (op amps)^Power op amps"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=585&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Operational amplifiers (op amps)^Audio op amps"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=72&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Operational amplifiers (op amps)^High-speed op amps (GBW ≥ 50 MHz)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=78&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Operational amplifiers (op amps)^Precision op amps (Vos<1mV)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1453&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Fully differential amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=512&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Isolated amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12140&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Line drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1468&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Transimpedance amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1470&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Transconductance amplifiers & laser drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2131&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Sample & hold amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2141&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Frequency converters"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=522&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Logarithmic amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6560&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^4-20mA signal conditioners"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=674&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Special function amplifiers^Video amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1913&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Programmable & variable gain amplifiers (PGAs & VGAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12342&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Current-sense amplifiers^Analog current-sense amplifiers with integrated shunt resistor"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12347&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Current-sense amplifiers^Digital power monitors with integrated shunt resistor"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3172&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Current-sense amplifiers^Analog current-sense amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3174&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Current-sense amplifiers^Digital power monitors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=500&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Instrumentation amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=50002&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Comparators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=505&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Amplifiers^Difference amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393300&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio amplifiers^Automotive audio amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393319&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio amplifiers^General-purpose audio amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393349&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio amplifiers^Mobile phone, tablet & wearable audio amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393359&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio amplifiers^PC & notebook audio amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393368&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio amplifiers^Speaker, TV & soundbar audio amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393398&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio amplifiers^Specialty audio amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3537&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Specialty audio ICs^PWM modulators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=584&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Specialty audio ICs^Audio clocks"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=932&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Specialty audio ICs^Lip sync delay ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=581&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio converters^Audio ADCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=582&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio converters^Audio DACs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=583&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Audio converters^Audio CODECs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1979&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Haptics & piezo drivers^Piezo drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1980&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Haptics & piezo drivers^Haptics drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=268011&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Audio, haptics & piezo^Haptics & piezo drivers^Ultrasonic cleaning ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1993&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Battery management ICs^Battery monitors & balancers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3057&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Battery management ICs^Battery authentication ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=411&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Battery management ICs^Battery charger ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=412&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Battery management ICs^Battery fuel gauges"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=413&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Battery management ICs^Battery protectors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1325&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^RF PLLs & synthesizers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1345&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^Real-time clocks (RTCs) & timers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3386&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^Oscillators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=350&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^Clock generators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=351&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^Clock jitter cleaners"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3633&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^Clock network synchronizers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=676&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Clocks & timing^Clock buffers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1900&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Digital potentiometers (digipots)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6860&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^RF transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1571&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^CCD & CIS imaging AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2026&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^Integrated precision ADCs & DACs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6562&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^Medical AFEs^Ultrasound AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6563&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^Medical AFEs^Computer tomography (CT) AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6564&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^Medical AFEs^Digital X-ray AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6565&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Integrated & special-function data converters^Medical AFEs^Biosensing AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1512&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Analog-to-digital converters (ADCs)^RF receivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2021&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Analog-to-digital converters (ADCs)^Isolated ADCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2019&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Analog-to-digital converters (ADCs)^Precision ADCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2020&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Analog-to-digital converters (ADCs)^High-speed ADCs (≥10 MSPS)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2932&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Digital-to-analog converters (DACs)^RF transmitters"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2022&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Digital-to-analog converters (DACs)^Precision DACs (≤10 MSPS)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2023&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Data converters^Digital-to-analog converters (DACs)^High-speed DACs (>10 MSPS)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399500&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Display & projection digital micromirror devices (DMDs)^Portable & consumer DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399520&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Display & projection digital micromirror devices (DMDs)^Home cinema, business & education DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399536&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Display & projection digital micromirror devices (DMDs)^Pro-AV & large venue DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=13030&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Automotive digital micromirror devices (DMDs)^Interior display DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=13033&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Automotive digital micromirror devices (DMDs)^Exterior lighting & projection DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399554&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Industrial digital micromirror devices (DMDs)^UV (<420nm) DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399580&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Industrial digital micromirror devices (DMDs)^NIR (>700nm) DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399606&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^Industrial digital micromirror devices (DMDs)^Visible (420 to 700nm) DMDs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399632&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "DLP products^DLP controllers & drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12473&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^CAN transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12478&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^LIN transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12482&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^System basis chips (SBCs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=206001&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^High-speed SerDes^V3Link SerDes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2114&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^High-speed SerDes^FPD-Link SerDes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2105&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^Serial digital interface (SDI) ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=308190&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^RS-232 & RS-485 multiprotocol transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1752&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^Ethernet ICs^Ethernet PHYs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3585&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^Ethernet ICs^Ethernet retimers, redrivers & mux-buffers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3610&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^IO-Link & digital I/Os"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3625&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^Multi-switch detection interface (MSDI) ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=365&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^UARTs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=543&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^RS-232 transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=545&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^RS-485 & RS-422 transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=546&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^LVDS, M-LVDS & PECL ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=657&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^PCIe, SAS & SATA ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1646&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^USB ICs^USB redrivers & multiplexers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=17000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^USB ICs^USB hubs & controllers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3391&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^USB ICs^USB Type-C & USB Power Delivery ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3630&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^USB ICs^USB port protection ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=738&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^HDMI, DisplayPort & MIPI ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=739&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^Optical networking ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=747&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^Other interfaces"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1649&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^I2C, I3C & SPI ICs^I2C & SPI general-purpose I/Os (GPIOs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1650&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^I2C, I3C & SPI ICs^I2C & I3C switches & multiplexers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1651&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Interface^I2C, I3C & SPI ICs^I2C & I3C level shifters, buffers & hubs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3125&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated gate drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=193042&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated comparators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=193044&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Power for signal isolators^Signal isolators with integrated power"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3126&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Power for signal isolators^Transformer drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2021&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated ADCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=268010&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Opto-emulators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3121&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Digital isolators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=334487&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated temperature sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360246&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated power modules (integrated transformer)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=224421&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated interface ICs^USB isolators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3122&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated interface ICs^Isolated RS-485 transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3123&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated interface ICs^Isolated CAN transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3124&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated interface ICs^I2C isolators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3555&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated interface ICs^Isolated LVDS buffers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=50005&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated interface ICs^Isolated digital inputs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=512&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Isolation^Isolated amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=269&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^AND gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=272&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^XNOR (exclusive NOR) gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=273&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^XOR (exclusive OR) gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=275&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^NAND gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=276&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^NOR gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=277&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^OR gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3216&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^Combination gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=714&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Logic gates^Voltage translating gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=279&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Buffers, drivers & transceiver^Noninverting buffers & drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=280&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Buffers, drivers & transceiver^Inverting buffers & drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=5200&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Buffers, drivers & transceiver^General-purpose transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=258&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^Shift registers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=284&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^D-type flip-flops"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=286&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^JK flip-flops"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=287&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^D-type latches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=289&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^Other latches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=294041&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^Voltage translating flip-flops, latches & registers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=718&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Flip-flops, latches & registers^Counters"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=261&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Specialty logic ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=302&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Configurable & programmable logic ICs^Pulse & delay generators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360330&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Configurable & programmable logic ICs^Programmable logic devices (PLD)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=50003&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Configurable & programmable logic ICs^Configurable gates"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=361000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Voltage translators & level shifters^Ground-level translators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=361009&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Logic & voltage translation^Voltage translators & level shifters^Voltage translators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399701&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microprocessors & DSPs^Automotive driver assist SoCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399702&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microprocessors & DSPs^Automotive networking SoCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399703&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microprocessors & DSPs^Audio & radar DSP SoCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399704&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microprocessors & DSPs^Multimedia & industrial networking SoCs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=193120&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Arm Cortex-M0+ MCUs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=268014&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Arm Cortex-M4 MCUs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=268015&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Arm Cortex-R MCUs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=342&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^MSP430 microcontrollers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=5014&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^C2000 real-time microcontrollers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3392&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Low-side drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3393&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Half-bridge drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2005&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Brushed DC (BDC) motor drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12602&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Brushless DC (BLDC) motor drivers^Integrated control BLDC drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12605&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Brushless DC (BLDC) motor drivers^BLDC drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2013&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Stepper motor drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3125&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Isolated gate drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3302&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Solenoid drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3411&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Optical disk drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=365961&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Motor drivers^Gallium nitride (GaN) motor drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3386&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Oscillators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=17001&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Thermistors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12581&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Diodes^TVS diodes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12584&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Diodes^Zener diodes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=210112&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Diodes^ESD protection diodes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=210005&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Transistors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=344333&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Passive and discrete^Matched thin-film resistors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12872&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power protection switches & controllers^Hot-swap controllers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1644&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power protection switches & controllers^Power muxes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=339441&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power protection switches & controllers^eFuses (integrated hot swaps)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=422&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power protection switches & controllers^Ideal diode & ORing controllers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3391&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^USB Type-C & USB Power Delivery ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=105&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Low-side switches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1647&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^MOSFETs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360256&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power stages^Si power stages"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360295&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power stages^Gallium nitride (GaN) power stages"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2030&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Sequencers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=237000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Solid-state relays"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=263725&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power-supply filter ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3203&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^DDR memory power ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=290021&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^High-side switches & controllers^High-side switch controllers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=339454&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^High-side switches & controllers^Smart eFuse high-side switches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=670&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^High-side switches & controllers^High-side switches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^AC/DC & DC/DC controllers (external FET)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360082&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^AC/DC & DC/DC converters (integrated FET)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360179&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^DC/DC  power modules^Power modules (integrated inductor)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360246&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^DC/DC  power modules^Isolated power modules (integrated transformer)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=400&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Linear & low-dropout (LDO) regulators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3125&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Gate drivers^Isolated gate drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3392&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Gate drivers^Low-side drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3393&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Gate drivers^Half-bridge drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3055&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^LED drivers^Backlight LED drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3056&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^LED drivers^LED display drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3219&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^LED drivers^RGB LED drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3402&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^LED drivers^Automotive LED drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=692&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^LED drivers^Illumination  LED drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393470&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Supervisor & reset ICs^Supply-voltage supervisors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=393475&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Supervisor & reset ICs^Reset & watchdog ICs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=664&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power over Ethernet (PoE) ICs^Powered devices"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=665&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Power over Ethernet (PoE) ICs^Power sourcing equipment"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=667&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^USB power switches & charging port controllers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=668&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Load switches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=689&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Multi-channel ICs (PMICs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=693&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^LCD & OLED display power & drivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=401&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Voltage references^Series voltage references"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=697&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Voltage references^Shunt voltage references"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=721&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^Voltage references^Current references & sources"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3559&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^mmWave radar sensors^Automotive mmWave radar sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3560&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^mmWave radar sensors^Industrial mmWave radar sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12624&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF power detectors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1325&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF PLLs & synthesizers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1512&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF transceivers, receivers, transmitters^RF receivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2932&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF transceivers, receivers, transmitters^RF transmitters"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=6860&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF transceivers, receivers, transmitters^RF transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12622&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF amplifiers^RF gain block amplifiers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12623&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF amplifiers^RF fully differential amplifiers (FDAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12625&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF amplifiers^RF variable gain amplifiers (VGAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=386000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF amplifiers^RF low noise amplifiers (LNAs)"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=383001&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^RF front-end modules"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1430&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^Mixers & modulators^IQ demodulators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3230&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^Mixers & modulators^Downconverting mixers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=632&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "RF & microwave^Mixers & modulators^IQ modulators"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3240&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Humidity sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12641&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Magnetic sensors^Multi-axis linear & angle position sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=15000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Magnetic sensors^Hall-effect current sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3232&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Magnetic sensors^Hall-effect latches & switches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3233&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Magnetic sensors^Linear Hall-effect sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3182&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Optical sensors^Light sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3185&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Optical sensors^Proximity sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3559&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^mmWave radar sensors^Automotive mmWave radar sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3560&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^mmWave radar sensors^Industrial mmWave radar sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=17001&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Temperature sensors^Thermistors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1851&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Temperature sensors^Temperature switches"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3180&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Temperature sensors^Analog temperature sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3181&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Temperature sensors^Digital temperature sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=334487&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Temperature sensors^Isolated temperature sensors"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=12648&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Specialty sensors^Inductive sensor AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3262&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Specialty sensors^Ultrasonic sensor AFEs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3541&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Sensors^Specialty sensors^Signal conditioners"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=255&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Switches & multiplexers^Digital multiplexers & encoders"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=264&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Switches & multiplexers^Digital demultiplexers & decoders"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399400&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Switches & multiplexers^Analog switches & muxes^Analog & precision switches & muxes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=704&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Switches & multiplexers^Analog switches & muxes^Protocol & bus switches & muxes"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=1625&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Wi-Fi products"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=189094&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Automotive wireless connectivity products"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=2043&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Low-power 2.4-GHz products"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=5001&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Other wireless products"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=189039&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Long range Sub-1 GHz products^Sub-1 GHz transceivers"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=189043&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Long range Sub-1 GHz products^Sub-1 GHz wireless MCUs"
+  },
+  {
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=383001&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Wireless connectivity^Long range Sub-1 GHz products^RF front-end modules"
+  }
+]

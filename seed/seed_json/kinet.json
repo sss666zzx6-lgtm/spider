@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.kinet-ic.com/protection-system-monitoring/overvoltage-and-surge-protection-ics/",
+    "category": "Protection & System Monitoring^Overvoltage and Surge Protection ICs"
+  },
+  {
+    "url": "https://www.kinet-ic.com/protection-system-monitoring/usb-data-line-protection-ics/",
+    "category": "Protection & System Monitoring^USB Data Line Protection ICs"
+  },
+  {
+    "url": "https://www.kinet-ic.com/protection-system-monitoring/emi-esd-suppression/",
+    "category": "Protection & System Monitoring^EMI/ESD Suppression"
+  },
+  {
+    "url": "https://www.kinet-ic.com/protection-system-monitoring/reset-ics/",
+    "category": "Protection & System Monitoring^Smart Push Button Reset ICs"
+  },
+  {
+    "url": "https://www.kinet-ic.com/interface-isolation/gpio/",
+    "category": "Interface & Isolation^GPIO"
+  },
+  {
+    "url": "https://www.kinet-ic.com/interface-isolation/load-switches/",
+    "category": "Interface & Isolation^Load Switch and eFuse"
+  },
+  {
+    "url": "https://www.kinet-ic.com/display-power/camera-led-flash-drivers/",
+    "category": "Display Power^Camera LED Flash Drivers"
+  },
+  {
+    "url": "https://www.kinet-ic.com/display-power/rgb-led-driver-ics/",
+    "category": "Display Power^RGB LED Driver ICs"
+  },
+  {
+    "url": "https://www.kinet-ic.com/display-power/led-backlight-drivers-ics/",
+    "category": "Display Power^LED Backlight Drivers ICs"
+  },
+  {
+    "url": "https://www.kinet-ic.com/display-power/lcd-bias-supply-ics/",
+    "category": "Display Power^LCD Bias Supply ICs"
+  },
+  {
+    "url": "https://www.kinet-ic.com/dc-to-dc-converters/non-isolated-dc-dc-conversion/",
+    "category": "DC to DC Conversion^Non-Isolated DC-DC Conversion"
+  },
+  {
+    "url": "https://www.kinet-ic.com/dc-to-dc-converters/isolated-dc-dc-conversion/",
+    "category": "DC to DC Conversion^Isolated DC-DC Conversion"
+  },
+  {
+    "url": "https://www.kinet-ic.com/charging/wireless-power-receiver/",
+    "category": "Charging^Wireless Power Receiver"
+  },
+  {
+    "url": "https://www.kinet-ic.com/power-over-ethernet/poe-pd-controllers/",
+    "category": "Power Over Ethernet^PoE PD Controllers"
+  },
+  {
+    "url": "https://www.kinet-ic.com/power-over-ethernet/poe-modules/",
+    "category": "Power Over Ethernet^PoE Modules"
+  }
+]

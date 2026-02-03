@@ -1,0 +1,870 @@
+[
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/product-selector",
+    "category": "Microcontrollers & Microprocessors^RA Arm Cortex-M MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/rz-mpus/product-selector",
+    "category": "Microcontrollers & Microprocessors^RZ 32 & 64-Bit MPUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/product-selector",
+    "category": "Microcontrollers & Microprocessors^RL78 Low-Power 8 & 16-Bit MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/product-selector",
+    "category": "Microcontrollers & Microprocessors^RX 32-Bit Performance/Efficiency MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/risc-v/product-selector",
+    "category": "Microcontrollers & Microprocessors^RISC-V 32 & 64-Bit MCUs & MPUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/rh850-automotive-mcus/product-selector",
+    "category": "Microcontrollers & Microprocessors^RH850 Automotive MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/renesas-synergy-platform-mcus/product-selector",
+    "category": "Microcontrollers & Microprocessors^Renesas Synergy™ Platform MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/other-mcus-mpus/product-selector",
+    "category": "Microcontrollers & Microprocessors^Other MCUs & MPUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/amplifiers/comparators/product-selector",
+    "category": "Analog Products^Amplifiers^Comparators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/amplifiers/current-sense-amplifiers/product-selector",
+    "category": "Analog Products^Amplifiers^Current Sense Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/amplifiers/operational-amplifiers/product-selector",
+    "category": "Analog Products^Amplifiers^Operational Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/amplifiers/specialized-amplifiers/product-selector",
+    "category": "Analog Products^Amplifiers^Specialized Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/audio-codecs/product-selector",
+    "category": "Analog Products^Audio & Video^Audio Codecs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/audio-ics/product-selector",
+    "category": "Analog Products^Audio & Video^Audio ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/switches-multiplexers/audio-switches/product-selector",
+    "category": "Analog Products^Audio & Video^Audio Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/display-ics/product-selector",
+    "category": "Analog Products^Audio & Video^Display ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/usb-audio/product-selector",
+    "category": "Analog Products^Audio & Video^USB Audio"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/video-decodersencoders/product-selector",
+    "category": "Analog Products^Audio & Video^Video Decoders/Encoders"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/video-ics/product-selector",
+    "category": "Analog Products^Audio & Video^Video ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/video-switching/product-selector",
+    "category": "Analog Products^Audio & Video^Video Switching"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/wireless-audio/product-selector",
+    "category": "Analog Products^Audio & Video^Wireless Audio"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/data-converters/analog-digital-converters-adc-high-speed/product-selector",
+    "category": "Analog Products^Data Converters^Analog-to-Digital Converters (ADC) - High-Speed"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/data-converters/analog-digital-converters-adc-precision/product-selector",
+    "category": "Analog Products^Data Converters^Analog-to-Digital Converters (ADC) - Precision"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/data-converters/digital-controlled-potentiometers-dcp/product-selector",
+    "category": "Analog Products^Data Converters^Digital Controlled Potentiometers (DCPs)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/data-converters/digital-analog-converters-dac/product-selector",
+    "category": "Analog Products^Data Converters^Digital-to-Analog Converters (DAC)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/data-converters/resolver-digital-converters/product-selector",
+    "category": "Analog Products^Data Converters^Resolver-to-Digital Converters"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/voltage-references/product-selector",
+    "category": "Analog Products^Data Converters^Voltage References"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/power-line-communications-plc/plc-modem-ics/product-selector",
+    "category": "Analog Products^Power Line Communications (PLC)^PLC Modem ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/power-line-communications-plc/plc-line-drivers/product-selector",
+    "category": "Analog Products^Power Line Communications (PLC)^PLC Line Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/switches-multiplexers/analog-signal-switches/product-selector",
+    "category": "Analog Products^Switches & Multiplexers^Analog Signal Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/switches-multiplexers/audio-switches/product-selector",
+    "category": "Analog Products^Switches & Multiplexers^Audio Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/switches-multiplexers/crosspoint-switches/product-selector",
+    "category": "Analog Products^Switches & Multiplexers^Crosspoint Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/switches-multiplexers/usb-switches/product-selector",
+    "category": "Analog Products^Switches & Multiplexers^USB Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/custom-asics/product-selector",
+    "category": "ASIC & IP^Custom ASICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/intellectual-property-ip/processor-ip-solutions/product-selector",
+    "category": "ASIC & IP^Intellectual Property (IP)^Processor IP Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/intellectual-property-ip/interface-ips/product-selector",
+    "category": "ASIC & IP^Intellectual Property (IP)^Interface IPs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/intellectual-property-ip/memory-ips/product-selector",
+    "category": "ASIC & IP^Intellectual Property (IP)^Memory IPs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/intellectual-property-ip/digital-ips/product-selector",
+    "category": "ASIC & IP^Intellectual Property (IP)^Digital IPs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/intellectual-property-ip/analog-ips/product-selector",
+    "category": "ASIC & IP^Intellectual Property (IP)^Analog IPs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/asic-ip/intellectual-property-ip/other-ips/product-selector",
+    "category": "ASIC & IP^Intellectual Property (IP)^Other IPs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/rl78-automotive-mcus/product-selector",
+    "category": "Automotive Products^RL78 Automotive MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/microcontrollers-microprocessors/rh850-automotive-mcus/product-selector",
+    "category": "Automotive Products^RH850 Automotive MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-system-chips-socs/product-selector",
+    "category": "Automotive Products^R-Car Automotive System-on-Chips (SoCs)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/clocks-timing/application-specific-clocks/automotive-timing/product-selector",
+    "category": "Automotive Products^Automotive Timing"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-devices/automotive-power-mosfets/product-selector",
+    "category": "Automotive Products^Automotive Power Devices^Automotive Power MOSFETs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-devices/automotive-thermal-shut-down-functioned-mosfets/product-selector",
+    "category": "Automotive Products^Automotive Power Devices^Automotive Thermal Shut Down Functioned MOSFETs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/protected-and-intelligent-power-devices/product-selector",
+    "category": "Automotive Products^Automotive Power Devices^Protected & Intelligent Power Devices"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-management/automotive-linear-regulators/product-selector",
+    "category": "Automotive Products^Automotive Power Management^Automotive Linear Regulators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-management/automotive-switching-regulators/product-selector",
+    "category": "Automotive Products^Automotive Power Management^Automotive Switching Regulators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-management/mcu-pmic/product-selector",
+    "category": "Automotive Products^Automotive Power Management^MCU PMIC"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-management/motor-and-solenoid-drivers/product-selector",
+    "category": "Automotive Products^Automotive Power Management^Motor & Solenoid Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-power-management/soc-pmic/product-selector",
+    "category": "Automotive Products^Automotive Power Management^SoC PMIC"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors/product-selector",
+    "category": "Automotive Products^Automotive Sensors^Automotive Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors/product-selector",
+    "category": "Automotive Products^Automotive Sensors^Automotive Impedance Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-position-sensors/product-selector",
+    "category": "Automotive Products^Automotive Sensors^Automotive Position Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe/product-selector",
+    "category": "Automotive Products^Automotive Sensors^Automotive Sensor Signal Conditioners (SSC/AFE)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/optical-sensors/lidar-sensors/product-selector",
+    "category": "Automotive Products^Automotive Sensors^LiDAR Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-video-display/automotive-display-processors/product-selector",
+    "category": "Automotive Products^Automotive Video & Display^Automotive Display Processors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-video-display/automotive-led-backlight-drivers/product-selector",
+    "category": "Automotive Products^Automotive Video & Display^Automotive LED Backlight Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-video-display/automotive-programmable-gamma/product-selector",
+    "category": "Automotive Products^Automotive Video & Display^Automotive Programmable Gamma"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-video-display/automotive-video-decoders/product-selector",
+    "category": "Automotive Products^Automotive Video & Display^Automotive Video Decoders"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/clocks-timing/application-specific-clocks/product-selector",
+    "category": "Clocks & Timing^Application-Specific Clocks"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/clocks-timing/clock-distribution/product-selector",
+    "category": "Clocks & Timing^Clock Distribution"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/clocks-timing/clock-generation/product-selector",
+    "category": "Clocks & Timing^Clock Generation"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/clocks-timing/crystal-oscillators/product-selector",
+    "category": "Clocks & Timing^Crystal Oscillators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/clocks-timing/jitter-attenuators/product-selector",
+    "category": "Clocks & Timing^Jitter Attenuators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/2-wire-bus-buffers/product-selector",
+    "category": "Interface^2-Wire Bus Buffers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/as-interface-products/product-selector",
+    "category": "Interface^AS-Interface Products"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/data-communications-ics/product-selector",
+    "category": "Interface^Data Communications ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/haptic-drivers/product-selector",
+    "category": "Interface^Haptic Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/io-link-line-drivers/product-selector",
+    "category": "Interface^IO-Link Line Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/logic-level-signal-translators/product-selector",
+    "category": "Interface^Logic Level Signal Translators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/ddr4-solutions/product-selector",
+    "category": "Interface^Memory Interface Products^DDR4 Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/ddr5-solutions/product-selector",
+    "category": "Interface^Memory Interface Products^DDR5 Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/memory-multiplexers/product-selector",
+    "category": "Interface^Memory Interface Products^I3C Intelligent Switches & Expanders"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/sdr-solutions/product-selector",
+    "category": "Interface^Memory Interface Products^SDR Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/optical-interconnect/laser-drivers/product-selector",
+    "category": "Interface^Optical Interconnect^Laser Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/optical-interconnect/optical-modulator-drivers/product-selector",
+    "category": "Interface^Optical Interconnect^Optical Modulator Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/optical-interconnect/optical-transimpedance-amplifiers/product-selector",
+    "category": "Interface^Optical Interconnect^Optical Transimpedance Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-photocouplers/product-selector",
+    "category": "Interface^Photocouplers/Optocouplers^Automotive Photocouplers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-ic-output/product-selector",
+    "category": "Interface^Photocouplers/Optocouplers^Photocouplers/Optocouplers IC Output"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-motor-drive/product-selector",
+    "category": "Interface^Photocouplers/Optocouplers^Photocouplers/Optocouplers Motor Drive"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-transistor-output/product-selector",
+    "category": "Interface^Photocouplers/Optocouplers^Photocouplers/Optocouplers Transistor Output"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/physical-layer-products/product-selector",
+    "category": "Interface^Physical Layer Products"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/power-line-communications-plc/plc-modem-ics/product-selector",
+    "category": "Interface^Power Line Communications (PLC)^PLC Modem ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/power-line-communications-plc/plc-line-drivers/product-selector",
+    "category": "Interface^Power Line Communications (PLC)^PLC Line Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/rs-485-rs-422-rs-232/multiprotocol-rs-485rs-422-and-rs-232/product-selector",
+    "category": "Interface^RS-485, RS-422 & RS-232^Multiprotocol RS-485/RS-422 and RS-232"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/rs-485-rs-422-rs-232/rs-232-serial-interface/product-selector",
+    "category": "Interface^RS-485, RS-422 & RS-232^RS-232 Serial Interface"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/product-selector",
+    "category": "Interface^RS-485, RS-422 & RS-232^RS-485/RS-422"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/telecom-interface-products/digital-subscriber-line-drivers/product-selector",
+    "category": "Interface^Telecom Interface Products^Digital Subscriber Line Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/telecom-interface-products/pcm-codecs/product-selector",
+    "category": "Interface^Telecom Interface Products^PCM CODECs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/telecom-interface-products/subscriber-line-interfaces-slics/product-selector",
+    "category": "Interface^Telecom Interface Products^Subscriber Line Interfaces (SLICs)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/telecom-interface-products/t1-j1-e1-interface-products/product-selector",
+    "category": "Interface^Telecom Interface Products^T1/J1/E1 Interface Products"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/telecom-interface-products/time-slot-interchange-tsi-digital-switches/product-selector",
+    "category": "Interface^Telecom Interface Products^Time Slot Interchange (TSI) Digital Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/power-line-communications-plc/plc-line-drivers/product-selector",
+    "category": "Interface^Telecom Interface Products^PLC Line Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/usb-audio/product-selector",
+    "category": "Interface^USB Products^USB Audio"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/usb-products/usb-hosts-hubs/product-selector",
+    "category": "Interface^USB Products^USB Hosts & Hubs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/switches-multiplexers/usb-switches/product-selector",
+    "category": "Interface^USB Products^USB Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/usb-c-power/product-selector",
+    "category": "Interface^USB Products^USB-C Power"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/interface/vme/product-selector",
+    "category": "Interface^VME"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/bus-switch/33v-cbtlv-general-purpose-bus-switch/product-selector",
+    "category": "Memory & Logic^Bus Switch^3.3V CBTLV General-Purpose Bus Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/bus-switch/33v-quickswitch-high-bandwidth-bus-switch/product-selector",
+    "category": "Memory & Logic^Bus Switch^3.3V QuickSwitch High Bandwidth Bus Switch"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/bus-switch/5v-quickswitch/product-selector",
+    "category": "Memory & Logic^Bus Switch^5V QuickSwitch"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/bus-switch/analog-multiplexers-and-demultiplexers/product-selector",
+    "category": "Memory & Logic^Bus Switch^Analog Multiplexers & Demultiplexers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/ehb-embedded-host-bridges/product-selector",
+    "category": "Memory & Logic^EHB (Embedded Host Bridges)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/fifo-products/asynchronous-fifos/product-selector",
+    "category": "Memory & Logic^FIFO Products^Asynchronous FIFOs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/fifo-products/synchronous-fifos/product-selector",
+    "category": "Memory & Logic^FIFO Products^Synchronous FIFOs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/ddr4-solutions/product-selector",
+    "category": "Memory & Logic^Memory Interface Products^DDR4 Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/ddr5-solutions/product-selector",
+    "category": "Memory & Logic^Memory Interface Products^DDR5 Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/memory-multiplexers/product-selector",
+    "category": "Memory & Logic^Memory Interface Products^I3C Intelligent Switches & Expanders"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/memory-interface-products/sdr-solutions/product-selector",
+    "category": "Memory & Logic^Memory Interface Products^SDR Solutions"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/multi-port-memory/asynchronous-dual-port-rams/product-selector",
+    "category": "Memory & Logic^Multi-Port Memory^Asynchronous Dual-Port RAMs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/multi-port-memory/bank-switchable-dual-port-rams/product-selector",
+    "category": "Memory & Logic^Multi-Port Memory^Bank-Switchable Dual-Port RAMs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/multi-port-memory/synchronous-dual-port-rams/product-selector",
+    "category": "Memory & Logic^Multi-Port Memory^Synchronous Dual-Port RAMs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/non-volatile-memory/eeprom-prom/product-selector",
+    "category": "Memory & Logic^Non-Volatile Memory^EEPROM & PROM"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/non-volatile-memory/spi-nor-flash/product-selector",
+    "category": "Memory & Logic^Non-Volatile Memory^SPI NOR Flash"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/srams/asynchronous-srams/product-selector",
+    "category": "Memory & Logic^SRAMs^Asynchronous SRAMs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/srams/low-power-srams/product-selector",
+    "category": "Memory & Logic^SRAMs^Low Power SRAMs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/srams/synchronous-burst/product-selector",
+    "category": "Memory & Logic^SRAMs^Synchronous Burst"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/srams/zero-bus-turnaround-zbt/product-selector",
+    "category": "Memory & Logic^SRAMs^Zero Bus Turnaround (ZBT)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/standard-logic/advanced-low-voltage-cmos-alvc/product-selector",
+    "category": "Memory & Logic^Standard Logic^Advanced Low-Voltage CMOS (ALVC)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/standard-logic/fast-cmos-ttl-compatible-fct/product-selector",
+    "category": "Memory & Logic^Standard Logic^Fast CMOS TTL-Compatible (FCT)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/memory-logic/standard-logic/low-voltage-cmos-lvc/product-selector",
+    "category": "Memory & Logic^Standard Logic^Low-Voltage CMOS (LVC)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-discretes/gan-power-discretes/product-selector",
+    "category": "Power Discretes^GaN Power Discretes"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-discretes/power-mosfets/product-selector",
+    "category": "Power Discretes^Power MOSFETs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/acdc-isolated-dcdc-converters/flyback-forward-controllers/product-selector",
+    "category": "Power Management^AC/DC & Isolated DC/DC Converters^Flyback & Forward Controllers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/acdc-isolated-dcdc-converters/non-isolated-acdc-buck-converters/product-selector",
+    "category": "Power Management^AC/DC & Isolated DC/DC Converters^Non-Isolated AC/DC Buck Converters"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/acdc-isolated-dcdc-converters/power-factor-correction-pfc-controllers/product-selector",
+    "category": "Power Management^AC/DC & Isolated DC/DC Converters^Power Factor Correction (PFC) Controllers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/acdc-isolated-dcdc-converters/synchronous-rectifier-controllers/product-selector",
+    "category": "Power Management^AC/DC & Isolated DC/DC Converters^Synchronous Rectifier Controllers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/battery-management/battery-charger-ics/product-selector",
+    "category": "Power Management^Battery Management ICs^Battery Charger ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/battery-management/battery-fuel-gauges/product-selector",
+    "category": "Power Management^Battery Management ICs^Battery Fuel Gauges"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/battery-management/battery-protectors-monitors-balancers/product-selector",
+    "category": "Power Management^Battery Management ICs^Battery Protectors, Monitors & Balancers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-battery-management/product-selector",
+    "category": "Power Management^Battery Management ICs^Automotive Battery Management"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/dcdc-converters/charge-pumps-inductorless/product-selector",
+    "category": "Power Management^DC/DC Converters^Charge Pumps (Inductorless)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/dcdc-converters/step-down-buck/product-selector",
+    "category": "Power Management^DC/DC Converters^Step-down (Buck)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/dcdc-converters/step-boost/product-selector",
+    "category": "Power Management^DC/DC Converters^Step-up (Boost)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/dcdc-converters/step-upstep-down-buck-boost/product-selector",
+    "category": "Power Management^DC/DC Converters^Step-up/Step-down (Buck-Boost)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/dcdc-power-modules/product-selector",
+    "category": "Power Management^DC/DC Power Modules"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/3-phase-mosfet-drivers-3-phase-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^3-Phase MOSFET Drivers, 3-Phase FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/full-bridge-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^Full-Bridge FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/gan-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^GaN FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/half-bridge-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^Half-Bridge FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/high-side-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^High-Side FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/low-side-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^Low-Side FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/smart-igbt-drivercontroller-ics/product-selector",
+    "category": "Power Management^FET Drivers^Smart IGBT Driver/Controller ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/fet-drivers/synchronous-buck-fet-drivers/product-selector",
+    "category": "Power Management^FET Drivers^Synchronous Buck FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/analog-products/audio-video/display-ics/backlight-led-drivers/product-selector",
+    "category": "Power Management^LED Drivers^Backlight LED Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/led-drivers/rgb-led-drivers/product-selector",
+    "category": "Power Management^LED Drivers^RGB LED Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/linear-regulators-ldo/product-selector",
+    "category": "Power Management^Linear Regulators (LDO)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/motor-drivers/product-selector",
+    "category": "Power Management^Motor Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/multi-channel-power-management-ics-pmics/product-selector",
+    "category": "Power Management^Multi-Channel Power Management ICs (PMICs)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/multiphase-power/multiphase-dcdc-switching-controllers/product-selector",
+    "category": "Power Management^Multi-phase Power^Multiphase DC/DC Switching Controllers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/multiphase-power/smart-power-stages/product-selector",
+    "category": "Power Management^Multi-phase Power^Smart Power Stages"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/power-supply-support/hot-swap-ideal-diode-oring-fet-controllers/product-selector",
+    "category": "Power Management^Power Supply Support^Hot Swap & Ideal Diode/ORing FET Controllers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/power-supply-support/load-switches/product-selector",
+    "category": "Power Management^Power Supply Support^Load Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/power-supply-support/power-supply-sequencers/product-selector",
+    "category": "Power Management^Power Supply Support^Power Supply Sequencers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/power-supply-support/voltage-supervisor-reset-ics/product-selector",
+    "category": "Power Management^Power Supply Support^Voltage Supervisor & Reset ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/solid-state-lighting/solid-state-lighting-driver-ics/product-selector",
+    "category": "Power Management^Solid State Lighting^Solid State Lighting Driver ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/power-management/solid-state-lighting/solid-state-lighting-interface-ics/product-selector",
+    "category": "Power Management^Solid State Lighting^Solid State Lighting Interface ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/forgefpga-low-density-fpgas/product-selector",
+    "category": "Programmable Logic^ForgeFPGA Low-density FPGAs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-extended-temperature-ranges/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^GreenPAK with Extended Temperature Ranges"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/hvpak/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^HVPAK"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/analogpak/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^AnalogPAK"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/automotive-greenpak-programmable-mixed-signal-ics/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^Automotive GreenPAK Programmable Mixed-Signal ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/dual-supply-greenpak/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^Dual Supply GreenPAK"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-asynchronous-state-machine/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^GreenPAK with Asynchronous State Machine"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/greenpak-system-programmability/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^GreenPAK with In-System Programmability"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/power-greenpak/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^Power GreenPAK"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/programmable-logic/greenpak-programmable-mixed-signal-products/other-greenpaks/product-selector",
+    "category": "Programmable Logic^GreenPAK Programmable Mixed-Signal Products^Other GreenPAKs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/inductive-position-sensors/product-selector",
+    "category": "Sensor Products^Inductive Position Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/optical-sensors/ambient-light-sensors/product-selector",
+    "category": "Sensor Products^Optical Sensors^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/optical-sensors/laser-diode-drivers-ldd/product-selector",
+    "category": "Sensor Products^Optical Sensors^Laser Diode Drivers (LDD)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/optical-sensors/lidar-sensors/product-selector",
+    "category": "Sensor Products^Optical Sensors^LiDAR Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/sensor-signal-conditioners-ssc-afe/product-selector",
+    "category": "Sensor Products^Sensor Signal Conditioners (SSC/AFE)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-ambient-light-sensors/product-selector",
+    "category": "Sensor Products^Automotive Sensors^Automotive Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-impedance-sensors/product-selector",
+    "category": "Sensor Products^Automotive Sensors^Automotive Impedance Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-position-sensors/product-selector",
+    "category": "Sensor Products^Automotive Sensors^Automotive Position Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/automotive-products/automotive-sensors/automotive-sensor-signal-conditioners-sscafe/product-selector",
+    "category": "Sensor Products^Automotive Sensors^Automotive Sensor Signal Conditioners (SSC/AFE)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/sensor-products/optical-sensors/lidar-sensors/product-selector",
+    "category": "Sensor Products^Automotive Sensors^LiDAR Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-analog-switches/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Analog Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-buffers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Buffers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-comparators/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Comparators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sense-amps/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Current Sense Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-current-sources/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Current Sources"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-multiplexers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Multiplexers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-op-amps/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Operational Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-temperature-sensors/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Temperature Sensors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-transistor-arrays/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Transistor Arrays"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-analog/hi-rel-voltage-references/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Analog^Hi-Rel Voltage References"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-analog-digital-converters-adc/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Data Converters^Hi-Rel Analog-to-Digital Converters (ADC)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-digital-analog-converters-dac/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Data Converters^Hi-Rel Digital-to-Analog Converters (DAC)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-data-converters/hi-rel-sample-hold-amplifiers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Data Converters^Hi-Rel Sample & Hold Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-digital/hi-rel-digital-isolators/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Digital^Hi-Rel Digital Isolators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-digital/hi-rel-memory/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Digital^Hi-Rel Memory"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-interface/hi-rel-can-transceivers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Interface^Hi-Rel CAN Transceivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-interface/hi-rel-data-communications-ics/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Interface^Hi-Rel Data Communications ICs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-interface/hi-rel-serial-interface/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Interface^Hi-Rel RS-485/RS-422 Serial Interface"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fet-power-stages/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Discretes^Hi-Rel GaN FET Power Stages"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-discretes/hi-rel-gan-fets/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Discretes^Hi-Rel GaN FETs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-gan-fet-drivers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel GaN FET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-linear-regulators/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Linear Regulators"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-mosfet-drivers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel MOSFET Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-supply-sequencers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Power Supply Sequencers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-power-timing/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Power Timing"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-protection-switches/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Protection Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-source-drivers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Source Drivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-supervisors/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Supervisors"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-controllers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Switching Controllers (External FETs)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-power-management/hi-rel-switching-regulators/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel Power Management^Hi-Rel Switching Regulators (Integrated FETs)"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-amplifiers/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel RF^Hi-Rel RF Amplifiers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/space-harsh-environment/hi-rel-rf/hi-rel-rf-switches/product-selector",
+    "category": "Space & Harsh Environment^Hi-Rel RF^Hi-Rel RF Switches"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/wireless-connectivity/bluetooth-low-energy/product-selector",
+    "category": "Wireless Connectivity^Bluetooth Low Energy"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/wireless-connectivity/dect/product-selector",
+    "category": "Wireless Connectivity^DECT"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/wireless-connectivity/nfc/product-selector",
+    "category": "Wireless Connectivity^NFC"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/wireless-connectivity/sub-ghz-wi-sun-transceivers/product-selector",
+    "category": "Wireless Connectivity^Sub-GHz/Wi-SUN Transceivers"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/wireless-connectivity/wi-fi-mcus/product-selector",
+    "category": "Wireless Connectivity^Wi-Fi MCUs"
+  },
+  {
+    "url": "https://www.renesas.com/en/products/wireless-connectivity/wi-fi-networking/product-selector",
+    "category": "Wireless Connectivity^Wi-Fi Networking"
+  }
+]

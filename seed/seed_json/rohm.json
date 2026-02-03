@@ -1,0 +1,794 @@
+[
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers?page=1&PS_IoType=Rail-to-Rail%20Input/Output|Rail-to-Rail%20Output#parametricSearch",
+    "category": "Amplifiers & Linear^Operational Amplifiers^Rail-to-Rail"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers?page=1&Gbw_num=(5,)#parametricSearch",
+    "category": "Amplifiers & Linear^Operational Amplifiers^High Speed (GBW ≧ 5MHz)"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers?page=1&PS_ProductSeries=General%20Purpose#parametricSearch",
+    "category": "Amplifiers & Linear^Operational Amplifiers^General Purpose"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers?page=1&CircuitCurrentPerChannel_num=(,0.1)#parametricSearch",
+    "category": "Amplifiers & Linear^Operational Amplifiers^Low Power (Circuit Current ≦ 0.1mA/ch)"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers?page=1&EquivalentInputNoiseVoltage_num=(,20)#parametricSearch",
+    "category": "Amplifiers & Linear^Operational Amplifiers^Low Noise (Equivalent Input Noise Voltage ≦ 20nV/√Hz)"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers?page=1&InputOffsetVoltageMax_num=(,2.5)#parametricSearch",
+    "category": "Amplifiers & Linear^Operational Amplifiers^Low Offset Voltage (Input Offset Voltage ≦ 2.5mV)"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/comparators/standard",
+    "category": "Amplifiers & Linear^Comparators^Standard Comparators"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/comparators/high-speed",
+    "category": "Amplifiers & Linear^Comparators^High Speed Comparators"
+  },
+  {
+    "url": "https://www.rohm.com/products/amplifiers-and-linear/comparators/low-power",
+    "category": "Amplifiers & Linear^Comparators^Low Power Comparators"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/current-sensor-ics/current-sense-amplifier",
+    "category": "Amplifiers & Linear^Current Sense Amplifier ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/switching-regulators/buck-step-down",
+    "category": "Power Management^DC-DC Converter ICs^Buck (Step-down)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/switching-regulators/boost-step-up",
+    "category": "Power Management^DC-DC Converter ICs^Boost (Step-up)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/switching-regulators/buck-boost-inverting",
+    "category": "Power Management^DC-DC Converter ICs^Buck-Boost / Inverting"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-dc-converters-ics/ac-dc-converters-ics-pwm-qr",
+    "category": "Power Management^DC-DC Converter ICs^High Voltage Buck for AC-DC (Offline)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/dc-dc-converters-ics",
+    "category": "Power Management^Flyback Switching Regulators^Isolated, Optocoupler-less"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-dc-converters-ics/ac-dc-converters-ics-pwm-qr",
+    "category": "Power Management^Flyback Switching Regulators^PWM / Quasi-Resonant AC-DC (Offline)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-dc-converters-ics/ac-dc-converters-ics-pwm-qr",
+    "category": "Power Management^AC-DC Converter ICs^PWM / Quasi-Resonant"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-dc-converters-ics/ac-dc-converters-ics-pfc-qr",
+    "category": "Power Management^AC-DC Converter ICs^PFC + Quasi-Resonant Combo"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-dc-converters-ics/ac-dc-converters-ics-pfc",
+    "category": "Power Management^AC-DC Converter ICs^PFC"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-dc-converters-ics/ac-dc-converters-ics-sr",
+    "category": "Power Management^AC-DC Converter ICs^Secondary Side Synchronous Rectification"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ac-voltage-zero-cross-detection-ics",
+    "category": "Power Management^AC Voltage Zero Cross Detection ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/step-up-boost",
+    "category": "Power Management^LED Drivers^Step-up (Boost) LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/step-down-buck",
+    "category": "Power Management^LED Drivers^Step-down (Buck) LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/buck-boost",
+    "category": "Power Management^LED Drivers^Buck-Boost LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/multi-function",
+    "category": "Power Management^LED Drivers^Multi-Function LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/lighting",
+    "category": "Power Management^LED Drivers^Lighting LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/inductorless-charge-pump",
+    "category": "Power Management^LED Drivers^Inductor-less (Charge Pump) LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/led-drivers/constant-current-serial-in-parallel-out",
+    "category": "Power Management^LED Drivers^Constant Current / Serial-in Parallel-out LED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/isolated-gate-drivers",
+    "category": "Power Management^Gate Drivers^Isolated Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/isolated-switch-driver",
+    "category": "Power Management^Gate Drivers^Isolated Switch Driver (Isolated MOS Driver)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/igbt-mosfet-high-low-side-gate-drivers",
+    "category": "Power Management^Gate Drivers^IGBT/MOSFET High/Low Side Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/non-insulated-gate-driver-for-bms",
+    "category": "Power Management^Gate Drivers^Non-insulated Gate Drivers for Battery Management System (BMS)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/gan-gate-drivers",
+    "category": "Power Management^Gate Drivers^Gate Drivers for GaN"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/linear-regulators",
+    "category": "Power Management^Linear Regulators"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/power-management-ic-for-system",
+    "category": "Power Management^Composite Power Supplies (PMICs, System Power Supplies)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/voltage-detectors",
+    "category": "Power Management^Voltage Detectors (Reset ICs)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/power-management-switch-ics",
+    "category": "Power Management^Power Management Switch ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ipds",
+    "category": "Power Management^IPDs (Smart Low Side & High Side Switch ICs)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/wireless-power/power-receiver-wireless-charge",
+    "category": "Power Management^Wireless Power^Power Receiver LSIs (13.56MHz Wireless Charge)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/wireless-power/power-transmitter-wireless-charge",
+    "category": "Power Management^Wireless Power^Power Transmitter LSIs (13.56MHz Wireless Charge)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/battery-management/battery-charge-management-ics",
+    "category": "Power Management^Battery Management ICs^Battery Charge Management ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/battery-management/charge-protection-ics",
+    "category": "Power Management^Battery Management ICs^Charge Protection ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/battery-management/edlc-monitoring-ics",
+    "category": "Power Management^Battery Management ICs^EDLC Monitoring ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/battery-management/coulomb-counter-ics",
+    "category": "Power Management^Battery Management ICs^Coulomb Counter"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/battery-management/li-ion-battery-monitoring",
+    "category": "Power Management^Battery Management ICs^Li-ion Battery Monitoring LSIs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/isolated-gate-drivers",
+    "category": "Motor / Actuator Drivers^Gate Drivers^Isolated Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/igbt-mosfet-high-low-side-gate-drivers",
+    "category": "Motor / Actuator Drivers^Gate Drivers^IGBT/MOSFET High/Low Side Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/non-insulated-gate-driver-for-bms",
+    "category": "Motor / Actuator Drivers^Gate Drivers^Non-insulated Gate Drivers for Battery Management System (BMS)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/gan-gate-drivers",
+    "category": "Motor / Actuator Drivers^Gate Drivers^Gate Drivers for GaN"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/dc-brush-motor",
+    "category": "Motor / Actuator Drivers^DC Brush Motor"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/stepping-motor",
+    "category": "Motor / Actuator Drivers^Stepper Motor"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/single-phase-brushless-dc-motor",
+    "category": "Motor / Actuator Drivers^Single Phase Brushless DC Motor"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/3-phase-brushless-dc-motor",
+    "category": "Motor / Actuator Drivers^3-Phase Brushless DC Motor"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/high-voltage-3-phase-brushless-dc-motor",
+    "category": "Motor / Actuator Drivers^High Voltage 3-Phase Brushless DC Motor"
+  },
+  {
+    "url": "https://www.rohm.com/quick-search/motor-driver/fan",
+    "category": "Motor / Actuator Drivers^Fan Motor"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/printer",
+    "category": "Motor / Actuator Drivers^Printer"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/digital-still-camera",
+    "category": "Motor / Actuator Drivers^Digital Still Camera"
+  },
+  {
+    "url": "https://www.rohm.com/products/motor-actuator-drivers/mobile-phone-module",
+    "category": "Motor / Actuator Drivers^Mobile Phone Module"
+  },
+  {
+    "url": "https://www.rohm.com/products/mosfets/small-signal",
+    "category": "MOSFETs / Transistors / Diodes^MOSFETs^12 to 150V MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/mosfets/high-voltage",
+    "category": "MOSFETs / Transistors / Diodes^MOSFETs^190 to 800V Power MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/mosfets/automotive",
+    "category": "MOSFETs / Transistors / Diodes^MOSFETs^Automotive MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/isolated-gate-drivers",
+    "category": "MOSFETs / Transistors / Diodes^Gate Drivers^Isolated Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/igbt-mosfet-high-low-side-gate-drivers",
+    "category": "MOSFETs / Transistors / Diodes^Gate Drivers^IGBT/MOSFET High/Low Side Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/non-insulated-gate-driver-for-bms",
+    "category": "MOSFETs / Transistors / Diodes^Gate Drivers^Non-insulated Gate Drivers for Battery Management System (BMS)"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/gan-gate-drivers",
+    "category": "MOSFETs / Transistors / Diodes^Gate Drivers^Gate Drivers for GaN"
+  },
+  {
+    "url": "https://www.rohm.com/products/transistors/bipolar-transistors",
+    "category": "MOSFETs / Transistors / Diodes^Bipolar Transistors^General Purpose Bipolar Transistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/transistors/digital-transistors",
+    "category": "MOSFETs / Transistors / Diodes^Bipolar Transistors^Digital Transistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/transistors/darlington-transistors",
+    "category": "MOSFETs / Transistors / Diodes^Bipolar Transistors^Darlington Transistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/transistors/complex-transistors",
+    "category": "MOSFETs / Transistors / Diodes^Bipolar Transistors^Complex Transistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/igbt/field-stop-trench-igbt",
+    "category": "MOSFETs / Transistors / Diodes^IGBT^Field Stop Trench IGBT"
+  },
+  {
+    "url": "https://www.rohm.com/products/igbt/ignition-igbt",
+    "category": "MOSFETs / Transistors / Diodes^IGBT^Ignition IGBT"
+  },
+  {
+    "url": "https://www.rohm.com/products/igbt/igbt-bare-die",
+    "category": "MOSFETs / Transistors / Diodes^IGBT^IGBT Bare Die"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/schottky-barrier-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Schottky Barrier Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/fast-recovery-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Fast Recovery Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/rectifier-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Standard Rectifier Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/zener-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Zener Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/transient-voltage-suppressor-diode",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Transient Voltage Suppressor Diode"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/switching-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Switching Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/band-switching-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Band Switching Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/pin-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^PIN Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/detection-schottky-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Diodes^Detection Schottky Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/zener-diodes",
+    "category": "MOSFETs / Transistors / Diodes^Protection Devices^Zener Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/transient-voltage-suppressor-diode",
+    "category": "MOSFETs / Transistors / Diodes^Protection Devices^Transient Voltage Suppressor Diode"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ipds",
+    "category": "MOSFETs / Transistors / Diodes^IPDs (Smart Low Side & High Side Switch ICs)"
+  },
+  {
+    "url": "https://www.rohm.com/products/mosfets/small-signal?PS_PackageShortCode=HEML1616L7|HSML3030L10|HSML3333L9%20(Drain%20Common%20Dual)|HSMT8|HSOP8%20(Drain%20Common%20Dual)|HSOP8%20(Dual)|HSOP8%20(Single)|HSOP8%20(Symmetry%20Dual)|HUML2020L8%20(Dual)|HUML2020L8%20(Single)|LPTL|LPTS%20(D2PAK)|MPT3|SOP8|TO-247|TO-252|TO-263AB%20(LPTL)|TSMT3|TSMT8|TUMT3|TUMT5|TUMT6|HUML2020L3|TSMT5|TSMT6",
+    "category": "Power Devices^Power Transistors^12 to 150V MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/mosfets/high-voltage",
+    "category": "Power Devices^Power Transistors^190 to 800V Power MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/mosfets/automotive?PS_PackageShortCode=HEML1616L7|HSML3030L10|HSML3333L9%20(Drain%20Common%20Dual)|HSMT8|HSOP8%20(Drain%20Common%20Dual)|HSOP8%20(Dual)|HSOP8%20(Single)|HSOP8%20(Symmetry%20Dual)|HUML2020L8%20(Dual)|HUML2020L8%20(Single)|LPTL|LPTS%20(D2PAK)|MPT3|SOP8|TO-247|TO-252|TO-263AB%20(LPTL)|TSMT3|TSMT8|TUMT3|TUMT5|TUMT6|HUML2020L3|TSMT5|TSMT6",
+    "category": "Power Devices^Power Transistors^Automotive MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/transistors/bipolar-transistors?PS_PackageShortCode=HEML1616L7|HSML3030L10|HSML3333L9%20(Drain%20Common%20Dual)|HSMT8|HSOP8%20(Drain%20Common%20Dual)|HSOP8%20(Dual)|HSOP8%20(Single)|HSOP8%20(Symmetry%20Dual)|HUML2020L8%20(Dual)|HUML2020L8%20(Single)|LPTL|LPTS%20(D2PAK)|MPT3|SOP8|TO-247|TO-252|TO-263AB%20(LPTL)|TSMT3|TSMT8|TUMT3|TUMT5|TUMT6|HUML2020L3|TSMT5|TSMT6",
+    "category": "Power Devices^Power Transistors^General Purpose Bipolar Transistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/transistors/digital-transistors?PS_PackageShortCode=HEML1616L7|HSML3030L10|HSML3333L9%20(Drain%20Common%20Dual)|HSMT8|HSOP8%20(Drain%20Common%20Dual)|HSOP8%20(Dual)|HSOP8%20(Single)|HSOP8%20(Symmetry%20Dual)|HUML2020L8%20(Dual)|HUML2020L8%20(Single)|LPTL|LPTS%20(D2PAK)|MPT3|SOP8|TO-247|TO-252|TO-263AB%20(LPTL)|TSMT3|TSMT8|TUMT3|TUMT5|TUMT6|HUML2020L3|TSMT5|TSMT6",
+    "category": "Power Devices^Power Transistors^Digital Transistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/schottky-barrier-diodes?PS_PackageShortCode=PMDE|PMDS|PMDTM|PMDU|LPDL|TO-220AC|TO-220ACFP|TO-220FN%20(2PIN)|TO-220FN%20(3PIN)|TO-220NFM%20(2PIN)|TO-252|TO-263S%20(D2PAK)|TSMD5|TSMD6|TSMD8|TUMD5|TO-277GE",
+    "category": "Power Devices^Power Diodes^Schottky Barrier Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/fast-recovery-diodes?PS_PackageShortCode=PMDE|PMDS|PMDTM|PMDU|LPDL|TO-220AC|TO-220ACFP|TO-220FN%20(2PIN)|TO-220FN%20(3PIN)|TO-220NFM%20(2PIN)|TO-252|TO-263S%20(D2PAK)|TSMD5|TSMD6|TSMD8|TUMD5|TO-277GE|TO-247GE-2L",
+    "category": "Power Devices^Power Diodes^Fast Recovery Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/rectifier-diodes?PS_PackageShortCode=PMDE|PMDS|PMDTM|PMDU|LPDL|TO-220AC|TO-220ACFP|TO-220FN%20(2PIN)|TO-220FN%20(3PIN)|TO-220NFM%20(2PIN)|TO-252|TO-263S%20(D2PAK)|TSMD5|TSMD6|TSMD8|TUMD5|TO-277GE",
+    "category": "Power Devices^Power Diodes^Standard Rectifier Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/transient-voltage-suppressor-diode?PS_PackageShortCode=PMDE|PMDS|PMDTM|PMDU|LPDL|TO-220AC|TO-220ACFP|TO-220FN%20(2PIN)|TO-220FN%20(3PIN)|TO-220NFM%20(2PIN)|TO-252|TO-263S%20(D2PAK)|TSMD5|TSMD6|TSMD8|TUMD5|TO-277GE",
+    "category": "Power Devices^Power Diodes^Transient Voltage Suppressor Diode"
+  },
+  {
+    "url": "https://www.rohm.com/products/diodes/zener-diodes?PS_PackageShortCode=PMDU|PMDTM|PMDS",
+    "category": "Power Devices^Power Diodes^Zener Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/sic-power-devices/sic-schottky-barrier-diodes",
+    "category": "Power Devices^SiC Power Devices^SiC Schottky Barrier Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/sic-power-devices/sic-mosfet",
+    "category": "Power Devices^SiC Power Devices^SiC MOSFETs"
+  },
+  {
+    "url": "https://www.rohm.com/products/sic-power-devices/sic-power-module",
+    "category": "Power Devices^SiC Power Devices^SiC Power Module"
+  },
+  {
+    "url": "https://www.rohm.com/products/sic-power-devices/sic-schottky-barrier-diodes-bare-die",
+    "category": "Power Devices^SiC Power Devices^SiC Schottky Barrier Diodes Bare Die"
+  },
+  {
+    "url": "https://www.rohm.com/products/sic-power-devices/sic-mosfet-bare-die",
+    "category": "Power Devices^SiC Power Devices^SiC MOSFET Bare Die"
+  },
+  {
+    "url": "https://www.rohm.com/products/gan-power-devices/gan-hemt",
+    "category": "Power Devices^GaN Power Devices^GaN HEMT"
+  },
+  {
+    "url": "https://www.rohm.com/products/gan-power-devices/gan-hemt-power-stage-ics",
+    "category": "Power Devices^GaN Power Devices^GaN HEMT Power Stage ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/gan-gate-drivers",
+    "category": "Power Devices^GaN Power Devices^Gate Drivers for GaN"
+  },
+  {
+    "url": "https://www.rohm.com/products/igbt/field-stop-trench-igbt",
+    "category": "Power Devices^IGBT^Field Stop Trench IGBT"
+  },
+  {
+    "url": "https://www.rohm.com/products/igbt/ignition-igbt",
+    "category": "Power Devices^IGBT^Ignition IGBT"
+  },
+  {
+    "url": "https://www.rohm.com/products/igbt/igbt-bare-die",
+    "category": "Power Devices^IGBT^IGBT Bare Die"
+  },
+  {
+    "url": "https://www.rohm.com/products/ipm/igbt-ipm",
+    "category": "Power Devices^Intelligent Power Module^IGBT-IPM"
+  },
+  {
+    "url": "https://www.rohm.com/products/ipm/mos-ipm",
+    "category": "Power Devices^Intelligent Power Module^MOS-IPM"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/isolated-gate-drivers",
+    "category": "Power Devices^Gate Drivers^Isolated Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/igbt-mosfet-high-low-side-gate-drivers",
+    "category": "Power Devices^Gate Drivers^IGBT/MOSFET High/Low Side Gate Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/gate-drivers/non-insulated-gate-driver-for-bms",
+    "category": "Power Devices^Gate Drivers^Non-insulated Gate Drivers for Battery Management System (BMS)"
+  },
+  {
+    "url": "https://www.rohm.com/products/resistors/current-detection-resistors",
+    "category": "Resistors / Capacitors^Resistors^Current Detection Resistors (Shunt Resistors)"
+  },
+  {
+    "url": "https://www.rohm.com/products/resistors/high-reliability-resistors",
+    "category": "Resistors / Capacitors^Resistors^High Reliability Resistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/resistors/standard-chip-resistors",
+    "category": "Resistors / Capacitors^Resistors^Standard Chip Resistors"
+  },
+  {
+    "url": "https://www.rohm.com/products/capacitors/silicon-capacitors",
+    "category": "Resistors / Capacitors^Capacitors^Silicon Capacitors"
+  },
+  {
+    "url": "https://www.rohm.com/products/memory/serial-eeprom/standard",
+    "category": "Memory^Serial EEPROM^Standard EEPROM"
+  },
+  {
+    "url": "https://www.rohm.com/products/memory/serial-eeprom/automotive",
+    "category": "Memory^Serial EEPROM^Automotive EEPROM"
+  },
+  {
+    "url": "https://www.rohm.com/products/clocks-and-timers/cr-control-timer-ics",
+    "category": "Clocks & Timers^CR Control Timer ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/switch-multiplexer-logic/standard-logic/logic-gates",
+    "category": "Switch & Multiplexer & Logic^Standard Logic^Logic Gates"
+  },
+  {
+    "url": "https://www.rohm.com/products/switch-multiplexer-logic/usb-switch-ics",
+    "category": "Switch & Multiplexer & Logic^USB Switch ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/power-management-switch-ics",
+    "category": "Switch & Multiplexer & Logic^Power Management Switch ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/ipds",
+    "category": "Switch & Multiplexer & Logic^IPDs"
+  },
+  {
+    "url": "https://www.rohm.com/products/data-converter/a-d-converters",
+    "category": "Data Converter^A/D Converters"
+  },
+  {
+    "url": "https://www.rohm.com/products/data-converter/d-a-converters",
+    "category": "Data Converter^D/A Converters"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/audio-converters",
+    "category": "Data Converter^Audio Converters"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/current-sensor-ics",
+    "category": "Sensors & MEMS^Current Sensor IC"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/hall-ics",
+    "category": "Sensors & MEMS^Hall ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/ambient-light-sensor-ics",
+    "category": "Sensors & MEMS^Ambient Light Sensor ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/temperature-sensor-ics",
+    "category": "Sensors & MEMS^Temperature Sensor ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/shock-sensor-amplifier",
+    "category": "Sensors & MEMS^Shock Sensor Amplifier"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors",
+    "category": "Sensors & MEMS^Optical Sensors"
+  },
+  {
+    "url": "https://www.rohm.com/products/display-drivers/tn-stn-lcd-drivers/general-lcd-segment-drivers",
+    "category": "Display Drivers^TN/STN LCD Drivers^General LCD Segment Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/display-drivers/tn-stn-lcd-drivers/controller-drivers-for-graphic-lcd",
+    "category": "Display Drivers^TN/STN LCD Drivers^Controller Drivers for Graphic LCD"
+  },
+  {
+    "url": "https://www.rohm.com/products/display-drivers/tn-stn-lcd-drivers/controller-drivers-for-low-duty-lcd",
+    "category": "Display Drivers^TN/STN LCD Drivers^Controller Drivers for Low Duty LCD"
+  },
+  {
+    "url": "https://www.rohm.com/products/display-drivers/tft-lcd-driver",
+    "category": "Display Drivers^TFT LCD Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/products/display-drivers/oled-driver",
+    "category": "Display Drivers^OLED Drivers"
+  },
+  {
+    "url": "https://www.rohm.com/product-info/serdes-ics",
+    "category": "Interface^SerDes IC"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/lvds-interface-ics",
+    "category": "Interface^LVDS Interface ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/gas-water-heater-interface-ics",
+    "category": "Interface^Gas Water Heaters Interface ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/multiple-input-switch-monitor-lsi",
+    "category": "Interface^Multiple Input Switch Monitor LSI"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/lin-transceiver",
+    "category": "Interface^LIN Transceiver"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/cxpi-transceiver",
+    "category": "Interface^CXPI Transceiver"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/can-transceiver",
+    "category": "Interface^CAN Transceiver"
+  },
+  {
+    "url": "https://www.rohm.com/products/interface/usb-type-c-power-delivery",
+    "category": "Interface^USB Type-C Power Delivery"
+  },
+  {
+    "url": "https://www.rohm.com/products/wireless-lsi/industrial-wireless-communication/sub-ghz",
+    "category": "Wireless LSIs^Sub-GHz LSI, SoC^Sub-GHz LSI"
+  },
+  {
+    "url": "https://www.rohm.com/products/wireless-lsi/industrial-wireless-communication/mcu-Included-specified-low-power-radio",
+    "category": "Wireless LSIs^Sub-GHz LSI, SoC^Sub-GHz SoC"
+  },
+  {
+    "url": "https://www.rohm.com/products/wireless-lsi/rfid",
+    "category": "Wireless LSIs^RFID LSI"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/audio-amplifiers/speaker-amplifiers",
+    "category": "Audio & Video^Audio Amplifiers^Speaker Amplifiers"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/audio-amplifiers/headphone-amplifiers",
+    "category": "Audio & Video^Audio Amplifiers^Headphone Amplifiers"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/audio-amplifiers/line-amplifiers",
+    "category": "Audio & Video^Audio Amplifiers^Line Amplifiers"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/linear-regulators/power-supply-ics-for-high-fidelity-audio",
+    "category": "Audio & Video^Power Supply ICs for Audio^Power Supply ICs for High Fidelity Audio"
+  },
+  {
+    "url": "https://www.rohm.com/products/power-management/power-management-ic-for-system/car-audio-systems",
+    "category": "Audio & Video^Power Supply ICs for Audio^For Car Audio Systems"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/audio-processors/analog",
+    "category": "Audio & Video^Audio Processors^Analog Audio Processors"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-amplifiers/composite",
+    "category": "Audio & Video^Video Amplifiers^Composite Video Amplifiers"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-amplifiers/video-switches",
+    "category": "Audio & Video^Video Amplifiers^Video Switches"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-amplifiers/isolation-amplifiers",
+    "category": "Audio & Video^Video Amplifiers^Isolation Amplifiers"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/audio-converters/audio-dacs",
+    "category": "Audio & Video^Audio Converters^Audio DACs"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-lsi/video-decoder",
+    "category": "Audio & Video^Video LSIs^Video Decoders"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-lsi/video-encoder",
+    "category": "Audio & Video^Video LSIs^Video Encoders"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-lsi/video-interface",
+    "category": "Audio & Video^Video LSIs^Video Interface"
+  },
+  {
+    "url": "https://www.rohm.com/products/audio-video/video-lsi/small-to-medium-sized-tft-lcds",
+    "category": "Audio & Video^Video LSIs^Display Controller Series for Small to Medium-Sized TFT LCD"
+  },
+  {
+    "url": "https://www.rohm.com/products/speech-synthesis-lsi/automotive-grade",
+    "category": "Speech Synthesis LSIs^Automotive-grade"
+  },
+  {
+    "url": "https://www.rohm.com/products/speech-synthesis-lsi/long-playback",
+    "category": "Speech Synthesis LSIs^Long Playback"
+  },
+  {
+    "url": "https://www.rohm.com/products/speech-synthesis-lsi/short-playback",
+    "category": "Speech Synthesis LSIs^Short Playback"
+  },
+  {
+    "url": "https://www.rohm.com/products/speech-synthesis-lsi/supports-external-memory",
+    "category": "Speech Synthesis LSIs^Supports External Memory"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/speech-play-back",
+    "category": "Speech Synthesis LSIs^Speech Play Back MCUs (8bit)"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/solist-ai",
+    "category": "Microcontrollers (MCUs)^Edge Computing AI MCUs (Solist-AI™ MCUs)"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/logicoa",
+    "category": "Microcontrollers (MCUs)^Power Electronics Control MCUs (LogiCoA™ MCUs)"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/general-purpose",
+    "category": "Microcontrollers (MCUs)^General-purpose MCUs (16bit)"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/automotive",
+    "category": "Microcontrollers (MCUs)^Automotive MCUs (32bit)"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/usb-security",
+    "category": "Microcontrollers (MCUs)^USB Interface & Security function MCUs (32bit)"
+  },
+  {
+    "url": "https://www.rohm.com/products/micon/speech-play-back",
+    "category": "Microcontrollers (MCUs)^Speech Play Back MCUs (8bit)"
+  },
+  {
+    "url": "https://www.rohm.com/products/led/chip-leds-mono-color-type",
+    "category": "Opto Electronics^LED^Chip LEDs (Mono-color type)"
+  },
+  {
+    "url": "https://www.rohm.com/products/led/chip-leds-multi-color-type",
+    "category": "Opto Electronics^LED^Chip LEDs (Multi-color type)"
+  },
+  {
+    "url": "https://www.rohm.com/products/led/led-lamps-mono-color-type",
+    "category": "Opto Electronics^LED^LED Lamps (Mono-color type)"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/infrared-light-emitting-diodes",
+    "category": "Opto Electronics^LED^Infrared Light Emitting Diodes (NIR: Near Infrared)"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/swir-led",
+    "category": "Opto Electronics^LED^Infrared Light Emitting Diodes (SWIR: Short Wavelength Infrared)"
+  },
+  {
+    "url": "https://www.rohm.com/products/laser-diodes/high-power-lasers",
+    "category": "Opto Electronics^Laser Diodes^High Output Laser Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/laser-diodes/infrared-lasers",
+    "category": "Opto Electronics^Laser Diodes^Infrared Laser Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/laser-diodes/red-lasers",
+    "category": "Opto Electronics^Laser Diodes^Red Laser Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/laser-diodes/multi-beam-lasers",
+    "category": "Opto Electronics^Laser Diodes^Multi beam Laser Diodes"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/transmission-type-photointerrupters",
+    "category": "Opto Electronics^Optical Sensors^Transmission Type Photointerrupters"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/reflective-type-photosensors",
+    "category": "Opto Electronics^Optical Sensors^Reflective Type Photosensors"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/infrared-light-emitting-diodes",
+    "category": "Opto Electronics^Optical Sensors^Infrared Light Emitting Diodes (NIR: Near Infrared)"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/swir-led",
+    "category": "Opto Electronics^Optical Sensors^Infrared Light Emitting Diodes (SWIR: Short Wavelength Infrared)"
+  },
+  {
+    "url": "https://www.rohm.com/products/optical-sensors/phototransistors",
+    "category": "Opto Electronics^Optical Sensors^Phototransistors (NIR: Near Infrared)"
+  },
+  {
+    "url": "https://www.rohm.com/products/sensors-mems/ambient-light-sensor-ics",
+    "category": "Opto Electronics^Optical Sensors^Ambient Light Sensor ICs"
+  },
+  {
+    "url": "https://www.rohm.com/products/wireless-communication/specified-low-power-radio-modules",
+    "category": "Wireless Modules / Printheads^Wireless Communication Modules^Wi-SUN Modules"
+  },
+  {
+    "url": "https://www.rohm.com/enocean",
+    "category": "Wireless Modules / Printheads^Wireless Communication Modules^EnOcean Modules"
+  },
+  {
+    "url": "https://www.rohm.com/products/wireless-communication/bluetooth-module/bluetooth-low-energy",
+    "category": "Wireless Modules / Printheads^Wireless Communication Modules^Bluetooth® low energy Modules"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/mobile-printers",
+    "category": "Wireless Modules / Printheads^Printheads^For Mobile Printers"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/label-writer",
+    "category": "Wireless Modules / Printheads^Printheads^For Label writers"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/gaming-equipment-atms",
+    "category": "Wireless Modules / Printheads^Printheads^For Receipt, Label Printers"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/pos-terminals",
+    "category": "Wireless Modules / Printheads^Printheads^For High-speed Receipt, Smart POS Printers"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/ticket-or-scale-printers",
+    "category": "Wireless Modules / Printheads^Printheads^For Large-sized, High-speed Label Printers"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/distribution-or-food-labels",
+    "category": "Wireless Modules / Printheads^Printheads^For Large-sized, High-speed Label Printers with The Heat historical control"
+  },
+  {
+    "url": "https://www.rohm.com/products/printheads/date-code",
+    "category": "Wireless Modules / Printheads^Printheads^For TTO (Thermal Transfer Overprinters)"
+  },
+  {
+    "url": "https://www.rohm.com/foundry-service/thin-film-piezoelectric-mems",
+    "category": "Foundry Service^Thin-Film Piezoelectric MEMS"
+  },
+  {
+    "url": "https://www.lapis-semi.com/en/foundry/waferfoundry.html",
+    "category": "Foundry Service^Wafer (LAPIS)"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_buck_mv.html",
+    "category": "电源管理^DC-DC电源管理^降压型变换器^中压降压"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_buck_mvsr.html",
+    "category": "电源管理^DC-DC电源管理^降压型变换器^中压降压同步整流"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_buck_hv.html",
+    "category": "电源管理^DC-DC电源管理^降压型变换器^高压降压"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_buck_hvsr.html",
+    "category": "电源管理^DC-DC电源管理^降压型变换器^高压降压同步整流"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_boost_mvsbd.html",
+    "category": "电源管理^DC-DC电源管理^升压型变换器^中压升压（内置SBD）"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_boost_mvsr.html",
+    "category": "电源管理^DC-DC电源管理^升压型变换器^中压升压同步整流"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_boost_hv.html",
+    "category": "电源管理^DC-DC电源管理^升压型变换器^高压升压"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_led_buck.html",
+    "category": "电源管理^DC-DC电源管理^LED驱动^降压恒流驱动"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_led_bucksr.html",
+    "category": "电源管理^DC-DC电源管理^LED驱动^降压同步整流恒流驱动"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_led_boost.html",
+    "category": "电源管理^DC-DC电源管理^LED驱动^升压恒流驱动"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_led_boostsbd.html",
+    "category": "电源管理^DC-DC电源管理^LED驱动^升压恒流驱动（内置SBD）"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_DC_DC_led_backlight.html",
+    "category": "电源管理^DC-DC电源管理^LED驱动^背光驱动"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_AC_DC_N_Isolated.html",
+    "category": "电源管理^AC-DC电源管理^非隔离型变换器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_AC_DC_Isolated.html",
+    "category": "电源管理^AC-DC电源管理^隔离型变换器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_BMS_monitors_balancers.html",
+    "category": "电源管理^BMS^电池监控与均衡器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_BMS_protectors.html",
+    "category": "电源管理^BMS^电池保护器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_BMS_active.html",
+    "category": "电源管理^BMS^主动均衡器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MD_IPM.html",
+    "category": "电源管理^Motor Drivers^IPM"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_HBS.html",
+    "category": "信号链^直流电源载波通讯"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_AB_audio.html",
+    "category": "音频功放^AB类音频功率放大器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_D_audio.html",
+    "category": "音频功放^D类音频功率放大器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_hall_switch.html",
+    "category": "MEMS传感器^霍尔传感器^霍尔开关传感器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_linear_hall.html",
+    "category": "MEMS传感器^霍尔传感器^线性霍尔传感器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_motor_driver.html",
+    "category": "MEMS传感器^霍尔传感器^霍尔开关电机驱动器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_current_sensors.html",
+    "category": "MEMS传感器^霍尔传感器^电流传感器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_angle.html",
+    "category": "MEMS传感器^TMR磁传感器^TMR角度传感器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_IR_NDIR.html",
+    "category": "MEMS传感器^红外传感器^非分光红外型气体探测器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_IR_non_contact.html",
+    "category": "MEMS传感器^红外传感器^非接触式温度传感器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_IR_thermopile.html",
+    "category": "MEMS传感器^红外传感器^非制冷红外热电堆阵列探测器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_IR_Vox.html",
+    "category": "MEMS传感器^红外传感器^非制冷氧化钒红外焦平面探测器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_pressure_gauge.html",
+    "category": "MEMS传感器^压力传感器^表压传感器"
+  },
+  {
+    "url": "https://www.xlsemi.com/products_MEMS_pressure_absolute.html",
+    "category": "MEMS传感器^压力传感器^绝压传感器"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu32?series=m0",
+    "category": "32-bit MCU^M0 Series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu32?series=m3",
+    "category": "32-bit MCU^M3 Series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu32?series=m4",
+    "category": "32-bit MCU^M4 Series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu8?series=io&series2=E",
+    "category": "8-bit MCU^I/O Series^E series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu8?series=io&series2=F",
+    "category": "8-bit MCU^I/O Series^F series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu8?series=ad&series2=E",
+    "category": "8-bit MCU^AD Series^E series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu8?series=ad&series2=F",
+    "category": "8-bit MCU^AD Series^F series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu8?series=touch&series2=E",
+    "category": "8-bit MCU^Touch Series^E series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu8?series=touch&series2=F",
+    "category": "8-bit MCU^Touch Series^F series"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/pmic/new",
+    "category": "PM"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu32?series=auto-m0",
+    "category": "Automotive^32-bit MCU^M0"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/mcu32?series=auto-m3",
+    "category": "Automotive^32-bit MCU^M3"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/pmics/datasheet",
+    "category": "PMICs"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/ddr5/list",
+    "category": "DDR Solution"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/bms?series=asic",
+    "category": "BMS^ASIC"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/datasheet/bms?series=mcu",
+    "category": "BMS^MCU+"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/soc/datasheet?ttype=three",
+    "category": "Motor Control^3-phase Motor"
+  },
+  {
+    "url": "https://www.fremontmicro.com/fmdweb-en/web/get/soc/datasheet?ttype=one",
+    "category": "Motor Control^Single-phase Motor"
+  }
+]

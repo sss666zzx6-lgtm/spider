@@ -1,0 +1,222 @@
+[
+  {
+    "url": "69",
+    "category": "Analog signal^Operational amplifiers (OPA)^General OPA"
+  },
+  {
+    "url": "71",
+    "category": "Analog signal^Operational amplifiers (OPA)^High precision OPA"
+  },
+  {
+    "url": "72",
+    "category": "Analog signal^Operational amplifiers (OPA)^Low power OPA"
+  },
+  {
+    "url": "89",
+    "category": "Analog signal^Operational amplifiers (OPA)^High voltage OPA"
+  },
+  {
+    "url": "95",
+    "category": "Analog signal^Operational amplifiers (OPA)^High-speed OPA"
+  },
+  {
+    "url": "75",
+    "category": "Analog signal^Analog switches^General analog switch"
+  },
+  {
+    "url": "77",
+    "category": "Analog signal^Analog switches^USB switch"
+  },
+  {
+    "url": "78",
+    "category": "Analog signal^Analog switches^MIPI switch"
+  },
+  {
+    "url": "102",
+    "category": "Analog signal^Analog switches^I2C Switch"
+  },
+  {
+    "url": "107",
+    "category": "Analog signal^Analog switches^High voltage analog switch"
+  },
+  {
+    "url": "108",
+    "category": "Analog signal^Analog switches^PCIE High-speed switch"
+  },
+  {
+    "url": "109",
+    "category": "Analog signal^Analog switches^SIM card Analog switch"
+  },
+  {
+    "url": "110",
+    "category": "Analog signal^Analog switches^Depletion Mode Switch"
+  },
+  {
+    "url": "111",
+    "category": "Analog signal^Analog switches^MSDI"
+  },
+  {
+    "url": "88",
+    "category": "Analog signal^Level shifter"
+  },
+  {
+    "url": "97",
+    "category": "Analog signal^USB Redriver"
+  },
+  {
+    "url": "98",
+    "category": "Analog signal^Sensor^Temperature Sensors"
+  },
+  {
+    "url": "115",
+    "category": "Analog signal^Sensor^Hall Sensor"
+  },
+  {
+    "url": "105",
+    "category": "Analog signal^CAN FD Transceiver"
+  },
+  {
+    "url": "117",
+    "category": "Analog signal^Hub"
+  },
+  {
+    "url": "73",
+    "category": "Analog signal^Comparator"
+  },
+  {
+    "url": "91",
+    "category": "Analog signal^Current sensors"
+  },
+  {
+    "url": "86",
+    "category": "Analog signal^Class D audio amplifier"
+  },
+  {
+    "url": "83",
+    "category": "Analog signal^Audio / video driver^Video filter driver"
+  },
+  {
+    "url": "85",
+    "category": "Analog signal^Audio / video driver^Video filter + audio line driver combo chip"
+  },
+  {
+    "url": "48",
+    "category": "Power management^Chargers^Linear Charger IC"
+  },
+  {
+    "url": "49",
+    "category": "Power management^Chargers^Switching charger"
+  },
+  {
+    "url": "56",
+    "category": "Power management^AC/DC converters^Intelligent dimming CC_CV drive^APFC CC flyback LED driver"
+  },
+  {
+    "url": "57",
+    "category": "Power management^AC/DC converters^Intelligent dimming CC_CV drive^APFC CV flyback LED driver"
+  },
+  {
+    "url": "58",
+    "category": "Power management^AC/DC converters^Intelligent dimming CC_CV drive^APFC CC buck LED driver"
+  },
+  {
+    "url": "59",
+    "category": "Power management^AC/DC converters^Intelligent dimming CC_CV drive^APFC CC boost LED driver"
+  },
+  {
+    "url": "60",
+    "category": "Power management^AC/DC converters^Intelligent dimming CC_CV drive^Linear CC LED driver"
+  },
+  {
+    "url": "96",
+    "category": "Power management^AC/DC converters^Intelligent dimming CC_CV drive^DC-DC CC buck LED driver"
+  },
+  {
+    "url": "62",
+    "category": "Power management^AC/DC converters^Deep dimming with flickerless driver^General ripple remove driver"
+  },
+  {
+    "url": "63",
+    "category": "Power management^AC/DC converters^Deep dimming with flickerless driver^Filament ripple remove driver"
+  },
+  {
+    "url": "87",
+    "category": "Power management^AC/DC converters^High frequency synchronous rectification"
+  },
+  {
+    "url": "99",
+    "category": "Power management^AC/DC converters^Dimming Interface Converter"
+  },
+  {
+    "url": "100",
+    "category": "Power management^AC/DC converters^GaN Controller"
+  },
+  {
+    "url": "101",
+    "category": "Power management^AC/DC converters^SSR-PWM Flyback Topology - PD Fast Charging"
+  },
+  {
+    "url": "65",
+    "category": "Power management^Drivers^Motor driver"
+  },
+  {
+    "url": "66",
+    "category": "Power management^Drivers^MOSFET driver"
+  },
+  {
+    "url": "94",
+    "category": "Power management^Drivers^LED driver"
+  },
+  {
+    "url": "67",
+    "category": "Power management^Drivers^LED flash driver"
+  },
+  {
+    "url": "93",
+    "category": "Power management^Drivers^LCD/OLED driver"
+  },
+  {
+    "url": "79",
+    "category": "Power management^Load switch^Load switch"
+  },
+  {
+    "url": "80",
+    "category": "Power management^Load switch^Li-battery protection"
+  },
+  {
+    "url": "104",
+    "category": "Power management^High Side Driver"
+  },
+  {
+    "url": "106",
+    "category": "Power management^Power module"
+  },
+  {
+    "url": "116",
+    "category": "Power management^TEC Controller"
+  },
+  {
+    "url": "52",
+    "category": "Power management^General power management^Linear & low-dropout (LDO) regulators"
+  },
+  {
+    "url": "53",
+    "category": "Power management^General power management^Reset"
+  },
+  {
+    "url": "103",
+    "category": "Power management^General power management^Voltage Detection IC"
+  },
+  {
+    "url": "46",
+    "category": "Power management^DC/DC^DC switching buck converter"
+  },
+  {
+    "url": "112",
+    "category": "Power management^DC/DC^DC switching boost/buck controller"
+  },
+  {
+    "url": "45",
+    "category": "Power management^DC/DC^DC switching boost converter"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/epd-panel-power-default",
+    "category": "EPD Panel Power^EPD Panel Power IC"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/boost-converter",
+    "category": "Switching Regulator^Boost DC/DC Converter"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/hv-buck-converter",
+    "category": "Switching Regulator^HV Buck DC/DC Converter"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/lv-buck-converter",
+    "category": "Switching Regulator^LV Buck DC/DC Converter"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/white-led-driver-default",
+    "category": "LED Driver IC^White LED Driver"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/motor-driver-default",
+    "category": "Motor Driver IC"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/usb-power-switch-default",
+    "category": "USB Power Switch IC^USB Power Switch"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/reset-ic-default",
+    "category": "Reset IC"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/battery-management-default",
+    "category": "Li-ion Charger IC^Li-ion Charger"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/linear-regulator-default",
+    "category": "Low Dropout Regulator"
+  },
+  {
+    "url": "https://www.fitipower.com/en/power-ic/products/ddr5-power-default",
+    "category": "DDR5"
+  }
+]

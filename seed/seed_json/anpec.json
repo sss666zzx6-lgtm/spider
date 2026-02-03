@@ -1,0 +1,138 @@
+[
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Driver/",
+    "category": "Motor Driver^Driver"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Hall_in_one_Driver/",
+    "category": "Motor Driver^Hall in one Driver"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Hall_in_one_Driver__2/",
+    "category": "Motor Driver^Hall in one Driver 2-Phase"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Hall_in_one_Driver__3/",
+    "category": "Motor Driver^Hall in one Driver 3-Phase"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Hall_Effect_Sensor_Latch/",
+    "category": "Motor Driver^Hall Effect Sensor Latch"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Pre-Driver/",
+    "category": "Motor Driver^Pre-Driver"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/Pre-Driver__2/",
+    "category": "Motor Driver^Pre-Driver 3-Phase"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Motor-Driver/60/",
+    "category": "Motor Driver^Sensorless Driver"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switching-Regulator/Boost_Converter/",
+    "category": "Switching Regulator^Boost Converter"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switching-Regulator/Buck_Controller/",
+    "category": "Switching Regulator^Buck Controller"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switching-Regulator/Buck_Converter/",
+    "category": "Switching Regulator^Buck Converter"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switching-Regulator/Inverting_Converter/",
+    "category": "Switching Regulator^Inverting Converter"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switching-Regulator/DrMOS/",
+    "category": "Switching Regulator^DrMOS"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switching-Regulator/Power_Module/",
+    "category": "Switching Regulator^Power Module"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Linear-Regulator/Single_Output_LDO_Regulator/",
+    "category": "Linear Regulator^Single Output LDO Regulator"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Linear-Regulator/75/",
+    "category": "Linear Regulator^DDR Termination Regulator"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Linear-Regulator/LDO_Regulator_Controller/",
+    "category": "Linear Regulator^LDO Regulator Controller"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Linear-Regulator/Daul_Output_LDO_Regulator/",
+    "category": "Linear Regulator^Daul Output LDO Regulator"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switch/Power_Switch/",
+    "category": "Switch^Power Switch"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switch/USB_Charger_ID/",
+    "category": "Switch^USB Charger ID"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switch/Power_Distribution_Controller/",
+    "category": "Switch^Power Distribution Controller"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Switch/Analog_Switch/",
+    "category": "Switch^Analog Switch"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Battery-Management/Battery_Charger_Linear/",
+    "category": "Battery Management^Battery Charger (Linear)"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Battery-Management/Battery_Charger_Switching/",
+    "category": "Battery Management^Battery Charger (Switching)"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Battery-Management/Battery_Charger_Protection_IC/",
+    "category": "Battery Management^Battery Charger Protection IC"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Audio-Product/Speaker_Amplifier/",
+    "category": "Audio Product^Speaker Amplifier"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Audio-Product/Headphone_Amplifier/",
+    "category": "Audio Product^Headphone Amplifier"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Audio-Product/Digital_Input_Audio_Amplifier/",
+    "category": "Audio Product^Digital Input Audio Amplifier"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Lighting-Display-Product/White_LED_Driver/",
+    "category": "Lighting and Display Product^White LED Driver"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Lighting-Display-Product/IR_LED_Driver/",
+    "category": "Lighting and Display Product^IR LED Driver"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Sensor/Color_Sensor/",
+    "category": "Sensor^Color Sensor"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Sensor/Ambient_Sensor/",
+    "category": "Sensor^Ambient Sensor"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/PMIC/",
+    "category": "PMIC"
+  },
+  {
+    "url": "https://www.anpec.com.tw/en/product-list/Analog-Digital-Converter/",
+    "category": "Analog to Digital Converter"
+  }
+]

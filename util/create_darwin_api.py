@@ -23,6 +23,7 @@ def create_api(plan_id: str, path: str, custom_map: Dict,
         "secret_key": SK,
         "custom_map": custom_map,
         "timeout": 30000,
+        # "normalize":False,
         "allow_dispatch": False,
     }
     if headers:

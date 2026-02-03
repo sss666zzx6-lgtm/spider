@@ -1,0 +1,1930 @@
+[
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/high-speed-comparators.html",
+    "category": "Amplifiers and comparators^Comparators^High-speed comparators"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/low-power-comparators.html",
+    "category": "Amplifiers and comparators^Comparators^Low power comparators"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/standard-comparators.html",
+    "category": "Amplifiers and comparators^Comparators^Standard comparators"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/current-voltage-power-monitors.html",
+    "category": "Amplifiers and comparators^Current/Voltage/Power monitors"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/current-sensing.html",
+    "category": "Amplifiers and comparators^Current sensing "
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/high-speed-op-amps-gt50-mhz.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^High-speed Op Amps (>50 MHz)"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/power-operational-amplifiers.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Power operational amplifiers"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/high-voltage-op-amps-from-10-v-to-36-v-series.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Precision Op Amps (<50 MHz)^High voltage Op Amps from 10 V to 36 V series"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/low-input-bias-current-op-amps.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Precision Op Amps (<50 MHz)^Low input bias current Op Amps"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/low-offset-voltage-op-amps-lt1-mv.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Precision Op Amps (<50 MHz)^Low offset voltage Op Amps (<1 mV)"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/low-power-op-amps-lt1-ma.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Precision Op Amps (<50 MHz)^Low power Op Amps (<1 mA)"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/rail-to-rail-op-amps.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Precision Op Amps (<50 MHz)^Rail-to-rail Op Amps"
+  },
+  {
+    "url": "https://www.st.com/en/amplifiers-and-comparators/standard-op-amps.html",
+    "category": "Amplifiers and comparators^Operational amplifiers (Op Amps)^Standard Op Amps"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/class-ab-audio-power-amplifiers.html",
+    "category": "Audio ICs^Audio amplifiers^Class-AB audio power amplifiers"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/class-d-audio-power-amplifiers.html",
+    "category": "Audio ICs^Audio amplifiers^Class-D audio power amplifiers"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/digital-audio-power-amplifiers.html",
+    "category": "Audio ICs^Audio amplifiers^Digital audio power amplifiers"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/headphone.html",
+    "category": "Audio ICs^Audio amplifiers^Headphone and low power amplifiers^Headphone "
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/low-power-amplifiers.html",
+    "category": "Audio ICs^Audio amplifiers^Headphone and low power amplifiers^Low power amplifiers "
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/audio-mems-sensors.html",
+    "category": "Audio ICs^Audio MEMS sensors"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/analog-audio-processor-ics.html",
+    "category": "Audio ICs^Audio processors^Analog audio processor ICs"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/digital-audio-processors-and-drivers.html",
+    "category": "Audio ICs^Audio processors^Digital audio processors and drivers"
+  },
+  {
+    "url": "https://www.st.com/en/audio-ics/sound-terminal-digital-audio-subsystems.html",
+    "category": "Audio ICs^Sound terminal digital audio subsystems"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-adas-devices/automotive-radar-transceivers.html",
+    "category": "Automotive ADAS devices^Automotive radar transceivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-comparators.html",
+    "category": "Automotive analog and power^Automotive comparators "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-current-sensing.html",
+    "category": "Automotive analog and power^Automotive current sensing"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-brushed-dc-motor-drivers.html",
+    "category": "Automotive analog and power^Automotive motor drivers^Automotive brushed DC motor drivers "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-op-amps.html",
+    "category": "Automotive analog and power^Automotive Op Amps"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-bridge-rectifier-diodes.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive bridge rectifier diodes"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-igbts.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive IGBTs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-power-mosfets.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive power MOSFETs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-power-schottky-diodes.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive power Schottky diodes"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-protection-and-filtering.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive protection and filtering"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-sic-diodes.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive SiC diodes"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-sic-mosfets.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive SiC MOSFETs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-thyristors-scrs.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive thyristors (SCRs)"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-ultrafast-diodes.html",
+    "category": "Automotive analog and power^Automotive power discretes^Automotive ultrafast diodes"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/airbag-ics.html",
+    "category": "Automotive analog and power^Chassis and safety ICs^Airbag ICs "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/braking-ics.html",
+    "category": "Automotive analog and power^Chassis and safety ICs^Braking ICs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/steering-ics.html",
+    "category": "Automotive analog and power^Chassis and safety ICs^Steering ICs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/door-module-drivers.html",
+    "category": "Automotive analog and power^Door module drivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/configurable-low-high-side-switches.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^Configurable low/high side switches"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/high-side-switches.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^High side switches"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/high-side-switches-for-24v-board-net.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^High side switches for 24V board net"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/high-side-switches-for-48v-board-net.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^High side switches for 48V board net"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/high-side-switches-with-spi-and-asymmetrical-outputs.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^High side switches with SPI and asymmetrical outputs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/low-side-switches.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^Low side switches"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/smart-switches-for-wire-harness-protection.html",
+    "category": "Automotive analog and power^High and low side drivers/switches^Smart switches for wire harness protection"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/led-drivers.html",
+    "category": "Automotive analog and power^LED drivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/linear-voltage-regulators.html",
+    "category": "Automotive analog and power^Linear voltage regulators"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/multi-output-driver-ics.html",
+    "category": "Automotive analog and power^Multi-output driver ICs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/power-management-and-system-basis-ics.html",
+    "category": "Automotive analog and power^Power management and system basis ICs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/alternator-regulators.html",
+    "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Alternator regulators"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/automotive-battery-management-ics.html",
+    "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Automotive battery management ICs  "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/engine-management.html",
+    "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Engine management"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/ignition-controllers-and-drivers.html",
+    "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Ignition controllers and drivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/transmission.html",
+    "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Transmission"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/special-functions.html",
+    "category": "Automotive analog and power^Special functions"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/transceivers.html",
+    "category": "Automotive analog and power^Transceivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-analog-and-power/valve-driver-ics.html",
+    "category": "Automotive analog and power^Valve driver ICs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-infotainment-and-telematics/automotive-class-ab-audio-power-amplifiers.html",
+    "category": "Automotive infotainment and telematics^Automotive audio power amplifiers^Automotive Class-AB audio power amplifiers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-infotainment-and-telematics/automotive-class-d-audio-power-amplifiers.html",
+    "category": "Automotive infotainment and telematics^Automotive audio power amplifiers^Automotive class-D audio power amplifiers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-infotainment-and-telematics/infotainment-processors.html",
+    "category": "Automotive infotainment and telematics^Automotive infotainment SoCs^Infotainment processors"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-infotainment-and-telematics/terrestrial-radio-receivers.html",
+    "category": "Automotive infotainment and telematics^Radio receivers^Terrestrial radio receivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-infotainment-and-telematics/telematics-and-connectivity-processors.html",
+    "category": "Automotive infotainment and telematics^Telematics and connectivity processors"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-logic-ics/buffers-drivers.html",
+    "category": "Automotive logic ICs^Buffers/drivers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-logic-ics/counters-encoders-decoders.html",
+    "category": "Automotive logic ICs^Counters/encoders/decoders"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-logic-ics/flipflop-registers.html",
+    "category": "Automotive logic ICs^FlipFlop/registers"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-logic-ics/gates.html",
+    "category": "Automotive logic ICs^Gates"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-b-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC56  B line MCUs "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-c-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC56 C line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-d-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC56 D line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-2b-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC58 2B line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-4b-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC58 4B line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-c-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC58  C line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-g-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC58 G line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-h-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 general purpose MCUs^SPC58 H line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-a-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC56 A line MCUs "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-ap-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC56 AP line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-l-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC56 L line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-m-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC56 M line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc56-p-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC56  P line MCUs "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc57-0s-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC57 0S line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc57-2l-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC57 2L line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc57-4s-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC57 4S line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc57-k-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC57 K line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-e-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC58 E line MCUs "
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/spc58-n-line-mcus.html",
+    "category": "Automotive microcontrollers^SPC5 32-bit automotive  MCUs^SPC5 performance MCUs^SPC58 N line MCUs"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/stellar-e-electrification.html",
+    "category": "Automotive microcontrollers^Stellar 32-bit automotive MCUs^Stellar E electrification"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/stellar-g-gateway-and-body.html",
+    "category": "Automotive microcontrollers^Stellar 32-bit automotive MCUs^Stellar G gateway and body"
+  },
+  {
+    "url": "https://www.st.com/en/automotive-microcontrollers/stellar-p-motion-control.html",
+    "category": "Automotive microcontrollers^Stellar 32-bit automotive MCUs^Stellar P motion control"
+  },
+  {
+    "url": "https://www.st.com/en/clocks-and-timers/battery-and-crystal.html",
+    "category": "Clocks and timers^Real-time clock (RTC) ICs^Battery and crystal "
+  },
+  {
+    "url": "https://www.st.com/en/clocks-and-timers/rtc-parallel-interface-timekeepers.html",
+    "category": "Clocks and timers^Real-time clock (RTC) ICs^RTC - Parallel interface (Timekeepers)"
+  },
+  {
+    "url": "https://www.st.com/en/clocks-and-timers/rtc-serial-interface.html",
+    "category": "Clocks and timers^Real-time clock (RTC) ICs^RTC - Serial interface"
+  },
+  {
+    "url": "https://www.st.com/en/clocks-and-timers/timers.html",
+    "category": "Clocks and timers^Timers"
+  },
+  {
+    "url": "https://www.st.com/en/data-converters/a-d-d-a-converters.html",
+    "category": "Data converters^A/D - D/A converters"
+  },
+  {
+    "url": "https://www.st.com/en/data-converters/isolated-adcs.html",
+    "category": "Data converters^Isolated ADCs"
+  },
+  {
+    "url": "https://www.st.com/en/data-converters/metering-ics.html",
+    "category": "Data converters^Metering ICs"
+  },
+  {
+    "url": "https://www.st.com/en/digital-set-top-box-ics/satellite-demodulators.html",
+    "category": "Digital set-top box ICs^Demodulators and tuners^Satellite demodulators"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/automotive-grade-bridge-rectifier-diodes.html",
+    "category": "Diodes and rectifiers^Automotive-grade diodes^Automotive-grade bridge rectifier diodes"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/automotive-grade-schottky-diodes.html",
+    "category": "Diodes and rectifiers^Automotive-grade diodes^Automotive-grade Schottky diodes"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/automotive-grade-silicon-carbide-diodes.html",
+    "category": "Diodes and rectifiers^Automotive-grade diodes^Automotive-grade silicon carbide diodes"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/automotive-grade-ultrafast-diodes.html",
+    "category": "Diodes and rectifiers^Automotive-grade diodes^Automotive-grade ultrafast diodes"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/bridge-rectifier-diodes.html",
+    "category": "Diodes and rectifiers^Bridge rectifier diodes"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/field-effect-rectifiers.html",
+    "category": "Diodes and rectifiers^Field effect rectifiers"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/power-schottky-high-temperature.html",
+    "category": "Diodes and rectifiers^Schottky barrier diodes^Power Schottky^Power Schottky High Temperature"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/power-schottky-low-vf.html",
+    "category": "Diodes and rectifiers^Schottky barrier diodes^Power Schottky^Power Schottky Low VF"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/power-schottky-medium-vf-and-ir.html",
+    "category": "Diodes and rectifiers^Schottky barrier diodes^Power Schottky^Power Schottky medium VF and IR"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/signal-schottky.html",
+    "category": "Diodes and rectifiers^Schottky barrier diodes^Signal Schottky"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/silicon-carbide-diodes.html",
+    "category": "Diodes and rectifiers^Silicon Carbide Diodes"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-low-qrr-200v-400v.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^200V to 400V ultrafast rectifiers ^Ultrafast - low QRR (200V - 400V)"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-low-vf-200v-400v.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^200V to 400V ultrafast rectifiers ^Ultrafast Low VF (200V - 400V)"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-medium-vf-and-qrr-200v-400v.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^200V to 400V ultrafast rectifiers ^Ultrafast Medium VF and QRR (200V - 400V)"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-low-qrr-600v.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^600V ultrafast rectifiers  ^Ultrafast - low QRR (600V)"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-low-vf-600v.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^600V ultrafast rectifiers  ^Ultrafast Low VF (600V)"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-medium-vf-and-qrr-600v.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^600V ultrafast rectifiers  ^Ultrafast Medium VF and QRR (600V)"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/ultrafast-tandem.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^600V ultrafast rectifiers  ^Ultrafast Tandem"
+  },
+  {
+    "url": "https://www.st.com/en/diodes-and-rectifiers/800v-to-1200v-ultrafast-rectifiers.html",
+    "category": "Diodes and rectifiers^Ultrafast rectifiers^800V to 1200V ultrafast rectifiers"
+  },
+  {
+    "url": "https://www.st.com/en/imaging-and-photonics-solutions/ambient-light-sensors.html",
+    "category": "Imaging and photonics solutions^Ambient light sensors"
+  },
+  {
+    "url": "https://www.st.com/en/imaging-and-photonics-solutions/automotive-cmos-image-sensors.html",
+    "category": "Imaging and photonics solutions^CMOS image sensors^Automotive CMOS image sensors"
+  },
+  {
+    "url": "https://www.st.com/en/imaging-and-photonics-solutions/industrial-consumer-cmos-image-sensors.html",
+    "category": "Imaging and photonics solutions^CMOS image sensors^Industrial & consumer CMOS image sensors"
+  },
+  {
+    "url": "https://www.st.com/en/imaging-and-photonics-solutions/time-of-flight-sensors.html",
+    "category": "Imaging and photonics solutions^Time-of-Flight sensors"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/darlington-arrays.html",
+    "category": "Interfaces and transceivers^Darlington arrays"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/level-translators.html",
+    "category": "Interfaces and transceivers^I/O expanders and level translators^Level translators"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/io-link-transceivers.html",
+    "category": "Interfaces and transceivers^IO-Link transceivers"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/isolated-interfaces.html",
+    "category": "Interfaces and transceivers^Isolated interfaces"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/power-line-transceivers.html",
+    "category": "Interfaces and transceivers^Power line transceivers"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/rs-232.html",
+    "category": "Interfaces and transceivers^RS-232"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/rs-422-rs-423-rs-485.html",
+    "category": "Interfaces and transceivers^RS-422 RS-423 RS-485"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/smartcard-interfaces.html",
+    "category": "Interfaces and transceivers^Smartcard interfaces "
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/usb-charging-controllers.html",
+    "category": "Interfaces and transceivers^USB^USB charging controllers"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/usb-transceivers.html",
+    "category": "Interfaces and transceivers^USB^USB transceivers"
+  },
+  {
+    "url": "https://www.st.com/en/interfaces-and-transceivers/usb-type-c-and-power-delivery-controllers.html",
+    "category": "Interfaces and transceivers^USB^USB type-C and power delivery controllers"
+  },
+  {
+    "url": "https://www.st.com/en/memories/nvram-battery-options.html",
+    "category": "Memories^NVRAM battery options"
+  },
+  {
+    "url": "https://www.st.com/en/memories/nvram-zeropower.html",
+    "category": "Memories^NVRAM ZEROPOWER"
+  },
+  {
+    "url": "https://www.st.com/en/memories/automotive-serial-eeprom.html",
+    "category": "Memories^Serial EEPROM^Automotive serial EEPROM"
+  },
+  {
+    "url": "https://www.st.com/en/memories/spd-eeprom.html",
+    "category": "Memories^Serial EEPROM^SPD EEPROM "
+  },
+  {
+    "url": "https://www.st.com/en/memories/standard-i2c-eeprom.html",
+    "category": "Memories^Serial EEPROM^Standard Serial EEPROM^Standard I2C EEPROM"
+  },
+  {
+    "url": "https://www.st.com/en/memories/standard-microwire-eeprom.html",
+    "category": "Memories^Serial EEPROM^Standard Serial EEPROM^Standard Microwire EEPROM"
+  },
+  {
+    "url": "https://www.st.com/en/memories/standard-spi-eeprom.html",
+    "category": "Memories^Serial EEPROM^Standard Serial EEPROM^Standard SPI EEPROM"
+  },
+  {
+    "url": "https://www.st.com/en/memories/standard-serial-page-eeprom.html",
+    "category": "Memories^Standard Serial Page EEPROM"
+  },
+  {
+    "url": "https://www.st.com/en/memories/unique-id-serial-eeprom.html",
+    "category": "Memories^Unique ID serial EEPROM"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/accelerometers.html",
+    "category": "MEMS and sensors^Accelerometers"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/automotive-sensors.html",
+    "category": "MEMS and sensors^Automotive sensors"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/biosensors.html",
+    "category": "MEMS and sensors^Biosensors"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/e-compasses.html",
+    "category": "MEMS and sensors^e-Compasses"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/gyroscopes.html",
+    "category": "MEMS and sensors^Gyroscopes"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/inemo-inertial-modules.html",
+    "category": "MEMS and sensors^iNEMO-inertial modules"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/infrared-ir-sensors.html",
+    "category": "MEMS and sensors^Infrared (IR) sensors"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/mems-microphones.html",
+    "category": "MEMS and sensors^MEMS microphones"
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/pressure-sensors.html",
+    "category": "MEMS and sensors^Pressure sensors "
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/proximity-sensors.html",
+    "category": "MEMS and sensors^Proximity sensors "
+  },
+  {
+    "url": "https://www.st.com/en/mems-and-sensors/temperature-sensors.html",
+    "category": "MEMS and sensors^Temperature sensors"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F2 series^STM32F2x5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f2x7.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F2 series^STM32F2x7"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f401.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F401"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f405-415.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F405/415 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f407-417.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F407/417 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f410.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F410"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f411.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F411"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F412 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f413-423.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F413/423"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f427-437.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F427/437"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F429/439"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f446.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F446"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f469-479.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F4 series ^STM32F469/479"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x0-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x0 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x2.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x2 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x3.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x3 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x5 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x6.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x6"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x7.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x7"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f7x9.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32F7 series^STM32F7x9"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h503.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H503"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h523-533.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H523/533"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h562.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H562"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h563-573.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H563/573"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h723-733.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H723/733"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H725/735 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h730-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H730 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h742.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H742"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h743-753.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H743/753"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h745-755.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H745/755"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h747-757.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H747/757"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h750-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H750 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7a3-7b3.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H7A3/7B3"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7b0-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H7B0 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r3-7s3.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H7R3/7S3"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h7r7-7s7.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H7R7/7S7"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32N6 series^STM32N6x5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32n6x7.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32N6 series^STM32N6x7"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c0-series.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32C0 series"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x0-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F0 series^STM32F0x0 value Line "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x1.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F0 series^STM32F0x1"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x2.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F0 series^STM32F0x2"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x8.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F0 series^STM32F0x8"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f100-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F1 series ^STM32F100 value Line "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f101.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F1 series ^STM32F101 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f102.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F1 series ^STM32F102 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F1 series ^STM32F103 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f105-107.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F1 series ^STM32F105/107"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f301.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F3 series^STM32F301"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f302.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F3 series^STM32F302"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f303.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F3 series^STM32F303"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f334.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F3 series^STM32F334"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f373.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F3 series^STM32F373"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f3x8.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32F3 series^STM32F3x8"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x0-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32G0 series ^STM32G0x0 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32G0 series ^STM32G0x1"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x1.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32G4 series^STM32G4x1"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x3.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32G4 series^STM32G4x3"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32G4 series^STM32G4x4"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x0-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L0 series^STM32L0x0 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x1.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L0 series^STM32L0x1"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x2.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L0 series^STM32L0x2"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0x3.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L0 series^STM32L0x3"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l100-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L1 series ^STM32L100 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l151-152.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L1 series ^STM32L151/152  "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l162.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L1 series ^STM32L162 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4p5-q5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4+ series^STM32L4P5/Q5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r5-s5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4+ series^STM32L4R5/S5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r7-s7.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4+ series^STM32L4R7/S7"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4r9-s9.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4+ series^STM32L4R9/S9"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x1.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4 series ^STM32L4x1  "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4 series ^STM32L4x2"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x3.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4 series ^STM32L4x3"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4 series ^STM32L4x5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x6.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L4 series ^STM32L4x6"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32l5x2.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32L5 series^STM32L5x2"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u0-series.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U0 series"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u375-385.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U3 series^STM32U375/385"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u535-545.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U535/545"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u575-585.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U575/585"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u595-5a5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U595/5A5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u599-5a9.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U599/5A9"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f7-5g7.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U5F7/5G7"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u5f9-5g9.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U5F9/5G9"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wb0-series.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WB0 series"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba50.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA50"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba52.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA52"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba54-55.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA54/55"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba62.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA62"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba63.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA63"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba64-65.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA64/65"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbaxm-modules.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBAxM modules"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx0-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WB series ^STM32WBx0 value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbx5.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WB series ^STM32WBx5"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbxm-modules.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WB series ^STM32WBxM modules"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl3x.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WL series^STM32WL3x"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5m-modules.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WL series^STM32WL5M modules"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wl5x-ex.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WL series^STM32WL5x/Ex"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp131.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP1 series^STM32MP131"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp133.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP1 series^STM32MP133"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp135.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP1 series^STM32MP135"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp151.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP1 series^STM32MP151"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp153.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP1 series^STM32MP153"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp157.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP1 series^STM32MP157"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp211.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP211"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp213.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP213"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp215.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP215"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp231.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP231"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp233.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP233"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp235.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP235"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp251.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP251"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp253.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP253"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp255.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP255"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32mp257.html",
+    "category": "Microcontrollers & microprocessors^STM32 Arm Cortex MPUs^STM32MP2 series^STM32MP257"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af52.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8AF series ^STM8AF52"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af62.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8AF series ^STM8AF62 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8af63.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8AF series ^STM8AF63"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8al31.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8AL series ^STM8AL31 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8al3l.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8AL series ^STM8AL3L "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l101.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8L series ^STM8L101 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l151-152.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8L series ^STM8L151/152 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l162.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8L series ^STM8L162 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8l-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8L series ^STM8L value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s103-105.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8S series ^STM8S103/105 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s207-208.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8S series ^STM8S207/208 "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-application-specific-line.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8S series ^STM8S application specific line "
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8s-value-line.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8S series ^STM8S value line"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm8tl52-l53.html",
+    "category": "Microcontrollers & microprocessors^STM8 8-bit MCUs^STM8T series ^STM8TL52/L53 "
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/brushed-dc-motor-drivers.html",
+    "category": "Motor drivers^Brushed DC motor drivers"
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/brushless-dc-motor-drivers.html",
+    "category": "Motor drivers^Brushless DC motor drivers"
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/high-voltage-half-bridge-gate-drivers.html",
+    "category": "Motor drivers^Gate drivers^High voltage half bridge gate drivers "
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/isolated-gate-drivers.html",
+    "category": "Motor drivers^Gate drivers^Isolated gate drivers "
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/multiple-channel-drivers.html",
+    "category": "Motor drivers^Gate drivers^Multiple channel drivers "
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/single-channel-drivers.html",
+    "category": "Motor drivers^Gate drivers^Single channel drivers "
+  },
+  {
+    "url": "https://www.st.com/en/motor-drivers/stepper-motor-drivers.html",
+    "category": "Motor drivers^Stepper motor drivers"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/secure-nfc.html",
+    "category": "NFC^Secure  NFC"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25d-application-specific.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 dynamic NFC tags^ST25D application-specific"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25d-mainstream.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 dynamic NFC tags^ST25D mainstream"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25d-secure.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 dynamic NFC tags^ST25D secure"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25ta-series-nfc-tags.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 NFC / RFID tags ^ST25TA series NFC tags"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25tb-series-nfc-tags.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 NFC / RFID tags ^ST25TB series NFC tags"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25tn-series-nfc-tags.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 NFC / RFID tags ^ST25TN series NFC tags"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25tv-series-nfc-tags.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 NFC / RFID tags ^ST25TV series NFC tags"
+  },
+  {
+    "url": "https://www.st.com/en/nfc/st25-nfc-readers.html",
+    "category": "NFC^ST25 NFC/RFID tags and readers^ST25 NFC readers"
+  },
+  {
+    "url": "https://www.st.com/en/positioning/gnss-ics-modules.html",
+    "category": "Positioning^GNSS ICs & modules"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/digital-and-resonant-controllers.html",
+    "category": "Power management^AC-DC converters^Digital and resonant controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/altair.html",
+    "category": "Power management^AC-DC converters^High voltage converters^Altair "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/viper.html",
+    "category": "Power management^AC-DC converters^High voltage converters^VIPer"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/vipergan.html",
+    "category": "Power management^AC-DC converters^High voltage converters^VIPerGaN"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/viperplus.html",
+    "category": "Power management^AC-DC converters^High voltage converters^VIPerPlus "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/pfc-controllers.html",
+    "category": "Power management^AC-DC converters^PFC controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/pwm-controllers.html",
+    "category": "Power management^AC-DC converters^PWM controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/synchronous-rectification-controllers.html",
+    "category": "Power management^AC-DC converters^Synchronous rectification controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/voltage-and-current-controllers.html",
+    "category": "Power management^AC-DC converters^Voltage and current controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/battery-chargers.html",
+    "category": "Power management^Battery management Ics^Battery chargers "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/battery-fuel-gauge.html",
+    "category": "Power management^Battery management Ics^Battery fuel gauge"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/multicell-battery-monitoring-and-balancing-ics.html",
+    "category": "Power management^Battery management Ics^Multicell battery monitoring and balancing ICs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/48-v-direct-power-conversion.html",
+    "category": "Power management^DC-DC switching converters^48 V direct power conversion"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/boost-regulators.html",
+    "category": "Power management^DC-DC switching converters^Boost regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/buck-boost-regulators.html",
+    "category": "Power management^DC-DC switching converters^Buck-boost regulators "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/buck-regulators.html",
+    "category": "Power management^DC-DC switching converters^Buck regulators "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/dc-dc-converter-modules.html",
+    "category": "Power management^DC-DC switching converters^DC-DC converter modules"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/multi-output-controllers-and-regulators.html",
+    "category": "Power management^DC-DC switching converters^Multi-output controllers and regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/multi-phase-controllers.html",
+    "category": "Power management^DC-DC switching converters^Multi-phase controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/single-phase-controllers.html",
+    "category": "Power management^DC-DC switching converters^Single-phase controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/lcd-oled-display-psus.html",
+    "category": "Power management^Display supplies and controllers^LCD/OLED display PSUs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/vfd-led-front-panel-controllers.html",
+    "category": "Power management^Display supplies and controllers^VFD/LED front panel controllers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/dual-channel-e-fuses.html",
+    "category": "Power management^eFuses and hot-swap ICs^E-fuses ^Dual channel e-fuses"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/single-channel-e-fuses.html",
+    "category": "Power management^eFuses and hot-swap ICs^E-fuses ^Single channel e-fuses"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/power-breakers-and-other-hot-swap-ics.html",
+    "category": "Power management^eFuses and hot-swap ICs^Power breakers and other hot-swap ICs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/energy-harvesting-and-solar-charging-ics.html",
+    "category": "Power management^Energy harvesting and solar charging ICs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/gan-drivers.html",
+    "category": "Power management^Gallium nitride (GaN) power ICs^GaN drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/high-voltage-gan-converters.html",
+    "category": "Power management^Gallium nitride (GaN) power ICs^High voltage GaN converters"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/integrated-smart-gans.html",
+    "category": "Power management^Gallium nitride (GaN) power ICs^Integrated smart GaNs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/high-voltage-half-bridge-gate-drivers.html",
+    "category": "Power management^Gate drivers^High voltage half bridge gate drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/isolated-gate-drivers.html",
+    "category": "Power management^Gate drivers^Isolated gate drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/multiple-channel-drivers.html",
+    "category": "Power management^Gate drivers^Multiple channel drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/single-channel-drivers.html",
+    "category": "Power management^Gate drivers^Single channel drivers "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/high-density-power-drivers.html",
+    "category": "Power management^High-density power drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/high-and-low-side-switches.html",
+    "category": "Power management^Intelligent power switches^High and low side switches"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/high-side-switches.html",
+    "category": "Power management^Intelligent power switches^High side switches "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/low-side-switches.html",
+    "category": "Power management^Intelligent power switches^Low side switches "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/boost-current-regulators-for-led.html",
+    "category": "Power management^LED drivers^Boost current regulators for LED "
+  },
+  {
+    "url": "https://www.st.com/en/power-management/buck-current-regulators-for-led.html",
+    "category": "Power management^LED drivers^Buck current regulators for LED"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/led-array-drivers.html",
+    "category": "Power management^LED drivers^LED array drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/led-matrix-drivers.html",
+    "category": "Power management^LED drivers^LED matrix drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/linear-current-regulators.html",
+    "category": "Power management^LED drivers^Linear current regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/hvled.html",
+    "category": "Power management^LED drivers^Offline LED drivers^HVLED"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/ballast-control-ics-for-fluorescent-lamps.html",
+    "category": "Power management^Lighting ICs^Ballast control ICs for fluorescent lamps"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/digital-power-control-drivers.html",
+    "category": "Power management^Lighting ICs^Digital power control drivers"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/high-psrr-ldo-regulators.html",
+    "category": "Power management^Linear voltage regulators^Low dropout (LDO) linear regulators^High PSRR LDO regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/low-iq-ldo-regulators.html",
+    "category": "Power management^Linear voltage regulators^Low dropout (LDO) linear regulators^Low Iq LDO regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/ultra-low-dropout-ldo-regulators.html",
+    "category": "Power management^Linear voltage regulators^Low dropout (LDO) linear regulators^Ultra low dropout LDO regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/standard-voltage-regulators.html",
+    "category": "Power management^Linear voltage regulators^Standard voltage regulators"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/switching-lnb-supply-ics.html",
+    "category": "Power management^LNB supplies^Switching LNB supply ICs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/mppt-dc-dc-converters.html",
+    "category": "Power management^Photovoltaic  ICs^MPPT DC-DC converters"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/power-over-ethernet-ics.html",
+    "category": "Power management^Power over Ethernet ICs"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/voltage-references.html",
+    "category": "Power management^Voltage references"
+  },
+  {
+    "url": "https://www.st.com/en/power-management/wireless-charger-ics.html",
+    "category": "Power management^Wireless charger ICs"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/acepack-1-and-2.html",
+    "category": "Power modules and IPM^STPOWER ACEPACK modules^ACEPACK 1 and 2"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/acepack-dmt-32.html",
+    "category": "Power modules and IPM^STPOWER ACEPACK modules^ACEPACK DMT-32"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/acepack-drive.html",
+    "category": "Power modules and IPM^STPOWER ACEPACK modules^ACEPACK DRIVE"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/sllimm-2nd-series.html",
+    "category": "Power modules and IPM^STPOWER SLLIMM intelligent modules^SLLIMM 2nd series"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/sllimm-high-power.html",
+    "category": "Power modules and IPM^STPOWER SLLIMM intelligent modules^SLLIMM high power"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/sllimm-nano.html",
+    "category": "Power modules and IPM^STPOWER SLLIMM intelligent modules^SLLIMM nano"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/gt-1350v-ih2-series-soft-switching-20-to-60-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs >= 1200V^>= 1350V IH2 series - Soft switching (20 to 60 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/1200v-h-series-high-speed-20-to-100-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs >= 1200V^1200V H series - High speed (20 to 100 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/1200v-m-series-low-loss-2-to-20-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs >= 1200V^1200V M series - Low loss (2 to 20 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/1200v-ms-series-low-loss-2-to-20-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs >= 1200V^1200V MS series - Low loss (2 to 20 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/1250v-ih-series-soft-switching-16-to-60-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs >= 1200V^1250V IH series - Soft switching (16 to 60 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/stpower-igbts-300-400v-clamped.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 300-400V (clamped)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/600v-h-series-medium-speed-8-to-30-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 600-750V^600V H series - Medium speed (8 to 30 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/600v-v-series-very-high-speed-50-to-100-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 600-750V^600V V series - Very high speed (50 to 100 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/650v-hb2-series-high-speed-16-to-60-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 600-750V^650V HB2 series - High speed (16 to 60 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/650v-hb-series-high-speed-16-to-60-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 600-750V^650V HB series - High speed (16 to 60 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/650v-ih-series-soft-switching-16-to-60-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 600-750V^650V IH series - Soft switching (16 to 60 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/650v-m-series-low-loss-2-to-20-khz.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs 600-750V^650V M series - Low loss (2 to 20 kHz)"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/1200v.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs Bare die up to 1700V^1200V"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/600-750v.html",
+    "category": "Power transistors^IGBTs^STPOWER IGBTs Bare die up to 1700V^600-750V"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/lt-500v-transistors.html",
+    "category": "Power transistors^Power bipolar^< 500V transistors"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/gt-1000v-transistors.html",
+    "category": "Power transistors^Power bipolar^> 1000V transistors"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/500v-to-1000v-transistors.html",
+    "category": "Power transistors^Power bipolar^500V to 1000V transistors"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/darlingtons.html",
+    "category": "Power transistors^Power bipolar^Darlingtons"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/powergan.html",
+    "category": "Power transistors^PowerGaN"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-dm2-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh DM2 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-dm6-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh DM6 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-dm9-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh DM9 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-m2-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh M2 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-m5-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh M5 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-m6-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh M6 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-m9-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^MDmesh M9 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/stmesh-trench-t-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 200 V to 700 V^STMESH trench T series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/stripfet-f7-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 30 V to 200 V^STripFET F7 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/stripfet-f8-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 30 V to 200 V^STripFET F8 Series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-dk5-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 700 V^MDmesh DK5 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-k5-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 700 V^MDmesh K5 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/mdmesh-k6-series.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs > 700 V^MDmesh K6 series"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/stpower-n-channel-mosfets-20-v-to-30-v.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER N-channel MOSFETs 20 V to 30 V"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/stpower-p-channel-mosfets-100-v-to-30-v.html",
+    "category": "Power transistors^Power MOSFETs^STPOWER P-channel MOSFETs -100 V to -30 V"
+  },
+  {
+    "url": "https://www.st.com/en/power-transistors/sic-mosfets.html",
+    "category": "Power transistors^SiC MOSFETs"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/application-specific-integrated-products-asip.html",
+    "category": "Protections and EMI filters^EMI filters and application-specific integrated products (ASIP)^Application-specific integrated products (ASIP)"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/automotive-application-specific-integrated-products-asip.html",
+    "category": "Protections and EMI filters^EMI filters and application-specific integrated products (ASIP)^Automotive EMI filters, ECMF and ASIP^Automotive Application-Specific Integrated Products (ASIP)"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/automotive-common-mode-filters-with-integrated-esd-protection-ecmf.html",
+    "category": "Protections and EMI filters^EMI filters and application-specific integrated products (ASIP)^Automotive EMI filters, ECMF and ASIP^Automotive common-mode filters with integrated ESD protection (ECMF)"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/automotive-emi-filters-with-integrated-esd-protection.html",
+    "category": "Protections and EMI filters^EMI filters and application-specific integrated products (ASIP)^Automotive EMI filters, ECMF and ASIP^Automotive EMI filters with integrated ESD protection"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/common-mode-filters-with-integrated-esd-protection-ecmf.html",
+    "category": "Protections and EMI filters^EMI filters and application-specific integrated products (ASIP)^Common-mode filters with integrated ESD protection (ECMF)"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/emi-filters-with-esd-integrated-protection.html",
+    "category": "Protections and EMI filters^EMI filters and application-specific integrated products (ASIP)^EMI filters with ESD integrated protection"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/automotive-esd-protection.html",
+    "category": "Protections and EMI filters^ESD protection^Automotive ESD protection"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/general-purpose-esd-protection.html",
+    "category": "Protections and EMI filters^ESD protection^General purpose ESD protection"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/high-speed-data-lines-lt1-pf.html",
+    "category": "Protections and EMI filters^ESD protection^High-speed data lines (<1 pF)"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/thyristor-surge-suppressor-tss.html",
+    "category": "Protections and EMI filters^Thyristor surge suppressor (TSS)"
+  },
+  {
+    "url": "https://www.st.com/en/protections-and-emi-filters/transient-voltage-suppressors-tvs.html",
+    "category": "Protections and EMI filters^Transient voltage suppressors (TVS)"
+  },
+  {
+    "url": "https://www.st.com/en/radio-frequency-transistors/stpower-rf-dmos-transistors.html",
+    "category": "Radio frequency transistors^STPOWER RF DMOS transistors"
+  },
+  {
+    "url": "https://www.st.com/en/radio-frequency-transistors/avionics-radar.html",
+    "category": "Radio frequency transistors^STPOWER RF LDMOS transistors^Avionics & radar"
+  },
+  {
+    "url": "https://www.st.com/en/radio-frequency-transistors/ism-broadcast.html",
+    "category": "Radio frequency transistors^STPOWER RF LDMOS transistors^ISM & broadcast"
+  },
+  {
+    "url": "https://www.st.com/en/radio-frequency-transistors/28v-50v-ldmos.html",
+    "category": "Radio frequency transistors^STPOWER RF LDMOS transistors^Mobile & wideband comms^28V & 50V LDMOS"
+  },
+  {
+    "url": "https://www.st.com/en/radio-frequency-transistors/7v-13-6v-ldmos.html",
+    "category": "Radio frequency transistors^STPOWER RF LDMOS transistors^Mobile & wideband comms^7V & 13.6V LDMOS"
+  },
+  {
+    "url": "https://www.st.com/en/radio-frequency-transistors/telecom-satellite-comms.html",
+    "category": "Radio frequency transistors^STPOWER RF LDMOS transistors^Telecom & satellite comms"
+  },
+  {
+    "url": "https://www.st.com/en/reset-and-supervisor-ics/microprocessor-supervisors.html",
+    "category": "Reset and supervisor ICs^Microprocessor  supervisors"
+  },
+  {
+    "url": "https://www.st.com/en/reset-and-supervisor-ics/on-off-controllers.html",
+    "category": "Reset and supervisor ICs^On-off controllers"
+  },
+  {
+    "url": "https://www.st.com/en/reset-and-supervisor-ics/resets-and-voltage-detectors.html",
+    "category": "Reset and supervisor ICs^Resets and voltage detectors"
+  },
+  {
+    "url": "https://www.st.com/en/reset-and-supervisor-ics/smart-reset-ics.html",
+    "category": "Reset and supervisor ICs^Smart reset ICs"
+  },
+  {
+    "url": "https://www.st.com/en/reset-and-supervisor-ics/voltage-protection-ics.html",
+    "category": "Reset and supervisor ICs^Voltage protection ICs"
+  },
+  {
+    "url": "https://www.st.com/en/reset-and-supervisor-ics/watchdog-timers.html",
+    "category": "Reset and supervisor ICs^Watchdog timers"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/authentication.html",
+    "category": "Secure MCUs^Authentication"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/identity-and-egovernment.html",
+    "category": "Secure MCUs^Identity and eGovernment"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/payment.html",
+    "category": "Secure MCUs^Payment"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/secure-automotive.html",
+    "category": "Secure MCUs^Secure automotive"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/secure-hardware-platforms.html",
+    "category": "Secure MCUs^Secure hardware platforms"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/secure-nfc.html",
+    "category": "Secure MCUs^Secure NFC "
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/sim-esim.html",
+    "category": "Secure MCUs^SIM & eSIM"
+  },
+  {
+    "url": "https://www.st.com/en/secure-mcus/smart-access.html",
+    "category": "Secure MCUs^Smart access"
+  },
+  {
+    "url": "https://www.st.com/en/sic-devices/sic-diodes.html",
+    "category": "SiC devices^SiC diodes"
+  },
+  {
+    "url": "https://www.st.com/en/sic-devices/sic-mosfets.html",
+    "category": "SiC devices^SiC MOSFETs "
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-data-converters.html",
+    "category": "Space products^Rad-hard analog ICs^Rad-hard data converters"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-operational-amplifiers-and-comparators.html",
+    "category": "Space products^Rad-hard analog ICs^Rad-hard operational amplifiers and comparators"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-voltage-references.html",
+    "category": "Space products^Rad-hard analog ICs^Rad-hard voltage references"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-asic-platforms.html",
+    "category": "Space products^Rad-hard ASIC platforms"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-bipolar-transistors.html",
+    "category": "Space products^Rad-hard discretes^Rad-hard bipolar transistors"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-diodes-and-rectifiers.html",
+    "category": "Space products^Rad-hard discretes^Rad-hard Diodes and Rectifiers"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-power-mosfets.html",
+    "category": "Space products^Rad-hard discretes^Rad-hard power MOSFETs"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-bus-buffers.html",
+    "category": "Space products^Rad-hard interfaces^Rad-hard bus buffers"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-level-shifters.html",
+    "category": "Space products^Rad-hard interfaces^Rad-hard level shifters"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-lvds.html",
+    "category": "Space products^Rad-hard interfaces^Rad-hard LVDS"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-54-ac-act-series.html",
+    "category": "Space products^Rad-hard logic ICs^Rad-hard 54 AC/ACT series "
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-54hc-hct-series.html",
+    "category": "Space products^Rad-hard logic ICs^Rad-hard 54HC/HCT series "
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-54vcx-series.html",
+    "category": "Space products^Rad-hard logic ICs^Rad-hard 54VCX Series "
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-cmos-4000b-series.html",
+    "category": "Space products^Rad-hard logic ICs^Rad-hard CMOS 4000B series"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-fast-logic.html",
+    "category": "Space products^Rad-hard logic ICs^Rad-hard fast logic"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-plastic.html",
+    "category": "Space products^Rad-hard plastic"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-current-limiter.html",
+    "category": "Space products^Rad-hard power management^Rad-hard current limiter "
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-gate-drivers.html",
+    "category": "Space products^Rad-hard power management^Rad-hard gate drivers"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-linear-voltage-regulators.html",
+    "category": "Space products^Rad-hard power management^Rad-hard linear voltage regulators"
+  },
+  {
+    "url": "https://www.st.com/en/space-products/rad-hard-pwm-controllers.html",
+    "category": "Space products^Rad-hard power management^Rad-hard PWM controllers"
+  },
+  {
+    "url": "https://www.st.com/en/switches-and-multiplexers/analog-switch-multiplexers.html",
+    "category": "Switches and multiplexers^Analog switch/Multiplexers "
+  },
+  {
+    "url": "https://www.st.com/en/switches-and-multiplexers/data-signal-switches.html",
+    "category": "Switches and multiplexers^Data/Signal switches"
+  },
+  {
+    "url": "https://www.st.com/en/switches-and-multiplexers/power-load-switches.html",
+    "category": "Switches and multiplexers^Power load switches "
+  },
+  {
+    "url": "https://www.st.com/en/switches-and-multiplexers/power-switches-with-usb-charge-controller.html",
+    "category": "Switches and multiplexers^Power switches with USB charge controller"
+  },
+  {
+    "url": "https://www.st.com/en/switches-and-multiplexers/ultrasound-pulser-ics-and-hv-multiplexers.html",
+    "category": "Switches and multiplexers^Ultrasound pulser ICs and HV multiplexers"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/logic-level-gate-acs-series.html",
+    "category": "Thyristors (SCR) and AC switches^AC switches^Logic-level gate ACS series"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/overvoltage-protected-acst-series.html",
+    "category": "Thyristors (SCR) and AC switches^AC switches^Overvoltage protected ACST series"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/thyristor-gate-drivers.html",
+    "category": "Thyristors (SCR) and AC switches^Gate drivers & specific products^Thyristor gate drivers"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/thyristors-specific-devices.html",
+    "category": "Thyristors (SCR) and AC switches^Gate drivers & specific products^Thyristors specific devices"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/high-temperature-scr.html",
+    "category": "Thyristors (SCR) and AC switches^Thyristors (SCR)^High-temperature SCR"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/logic-level-scr.html",
+    "category": "Thyristors (SCR) and AC switches^Thyristors (SCR)^Logic-level SCR"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/standard-scr.html",
+    "category": "Thyristors (SCR) and AC switches^Thyristors (SCR)^Standard SCR"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/h-series.html",
+    "category": "Thyristors (SCR) and AC switches^Triacs^High-temperature^H series"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/t-series.html",
+    "category": "Thyristors (SCR) and AC switches^Triacs^High-temperature^T series"
+  },
+  {
+    "url": "https://www.st.com/en/thyristors-scr-and-ac-switches/standard-and-snubberless-triacs.html",
+    "category": "Thyristors (SCR) and AC switches^Triacs^Standard and snubberless triacs"
+  },
+  {
+    "url": "https://www.st.com/en/touch-and-display-controllers/touch-screen-controllers.html",
+    "category": "Touch and display controllers^Touch screen controllers"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/6lowpan-products.html",
+    "category": "Wireless connectivity^Long range^6LoWPAN products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/knx-rf-products.html",
+    "category": "Wireless connectivity^Long range^KNX-RF products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/lorawan-products.html",
+    "category": "Wireless connectivity^Long range^LoRaWAN products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/nb-iot-products.html",
+    "category": "Wireless connectivity^Long range^NB-IoT products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/proprietary-sub-1-ghz-products.html",
+    "category": "Wireless connectivity^Long range^Proprietary Sub-1 GHz products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/sigfox-products.html",
+    "category": "Wireless connectivity^Long range^Sigfox products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/wireless-m-bus-products.html",
+    "category": "Wireless connectivity^Long range^Wireless M-BUS products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/wi-sun-products.html",
+    "category": "Wireless connectivity^Long range^Wi-Sun products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/baluns.html",
+    "category": "Wireless connectivity^RF front-end^Baluns"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/filters.html",
+    "category": "Wireless connectivity^RF front-end^Filters"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/rf-pll-synthesizers.html",
+    "category": "Wireless connectivity^RF solutions^RF PLL synthesizers"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/60-ghz-contactless-products.html",
+    "category": "Wireless connectivity^Short range^60 GHz contactless products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/aliro-products.html",
+    "category": "Wireless connectivity^Short range^Aliro products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/amazon-sidewalk-products.html",
+    "category": "Wireless connectivity^Short range^Amazon Sidewalk products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/bluetooth-le-application-processors.html",
+    "category": "Wireless connectivity^Short range^Bluetooth LE application processors"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/bluetooth-le-network-co-processors.html",
+    "category": "Wireless connectivity^Short range^Bluetooth LE network co-processors"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/matter-products.html",
+    "category": "Wireless connectivity^Short range^Matter products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/thread-products.html",
+    "category": "Wireless connectivity^Short range^Thread products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/ultra-wideband-products.html",
+    "category": "Wireless connectivity^Short range^Ultra wideband products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/wi-fi-products.html",
+    "category": "Wireless connectivity^Short range^Wi-Fi products"
+  },
+  {
+    "url": "https://www.st.com/en/wireless-connectivity/zigbee-products.html",
+    "category": "Wireless connectivity^Short range^ZigBee products"
+  }
+]

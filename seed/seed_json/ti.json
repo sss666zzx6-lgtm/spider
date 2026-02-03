@@ -1,0 +1,3017 @@
+[
+  {
+    "Amplifiers": [
+      {
+        "familyID": "57",
+        "parentId": "2",
+        "familyName": "Amplifiers",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/amplifiers/overview.html",
+        "children": [
+          {
+            "familyID": "103226",
+            "parentId": "57",
+            "familyName": "RF amplifiers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/overview.html",
+            "children": [
+              {
+                "familyID": "212622",
+                "parentId": "103226",
+                "familyName": "RF gain block amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-gain-block/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "212623",
+                "parentId": "103226",
+                "familyName": "RF fully differential amplifiers (FDAs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-fda/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "212625",
+                "parentId": "103226",
+                "familyName": "RF variable gain amplifiers (VGAs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-vga/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "486000",
+                "parentId": "103226",
+                "familyName": "RF low noise amplifiers (LNAs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-low-noise-amplifiers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "1293",
+            "parentId": "57",
+            "familyName": "Operational amplifiers (op amps)",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/amplifiers/op-amps/overview.html",
+            "children": [
+              {
+                "familyID": "1562",
+                "parentId": "1293",
+                "familyName": "General-purpose op amps",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/op-amps/general-purpose/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3523",
+                "parentId": "1293",
+                "familyName": "Power op amps",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/op-amps/power/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "585",
+                "parentId": "1293",
+                "familyName": "Audio op amps",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/op-amps/audio/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "72",
+                "parentId": "1293",
+                "familyName": "High-speed op amps (GBW ≥ 50 MHz)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/op-amps/high-speed/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "78",
+                "parentId": "1293",
+                "familyName": "Precision op amps (Vos<1mV)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/op-amps/precision/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "1453",
+            "parentId": "57",
+            "familyName": "Fully differential amplifiers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/amplifiers/fully-differential/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "1467",
+            "parentId": "57",
+            "familyName": "Special function amplifiers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/amplifiers/special-function/overview.html",
+            "children": [
+              {
+                "familyID": "100512",
+                "parentId": "1467",
+                "familyName": "Isolated amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-amplifiers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "12140",
+                "parentId": "1467",
+                "familyName": "Line drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/line-drivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1468",
+                "parentId": "1467",
+                "familyName": "Transimpedance amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/transimpedance/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1470",
+                "parentId": "1467",
+                "familyName": "Transconductance amplifiers & laser drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/transconductance-laser-drivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2131",
+                "parentId": "1467",
+                "familyName": "Sample & hold amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/sample-hold/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2141",
+                "parentId": "1467",
+                "familyName": "Frequency converters",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/frequency-converters/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "522",
+                "parentId": "1467",
+                "familyName": "Logarithmic amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/logarithmic/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "6560",
+                "parentId": "1467",
+                "familyName": "4-20mA signal conditioners",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/4-20ma-signal-conditioners/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "674",
+                "parentId": "1467",
+                "familyName": "Video amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/special-function/video/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "1913",
+            "parentId": "57",
+            "familyName": "Programmable & variable gain amplifiers (PGAs & VGAs)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/amplifiers/pga-vga/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3170",
+            "parentId": "57",
+            "familyName": "Current-sense amplifiers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/amplifiers/current-sense/overview.html",
+            "children": [
+              {
+                "familyID": "12342",
+                "parentId": "3170",
+                "familyName": "Analog current-sense amplifiers with integrated shunt resistor",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/current-sense/analog-integrated-shunt-resistor/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "12347",
+                "parentId": "3170",
+                "familyName": "Digital power monitors with integrated shunt resistor",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/current-sense/digital-power-monitor-integrated-shunt-resistor/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3172",
+                "parentId": "3170",
+                "familyName": "Analog current-sense amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/current-sense/analog/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3174",
+                "parentId": "3170",
+                "familyName": "Digital power monitors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/amplifiers/current-sense/digital-power-monitors/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "500",
+            "parentId": "57",
+            "familyName": "Instrumentation amplifiers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/amplifiers/instrumentation/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "50002",
+            "parentId": "57",
+            "familyName": "Comparators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/amplifiers/comparators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "505",
+            "parentId": "57",
+            "familyName": "Difference amplifiers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/amplifiers/difference/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Audio, haptics & piezo": [
+      {
+        "familyID": "376",
+        "parentId": "2",
+        "familyName": "Audio, haptics & piezo",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/audio/overview.html",
+        "children": [
+          {
+            "familyID": "3636",
+            "parentId": "376",
+            "familyName": "Audio amplifiers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/audio/amplifiers/overview.html",
+            "children": [
+              {
+                "familyID": "393300",
+                "parentId": "3636",
+                "familyName": "Automotive audio amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/amplifiers/automotive/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "393319",
+                "parentId": "3636",
+                "familyName": "General-purpose audio amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/amplifiers/general-purpose/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "393349",
+                "parentId": "3636",
+                "familyName": "Mobile phone, tablet & wearable audio amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/amplifiers/mobile-phone-tablet-wearable/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "393359",
+                "parentId": "3636",
+                "familyName": "PC & notebook audio amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/amplifiers/pc-notebook/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "393368",
+                "parentId": "3636",
+                "familyName": "Speaker, TV & soundbar audio amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/amplifiers/speaker-tv-soundbar/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "393398",
+                "parentId": "3636",
+                "familyName": "Specialty audio amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/amplifiers/specialty/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "3637",
+            "parentId": "376",
+            "familyName": "Specialty audio ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/audio/specialty/overview.html",
+            "children": [
+              {
+                "familyID": "3537",
+                "parentId": "3637",
+                "familyName": "PWM modulators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/specialty/pwm-modulators/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "584",
+                "parentId": "3637",
+                "familyName": "Audio clocks",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/specialty/clocks/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "932",
+                "parentId": "3637",
+                "familyName": "Lip sync delay ICs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/specialty/lip-sync-delay/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "377",
+            "parentId": "376",
+            "familyName": "Audio converters",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/audio/converters/overview.html",
+            "children": [
+              {
+                "familyID": "581",
+                "parentId": "377",
+                "familyName": "Audio ADCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/converters/adcs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "582",
+                "parentId": "377",
+                "familyName": "Audio DACs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/converters/dacs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "583",
+                "parentId": "377",
+                "familyName": "Audio CODECs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/converters/codecs/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "393449",
+            "parentId": "376",
+            "familyName": "Haptics & piezo drivers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/audio/haptics-piezo-drivers/overview.html",
+            "children": [
+              {
+                "familyID": "1979",
+                "parentId": "393449",
+                "familyName": "Piezo drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/haptics-piezo-drivers/piezo-drivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1980",
+                "parentId": "393449",
+                "familyName": "Haptics drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/haptics-piezo-drivers/haptics-drivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "268011",
+                "parentId": "393449",
+                "familyName": "Ultrasonic cleaning ICs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/audio/haptics-piezo-drivers/ultrasonic-cleaning-ics/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Battery management ICs": [
+      {
+        "familyID": "394",
+        "parentId": "2",
+        "familyName": "Battery management ICs",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/battery-management-ics/overview.html",
+        "children": [
+          {
+            "familyID": "1993",
+            "parentId": "394",
+            "familyName": "Battery monitors & balancers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/battery-management-ics/battery-monitors-balancers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3057",
+            "parentId": "394",
+            "familyName": "Battery authentication ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/battery-management-ics/battery-authentication-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "411",
+            "parentId": "394",
+            "familyName": "Battery charger ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/battery-management-ics/battery-charger-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "412",
+            "parentId": "394",
+            "familyName": "Battery fuel gauges",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/battery-management-ics/battery-fuel-gauges/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "413",
+            "parentId": "394",
+            "familyName": "Battery protectors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/battery-management-ics/battery-protectors/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Clocks & timing": [
+      {
+        "familyID": "346",
+        "parentId": "2",
+        "familyName": "Clocks & timing",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/clocks-timing/overview.html",
+        "children": [
+          {
+            "familyID": "101325",
+            "parentId": "346",
+            "familyName": "RF PLLs & synthesizers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-plls-synthesizers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "1345",
+            "parentId": "346",
+            "familyName": "Real-time clocks (RTCs) & timers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/real-time-clocks-timers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3386",
+            "parentId": "346",
+            "familyName": "Oscillators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/oscillators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "350",
+            "parentId": "346",
+            "familyName": "Clock generators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/clock-generators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "351",
+            "parentId": "346",
+            "familyName": "Clock jitter cleaners",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/clock-jitter-cleaners/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3633",
+            "parentId": "346",
+            "familyName": "Clock network synchronizers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/clock-network-synchronizers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "676",
+            "parentId": "346",
+            "familyName": "Clock buffers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/clock-buffers/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data converters": [
+      {
+        "familyID": "82",
+        "parentId": "2",
+        "familyName": "Data converters",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/data-converters/overview.html",
+        "children": [
+          {
+            "familyID": "1900",
+            "parentId": "82",
+            "familyName": "Digital potentiometers (digipots)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/data-converters/digital-potentiometer/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3538",
+            "parentId": "82",
+            "familyName": "Integrated & special-function data converters",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/overview.html",
+            "children": [
+              {
+                "familyID": "106860",
+                "parentId": "3538",
+                "familyName": "RF transceivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/rf-transceivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1571",
+                "parentId": "3538",
+                "familyName": "CCD & CIS imaging AFEs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/ccd-cis-imaging-afes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2026",
+                "parentId": "3538",
+                "familyName": "Integrated precision ADCs & DACs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/precision-adcs-dacs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "6561",
+                "parentId": "3538",
+                "familyName": "Medical AFEs",
+                "level": "3",
+                "isLeaf": "N",
+                "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/medical-afes/overview.html",
+                "children": [
+                  {
+                    "familyID": "6562",
+                    "parentId": "6561",
+                    "familyName": "Ultrasound AFEs",
+                    "level": "4",
+                    "isLeaf": "Y",
+                    "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/medical-afes/ultrasound-afes/overview.html",
+                    "children": []
+                  },
+                  {
+                    "familyID": "6563",
+                    "parentId": "6561",
+                    "familyName": "Computer tomography (CT) AFEs",
+                    "level": "4",
+                    "isLeaf": "Y",
+                    "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/medical-afes/computer-tomography-afes/overview.html",
+                    "children": []
+                  },
+                  {
+                    "familyID": "6564",
+                    "parentId": "6561",
+                    "familyName": "Digital X-ray AFEs",
+                    "level": "4",
+                    "isLeaf": "Y",
+                    "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/medical-afes/digital-xray-afes/overview.html",
+                    "children": []
+                  },
+                  {
+                    "familyID": "6565",
+                    "parentId": "6561",
+                    "familyName": "Biosensing AFEs",
+                    "level": "4",
+                    "isLeaf": "Y",
+                    "url": "https://www.ti.com/product-category/data-converters/integrated-special-function/medical-afes/biosensing-afes/overview.html",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "familyID": "390",
+            "parentId": "82",
+            "familyName": "Analog-to-digital converters (ADCs)",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/data-converters/adcs/overview.html",
+            "children": [
+              {
+                "familyID": "101512",
+                "parentId": "390",
+                "familyName": "RF receivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/rf-receivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "102021",
+                "parentId": "390",
+                "familyName": "Isolated ADCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-adcs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2019",
+                "parentId": "390",
+                "familyName": "Precision ADCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/data-converters/adcs/precision/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2020",
+                "parentId": "390",
+                "familyName": "High-speed ADCs (≥10 MSPS)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/data-converters/adcs/high-speed/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "392",
+            "parentId": "82",
+            "familyName": "Digital-to-analog converters (DACs)",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/data-converters/dacs/overview.html",
+            "children": [
+              {
+                "familyID": "102932",
+                "parentId": "392",
+                "familyName": "RF transmitters",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/rf-transmitters/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2022",
+                "parentId": "392",
+                "familyName": "Precision DACs (≤10 MSPS)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/data-converters/dacs/precision/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2023",
+                "parentId": "392",
+                "familyName": "High-speed DACs (>10 MSPS)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/data-converters/dacs/high-speed/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "DLP®products": [
+      {
+        "familyID": "1742",
+        "parentId": "0",
+        "familyName": "DLP products",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/dlp-products/overview.html",
+        "children": [
+          {
+            "familyID": "3225",
+            "parentId": "1742",
+            "familyName": "Display & projection digital micromirror devices (DMDs)",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/dlp-products/display-projection-dmds/overview.html",
+            "children": [
+              {
+                "familyID": "399500",
+                "parentId": "3225",
+                "familyName": "Portable & consumer DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/display-projection-dmds/portable-consumer/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399520",
+                "parentId": "3225",
+                "familyName": "Home cinema, business & education DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/display-projection-dmds/home-business-education/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399536",
+                "parentId": "3225",
+                "familyName": "Pro-AV & large venue DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/display-projection-dmds/pro-av-large-venue/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "3635",
+            "parentId": "1742",
+            "familyName": "Automotive digital micromirror devices (DMDs)",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/dlp-products/automotive-dmds/overview.html",
+            "children": [
+              {
+                "familyID": "13030",
+                "parentId": "3635",
+                "familyName": "Interior display DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/automotive-dmds/interior-display/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "13033",
+                "parentId": "3635",
+                "familyName": "Exterior lighting & projection DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/automotive-dmds/exterior-lighting-projection/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "399553",
+            "parentId": "1742",
+            "familyName": "Industrial digital micromirror devices (DMDs)",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/dlp-products/industrial-dmds/overview.html",
+            "children": [
+              {
+                "familyID": "399554",
+                "parentId": "399553",
+                "familyName": "UV (<420nm) DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/industrial-dmds/ultraviolet/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399580",
+                "parentId": "399553",
+                "familyName": "NIR (>700nm) DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/industrial-dmds/near-infrared/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399606",
+                "parentId": "399553",
+                "familyName": "Visible (420 to 700nm) DMDs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/dlp-products/industrial-dmds/visible/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "399632",
+            "parentId": "1742",
+            "familyName": "DLP controllers & drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/dlp-products/controllers-drivers/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Interface": [
+      {
+        "familyID": "361",
+        "parentId": "2",
+        "familyName": "Interface",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/interface/overview.html",
+        "children": [
+          {
+            "familyID": "12473",
+            "parentId": "361",
+            "familyName": "CAN transceivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/can-transceivers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "12478",
+            "parentId": "361",
+            "familyName": "LIN transceivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/lin-transceivers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "12482",
+            "parentId": "361",
+            "familyName": "System basis chips (SBCs)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/system-basis-chips/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "206000",
+            "parentId": "361",
+            "familyName": "High-speed SerDes",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/interface/high-speed-serdes/overview.html",
+            "children": [
+              {
+                "familyID": "206001",
+                "parentId": "206000",
+                "familyName": "V3Link SerDes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/high-speed-serdes/v3link-serdes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2114",
+                "parentId": "206000",
+                "familyName": "FPD-Link SerDes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/high-speed-serdes/fpd-link-serdes/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "2105",
+            "parentId": "361",
+            "familyName": "Serial digital interface (SDI) ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/serial-digital-interface-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "308190",
+            "parentId": "361",
+            "familyName": "RS-232 & RS-485 multiprotocol transceivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/rs-232-rs-485-multiprotocol-transceivers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3581",
+            "parentId": "361",
+            "familyName": "Ethernet ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/interface/ethernet-ics/overview.html",
+            "children": [
+              {
+                "familyID": "1752",
+                "parentId": "3581",
+                "familyName": "Ethernet PHYs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/ethernet-ics/ethernet-phys/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3585",
+                "parentId": "3581",
+                "familyName": "Ethernet retimers, redrivers & mux-buffers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/ethernet-ics/ethernet-retimers-redrivers-mux-buffers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "3610",
+            "parentId": "361",
+            "familyName": "IO-Link & digital I/Os",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/io-link-digital-ios/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3625",
+            "parentId": "361",
+            "familyName": "Multi-switch detection interface (MSDI) ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/multi-switch-detection-interface-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "365",
+            "parentId": "361",
+            "familyName": "UARTs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/uarts/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "543",
+            "parentId": "361",
+            "familyName": "RS-232 transceivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/rs-232-transceivers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "545",
+            "parentId": "361",
+            "familyName": "RS-485 & RS-422 transceivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/rs-485-rs-422-transceivers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "546",
+            "parentId": "361",
+            "familyName": "LVDS, M-LVDS & PECL ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/lvds-m-lvds-pecl-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "657",
+            "parentId": "361",
+            "familyName": "PCIe, SAS & SATA ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/pcie-sas-sata-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "658",
+            "parentId": "361",
+            "familyName": "USB ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/interface/usb-ics/overview.html",
+            "children": [
+              {
+                "familyID": "1646",
+                "parentId": "658",
+                "familyName": "USB redrivers & multiplexers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/usb-ics/usb-redrivers-multiplexers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "17000",
+                "parentId": "658",
+                "familyName": "USB hubs & controllers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/usb-ics/usb-hubs-controllers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3391",
+                "parentId": "658",
+                "familyName": "USB Type-C & USB Power Delivery ICs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/usb-ics/usb-type-power-delivery-ics/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3630",
+                "parentId": "658",
+                "familyName": "USB port protection ICs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/usb-ics/usb-port-protection-ics/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "738",
+            "parentId": "361",
+            "familyName": "HDMI, DisplayPort & MIPI ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/hdmi-displayport-mipi-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "739",
+            "parentId": "361",
+            "familyName": "Optical networking ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/optical-networking-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "747",
+            "parentId": "361",
+            "familyName": "Other interfaces",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/other-interfaces/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "867",
+            "parentId": "361",
+            "familyName": "I2C, I3C & SPI ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/interface/i2c-i3c-ics/overview.html",
+            "children": [
+              {
+                "familyID": "1649",
+                "parentId": "867",
+                "familyName": "I2C & SPI general-purpose I/Os (GPIOs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/i2c-i3c-ics/general-purpose-ios/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1650",
+                "parentId": "867",
+                "familyName": "I2C & I3C switches & multiplexers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/i2c-i3c-ics/i2c-i3c-switches-multiplexers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1651",
+                "parentId": "867",
+                "familyName": "I2C & I3C level shifters, buffers & hubs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/interface/i2c-i3c-ics/i2c-i3c-ics-level-shifters-buffers-hubs/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Isolation": [
+      {
+        "familyID": "897",
+        "parentId": "2",
+        "familyName": "Isolation",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/isolation/overview.html",
+        "children": [
+          {
+            "familyID": "103125",
+            "parentId": "897",
+            "familyName": "Isolated gate drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/gate-drivers/isolated/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "193042",
+            "parentId": "897",
+            "familyName": "Isolated comparators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/isolation/isolated-comparators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "193043",
+            "parentId": "897",
+            "familyName": "Power for signal isolators",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/isolation/power-for-signal-isolators/overview.html",
+            "children": [
+              {
+                "familyID": "193044",
+                "parentId": "193043",
+                "familyName": "Signal isolators with integrated power",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/power-for-signal-isolators/with-integrated-power/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3126",
+                "parentId": "193043",
+                "familyName": "Transformer drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/power-for-signal-isolators/transformer-drivers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "2021",
+            "parentId": "897",
+            "familyName": "Isolated ADCs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/isolation/isolated-adcs/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "268010",
+            "parentId": "897",
+            "familyName": "Opto-emulators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/isolation/opto-emulators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3121",
+            "parentId": "897",
+            "familyName": "Digital isolators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/isolation/digital-isolators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "434487",
+            "parentId": "897",
+            "familyName": "Isolated temperature sensors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/sensors/temperature/isolated/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "460246",
+            "parentId": "897",
+            "familyName": "Isolated power modules (integrated transformer)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/dcdc-modules/isolated/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "50006",
+            "parentId": "897",
+            "familyName": "Isolated interface ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/overview.html",
+            "children": [
+              {
+                "familyID": "224421",
+                "parentId": "50006",
+                "familyName": "USB isolators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/usb-isolators/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3122",
+                "parentId": "50006",
+                "familyName": "Isolated RS-485 transceivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/rs-485-transceivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3123",
+                "parentId": "50006",
+                "familyName": "Isolated CAN transceivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/can-transceivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3124",
+                "parentId": "50006",
+                "familyName": "I2C isolators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/i2c-isolators/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3555",
+                "parentId": "50006",
+                "familyName": "Isolated LVDS buffers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/lvds-buffers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "50005",
+                "parentId": "50006",
+                "familyName": "Isolated digital inputs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/isolation/isolated-interface-ics/digital-inputs/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "512",
+            "parentId": "897",
+            "familyName": "Isolated amplifiers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/isolation/isolated-amplifiers/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Logic &  voltage translation": [
+      {
+        "familyID": "1",
+        "parentId": "0",
+        "familyName": "Logic & voltage translation",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/logic-voltage-translation/overview.html",
+        "children": [
+          {
+            "familyID": "253",
+            "parentId": "1",
+            "familyName": "Logic gates",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/overview.html",
+            "children": [
+              {
+                "familyID": "269",
+                "parentId": "253",
+                "familyName": "AND gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/and-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "272",
+                "parentId": "253",
+                "familyName": "XNOR (exclusive NOR) gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/exclusive-nor-xnor-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "273",
+                "parentId": "253",
+                "familyName": "XOR (exclusive OR) gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/exclusive-or-xor-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "275",
+                "parentId": "253",
+                "familyName": "NAND gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/nand-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "276",
+                "parentId": "253",
+                "familyName": "NOR gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/nor-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "277",
+                "parentId": "253",
+                "familyName": "OR gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/or-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3216",
+                "parentId": "253",
+                "familyName": "Combination gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/combination-gates/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "714",
+                "parentId": "253",
+                "familyName": "Voltage translating gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/logic-gates/voltage-translating-gates/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "254",
+            "parentId": "1",
+            "familyName": "Buffers, drivers & transceiver",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/logic-voltage-translation/buffers-drivers-transceivers/overview.html",
+            "children": [
+              {
+                "familyID": "279",
+                "parentId": "254",
+                "familyName": "Noninverting buffers & drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/buffers-drivers-transceivers/noninverting-buffers-drivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "280",
+                "parentId": "254",
+                "familyName": "Inverting buffers & drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/buffers-drivers-transceivers/inverting-buffers-drivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "5200",
+                "parentId": "254",
+                "familyName": "General-purpose transceivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/buffers-drivers-transceivers/general-purpose-transceivers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "256",
+            "parentId": "1",
+            "familyName": "Flip-flops, latches & registers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/overview.html",
+            "children": [
+              {
+                "familyID": "258",
+                "parentId": "256",
+                "familyName": "Shift registers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/shift-registers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "284",
+                "parentId": "256",
+                "familyName": "D-type flip-flops",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/d-type-flip-flops/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "286",
+                "parentId": "256",
+                "familyName": "JK flip-flops",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/jk-flip-flops/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "287",
+                "parentId": "256",
+                "familyName": "D-type latches",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/d-type-latches/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "289",
+                "parentId": "256",
+                "familyName": "Other latches",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/other-latches/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "294041",
+                "parentId": "256",
+                "familyName": "Voltage translating flip-flops, latches & registers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/voltage-translating-flip-flops-latches-registers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "718",
+                "parentId": "256",
+                "familyName": "Counters",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/flip-flops-latches-registers/counters/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "261",
+            "parentId": "1",
+            "familyName": "Specialty logic ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/logic-voltage-translation/specialty-logic-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "360309",
+            "parentId": "1",
+            "familyName": "Configurable & programmable logic ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/logic-voltage-translation/configurable-programmable-logic-ics/overview.html",
+            "children": [
+              {
+                "familyID": "302",
+                "parentId": "360309",
+                "familyName": "Pulse & delay generators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/configurable-programmable-logic-ics/pulse-delay-generators/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "360330",
+                "parentId": "360309",
+                "familyName": "Programmable logic devices (PLD)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/configurable-programmable-logic-ics/programmable-logic-devices/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "50003",
+                "parentId": "360309",
+                "familyName": "Configurable gates",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/configurable-programmable-logic-ics/configurable-gates/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "705",
+            "parentId": "1",
+            "familyName": "Voltage translators & level shifters",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/logic-voltage-translation/voltage-translators-level-shifters/overview.html",
+            "children": [
+              {
+                "familyID": "361000",
+                "parentId": "705",
+                "familyName": "Ground-level translators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/voltage-translators-level-shifters/ground-level-translators/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "361009",
+                "parentId": "705",
+                "familyName": "Voltage translators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/logic-voltage-translation/voltage-translators-level-shifters/voltage-translators/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Microcontrollers (MCUs) & processors": [
+      {
+        "familyID": "4",
+        "parentId": "0",
+        "familyName": "Microcontrollers (MCUs) & processors",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/microcontrollers-processors/overview.html",
+        "children": [
+          {
+            "familyID": "3326",
+            "parentId": "4",
+            "familyName": "Microprocessors & DSPs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/microcontrollers-processors/microprocessors-dsp/overview.html",
+            "children": [
+              {
+                "familyID": "399701",
+                "parentId": "3326",
+                "familyName": "Automotive driver assist SoCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/microprocessors-dsp/automotive-driver-assist-socs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399702",
+                "parentId": "3326",
+                "familyName": "Automotive networking SoCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/microprocessors-dsp/automotive-networking-socs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399703",
+                "parentId": "3326",
+                "familyName": "Audio & radar DSP SoCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/microprocessors-dsp/audio-radar-dsp-socs/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399704",
+                "parentId": "3326",
+                "familyName": "Multimedia & industrial networking SoCs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/microprocessors-dsp/multimedia-industrial-networking-socs/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "5018",
+            "parentId": "4",
+            "familyName": "Microcontrollers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/overview.html",
+            "children": [
+              {
+                "familyID": "193120",
+                "parentId": "5018",
+                "familyName": "Arm Cortex-M0+ MCUs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/arm-cortex-m0/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "268014",
+                "parentId": "5018",
+                "familyName": "Arm Cortex-M4 MCUs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/arm-cortex-m4/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "268015",
+                "parentId": "5018",
+                "familyName": "Arm Cortex-R MCUs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/arm-cortex-r/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "342",
+                "parentId": "5018",
+                "familyName": "MSP430 microcontrollers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/msp430/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "5014",
+                "parentId": "5018",
+                "familyName": "C2000 real-time microcontrollers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/c2000-real-time-mcus/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Motor drivers": [
+      {
+        "familyID": "2004",
+        "parentId": "2",
+        "familyName": "Motor drivers",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/motor-drivers/overview.html",
+        "children": [
+          {
+            "familyID": "103392",
+            "parentId": "2004",
+            "familyName": "Low-side drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/gate-drivers/low-side/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "103393",
+            "parentId": "2004",
+            "familyName": "Half-bridge drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/gate-drivers/half-bridge/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "2005",
+            "parentId": "2004",
+            "familyName": "Brushed DC (BDC) motor drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/motor-drivers/brushed-dc/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "2009",
+            "parentId": "2004",
+            "familyName": "Brushless DC (BLDC) motor drivers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/motor-drivers/brushless-dc/overview.html",
+            "children": [
+              {
+                "familyID": "12602",
+                "parentId": "2009",
+                "familyName": "Integrated control BLDC drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/motor-drivers/brushless-dc/integrated-control-bldc/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "12605",
+                "parentId": "2009",
+                "familyName": "BLDC drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/motor-drivers/brushless-dc/bldc/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "2013",
+            "parentId": "2004",
+            "familyName": "Stepper motor drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/motor-drivers/stepper/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "203125",
+            "parentId": "2004",
+            "familyName": "Isolated gate drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/gate-drivers/isolated/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3302",
+            "parentId": "2004",
+            "familyName": "Solenoid drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/motor-drivers/solenoid/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3411",
+            "parentId": "2004",
+            "familyName": "Optical disk drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/motor-drivers/optical-disk/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "365961",
+            "parentId": "2004",
+            "familyName": "Gallium nitride (GaN) motor drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/motor-drivers/gallium-nitride/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Passive & discrete": [
+      {
+        "familyID": "368000",
+        "parentId": "2",
+        "familyName": "Passive and discrete",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/passive-discrete/overview.html",
+        "children": [
+          {
+            "familyID": "103386",
+            "parentId": "368000",
+            "familyName": "Oscillators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/clocks-timing/oscillators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "117001",
+            "parentId": "368000",
+            "familyName": "Thermistors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/sensors/temperature/thermistors/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "1445",
+            "parentId": "368000",
+            "familyName": "Diodes",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/passive-discrete/diodes/overview.html",
+            "children": [
+              {
+                "familyID": "12581",
+                "parentId": "1445",
+                "familyName": "TVS diodes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/passive-discrete/diodes/tvs-diodes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "12584",
+                "parentId": "1445",
+                "familyName": "Zener diodes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/passive-discrete/diodes/zener-diodes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "210112",
+                "parentId": "1445",
+                "familyName": "ESD protection diodes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/passive-discrete/diodes/esd-protection-diodes/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "210005",
+            "parentId": "368000",
+            "familyName": "Transistors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/passive-discrete/transistors/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "344333",
+            "parentId": "368000",
+            "familyName": "Matched thin-film resistors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/passive-discrete/matched-thin-film-resistors/overview.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Power management": [
+      {
+        "familyID": "64",
+        "parentId": "2",
+        "familyName": "Power management",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/power-management/overview.html",
+        "children": [
+          {
+            "familyID": "100",
+            "parentId": "64",
+            "familyName": "Power protection switches & controllers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/power-protection-switches-controllers/overview.html",
+            "children": [
+              {
+                "familyID": "12872",
+                "parentId": "100",
+                "familyName": "Hot-swap controllers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-protection-switches-controllers/hot-swap-controllers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1644",
+                "parentId": "100",
+                "familyName": "Power muxes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-protection-switches-controllers/power-muxes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "339441",
+                "parentId": "100",
+                "familyName": "eFuses (integrated hot swaps)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-protection-switches-controllers/efuses/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "422",
+                "parentId": "100",
+                "familyName": "Ideal diode & ORing controllers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-protection-switches-controllers/ideal-diode-oring-controllers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "103391",
+            "parentId": "64",
+            "familyName": "USB Type-C & USB Power Delivery ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/interface/usb-ics/usb-type-power-delivery-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "105",
+            "parentId": "64",
+            "familyName": "Low-side switches",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/low-side-switches/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "1647",
+            "parentId": "64",
+            "familyName": "MOSFETs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/mosfets/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "1942",
+            "parentId": "64",
+            "familyName": "Power stages",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/power-stages/overview.html",
+            "children": [
+              {
+                "familyID": "360256",
+                "parentId": "1942",
+                "familyName": "Si power stages",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-stages/si-power-stages/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "360295",
+                "parentId": "1942",
+                "familyName": "Gallium nitride (GaN) power stages",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-stages/gallium-nitride/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "2030",
+            "parentId": "64",
+            "familyName": "Sequencers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/sequencers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "237000",
+            "parentId": "64",
+            "familyName": "Solid-state relays",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/solid-state-relays/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "263725",
+            "parentId": "64",
+            "familyName": "Power-supply filter ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/power-supply-filter-ics/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3203",
+            "parentId": "64",
+            "familyName": "DDR memory power ICs",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/ddr-memory/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "339448",
+            "parentId": "64",
+            "familyName": "High-side switches & controllers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/high-side-switches-controllers/overview.html",
+            "children": [
+              {
+                "familyID": "290021",
+                "parentId": "339448",
+                "familyName": "High-side switch controllers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/high-side-switches-controllers/controllers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "339454",
+                "parentId": "339448",
+                "familyName": "Smart eFuse high-side switches",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/high-side-switches-controllers/smart-efuse/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "670",
+                "parentId": "339448",
+                "familyName": "High-side switches",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/high-side-switches-controllers/switches/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "360000",
+            "parentId": "64",
+            "familyName": "AC/DC & DC/DC controllers (external FET)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/acdc-dcdc-controllers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "360082",
+            "parentId": "64",
+            "familyName": "AC/DC & DC/DC converters (integrated FET)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/acdc-dcdc-converters/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "360178",
+            "parentId": "64",
+            "familyName": "DC/DC  power modules",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/dcdc-modules/overview.html",
+            "children": [
+              {
+                "familyID": "360179",
+                "parentId": "360178",
+                "familyName": "Power modules (integrated inductor)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/dcdc-modules/integrated-inductor/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "360246",
+                "parentId": "360178",
+                "familyName": "Isolated power modules (integrated transformer)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/dcdc-modules/isolated/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "400",
+            "parentId": "64",
+            "familyName": "Linear & low-dropout (LDO) regulators",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/linear-ldo-regulators/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "409",
+            "parentId": "64",
+            "familyName": "Gate drivers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/gate-drivers/overview.html",
+            "children": [
+              {
+                "familyID": "3125",
+                "parentId": "409",
+                "familyName": "Isolated gate drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/gate-drivers/isolated/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3392",
+                "parentId": "409",
+                "familyName": "Low-side drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/gate-drivers/low-side/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3393",
+                "parentId": "409",
+                "familyName": "Half-bridge drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/gate-drivers/half-bridge/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "480",
+            "parentId": "64",
+            "familyName": "LED drivers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/led-drivers/overview.html",
+            "children": [
+              {
+                "familyID": "3055",
+                "parentId": "480",
+                "familyName": "Backlight LED drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/led-drivers/backlight/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3056",
+                "parentId": "480",
+                "familyName": "LED display drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/led-drivers/display/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3219",
+                "parentId": "480",
+                "familyName": "RGB LED drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/led-drivers/rgb/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3402",
+                "parentId": "480",
+                "familyName": "Automotive LED drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/led-drivers/automotive/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "692",
+                "parentId": "480",
+                "familyName": "Illumination  LED drivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/led-drivers/illumination/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "527",
+            "parentId": "64",
+            "familyName": "Supervisor & reset ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/supervisor-reset-ics/overview.html",
+            "children": [
+              {
+                "familyID": "393470",
+                "parentId": "527",
+                "familyName": "Supply-voltage supervisors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/supervisor-reset-ics/supply-voltage-supervisors/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "393475",
+                "parentId": "527",
+                "familyName": "Reset & watchdog ICs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/supervisor-reset-ics/reset-watchdog/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "663",
+            "parentId": "64",
+            "familyName": "Power over Ethernet (PoE) ICs",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/power-over-ethernet-ics/overview.html",
+            "children": [
+              {
+                "familyID": "664",
+                "parentId": "663",
+                "familyName": "Powered devices",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-over-ethernet-ics/powered-devices/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "665",
+                "parentId": "663",
+                "familyName": "Power sourcing equipment",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/power-over-ethernet-ics/sourcing-equipment/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "667",
+            "parentId": "64",
+            "familyName": "USB power switches & charging port controllers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/usb-power-switches-charging-port-controllers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "668",
+            "parentId": "64",
+            "familyName": "Load switches",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/load-switches/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "689",
+            "parentId": "64",
+            "familyName": "Multi-channel ICs (PMICs)",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/multi-channel-ics-pmic/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "693",
+            "parentId": "64",
+            "familyName": "LCD & OLED display power & drivers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/power-management/lcd-oled-display-power-drivers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "720",
+            "parentId": "64",
+            "familyName": "Voltage references",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/voltage-references/overview.html",
+            "children": [
+              {
+                "familyID": "401",
+                "parentId": "720",
+                "familyName": "Series voltage references",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/voltage-references/series/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "697",
+                "parentId": "720",
+                "familyName": "Shunt voltage references",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/voltage-references/shunt/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "721",
+                "parentId": "720",
+                "familyName": "Current references & sources",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/voltage-references/current-reference-sources/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "RF & microwave": [
+      {
+        "familyID": "367",
+        "parentId": "2",
+        "familyName": "RF & microwave",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/rf-microwave/overview.html",
+        "children": [
+          {
+            "familyID": "103558",
+            "parentId": "367",
+            "familyName": "mmWave radar sensors",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/sensors/mmwave-radar/overview.html",
+            "children": [
+              {
+                "familyID": "103559",
+                "parentId": "103558",
+                "familyName": "Automotive mmWave radar sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/mmwave-radar/automotive/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "103560",
+                "parentId": "103558",
+                "familyName": "Industrial mmWave radar sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/mmwave-radar/industrial/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "12624",
+            "parentId": "367",
+            "familyName": "RF power detectors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-power-detectors/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "1325",
+            "parentId": "367",
+            "familyName": "RF PLLs & synthesizers",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-plls-synthesizers/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "2923",
+            "parentId": "367",
+            "familyName": "RF transceivers, receivers, transmitters",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/overview.html",
+            "children": [
+              {
+                "familyID": "1512",
+                "parentId": "2923",
+                "familyName": "RF receivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/rf-receivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "2932",
+                "parentId": "2923",
+                "familyName": "RF transmitters",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/rf-transmitters/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "6860",
+                "parentId": "2923",
+                "familyName": "RF transceivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-transceivers-transmitters-receivers/rf-transceivers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "3226",
+            "parentId": "367",
+            "familyName": "RF amplifiers",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/overview.html",
+            "children": [
+              {
+                "familyID": "12622",
+                "parentId": "3226",
+                "familyName": "RF gain block amplifiers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-gain-block/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "12623",
+                "parentId": "3226",
+                "familyName": "RF fully differential amplifiers (FDAs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-fda/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "12625",
+                "parentId": "3226",
+                "familyName": "RF variable gain amplifiers (VGAs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-vga/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "386000",
+                "parentId": "3226",
+                "familyName": "RF low noise amplifiers (LNAs)",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-amplifiers/rf-low-noise-amplifiers/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "383001",
+            "parentId": "367",
+            "familyName": "RF front-end modules",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/rf-microwave/rf-front-end-modules/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "6861",
+            "parentId": "367",
+            "familyName": "Mixers & modulators",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/rf-microwave/mixers-modulators/overview.html",
+            "children": [
+              {
+                "familyID": "1430",
+                "parentId": "6861",
+                "familyName": "IQ demodulators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/mixers-modulators/iq-demodulator/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3230",
+                "parentId": "6861",
+                "familyName": "Downconverting mixers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/mixers-modulators/downconverting-mixer/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "632",
+                "parentId": "6861",
+                "familyName": "IQ modulators",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/mixers-modulators/iq-modulator/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Sensors": [
+      {
+        "familyID": "353",
+        "parentId": "2",
+        "familyName": "Sensors",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/sensors/overview.html",
+        "children": [
+          {
+            "familyID": "3240",
+            "parentId": "353",
+            "familyName": "Humidity sensors",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/sensors/humidity/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "3249",
+            "parentId": "353",
+            "familyName": "Magnetic sensors",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/sensors/magnetic/overview.html",
+            "children": [
+              {
+                "familyID": "12641",
+                "parentId": "3249",
+                "familyName": "Multi-axis linear & angle position sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/magnetic/multi-axis-linear-angle-position/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "15000",
+                "parentId": "3249",
+                "familyName": "Hall-effect current sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/magnetic/hall-effect-current/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3232",
+                "parentId": "3249",
+                "familyName": "Hall-effect latches & switches",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/magnetic/hall-effect-latches-switches/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3233",
+                "parentId": "3249",
+                "familyName": "Linear Hall-effect sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/magnetic/linear-hall-effect/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "344334",
+            "parentId": "353",
+            "familyName": "Optical sensors",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/sensors/optical-sensors/overview.html",
+            "children": [
+              {
+                "familyID": "3182",
+                "parentId": "344334",
+                "familyName": "Light sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/optical-sensors/light/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3185",
+                "parentId": "344334",
+                "familyName": "Proximity sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/optical-sensors/proximity/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "3558",
+            "parentId": "353",
+            "familyName": "mmWave radar sensors",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/sensors/mmwave-radar/overview.html",
+            "children": [
+              {
+                "familyID": "3559",
+                "parentId": "3558",
+                "familyName": "Automotive mmWave radar sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/mmwave-radar/automotive/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3560",
+                "parentId": "3558",
+                "familyName": "Industrial mmWave radar sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/mmwave-radar/industrial/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "611",
+            "parentId": "353",
+            "familyName": "Temperature sensors",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/sensors/temperature/overview.html",
+            "children": [
+              {
+                "familyID": "17001",
+                "parentId": "611",
+                "familyName": "Thermistors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/temperature/thermistors/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "1851",
+                "parentId": "611",
+                "familyName": "Temperature switches",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/temperature/switches/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3180",
+                "parentId": "611",
+                "familyName": "Analog temperature sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/temperature/analog/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3181",
+                "parentId": "611",
+                "familyName": "Digital temperature sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/temperature/digital/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "334487",
+                "parentId": "611",
+                "familyName": "Isolated temperature sensors",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/temperature/isolated/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "6566",
+            "parentId": "353",
+            "familyName": "Specialty sensors",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/sensors/specialty/overview.html",
+            "children": [
+              {
+                "familyID": "12648",
+                "parentId": "6566",
+                "familyName": "Inductive sensor AFEs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/specialty/inductive-sensor-afes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3262",
+                "parentId": "6566",
+                "familyName": "Ultrasonic sensor AFEs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/specialty/ultrasonic-sensor-afes/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "3541",
+                "parentId": "6566",
+                "familyName": "Signal conditioners",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/sensors/specialty/signal-conditioners/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Switches & multiplexers": [
+      {
+        "familyID": "727",
+        "parentId": "2",
+        "familyName": "Switches & multiplexers",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/switches-multiplexers/overview.html",
+        "children": [
+          {
+            "familyID": "255",
+            "parentId": "727",
+            "familyName": "Digital multiplexers & encoders",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/switches-multiplexers/digital-multiplexers-encoders/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "264",
+            "parentId": "727",
+            "familyName": "Digital demultiplexers & decoders",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/switches-multiplexers/digital-demultiplexers-decoders/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "520",
+            "parentId": "727",
+            "familyName": "Analog switches & muxes",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/switches-multiplexers/analog-mux/overview.html",
+            "children": [
+              {
+                "familyID": "399400",
+                "parentId": "520",
+                "familyName": "Analog & precision switches & muxes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/switches-multiplexers/analog-mux/analog-precision-mux/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "704",
+                "parentId": "520",
+                "familyName": "Protocol & bus switches & muxes",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/switches-multiplexers/analog-mux/protocol-bus-muxes/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Wireless connectivity": [
+      {
+        "familyID": "2003",
+        "parentId": "0",
+        "familyName": "Wireless connectivity",
+        "level": "1",
+        "isLeaf": "N",
+        "url": "https://www.ti.com/product-category/wireless-connectivity/overview.html",
+        "children": [
+          {
+            "familyID": "1625",
+            "parentId": "2003",
+            "familyName": "Wi-Fi products",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/wireless-connectivity/wi-fi/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "189094",
+            "parentId": "2003",
+            "familyName": "Automotive wireless connectivity products",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/wireless-connectivity/automotive/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "2043",
+            "parentId": "2003",
+            "familyName": "Low-power 2.4-GHz products",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/wireless-connectivity/low-power-2-4-ghz/overview.html",
+            "children": []
+          },
+          {
+            "familyID": "5001",
+            "parentId": "2003",
+            "familyName": "Other wireless products",
+            "level": "2",
+            "isLeaf": "Y",
+            "url": "https://www.ti.com/product-category/wireless-connectivity/other-wireless-technologies/products.html",
+            "children": []
+          },
+          {
+            "familyID": "935",
+            "parentId": "2003",
+            "familyName": "Long range Sub-1 GHz products",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/wireless-connectivity/sub-1-ghz/overview.html",
+            "children": [
+              {
+                "familyID": "189039",
+                "parentId": "935",
+                "familyName": "Sub-1 GHz transceivers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/wireless-connectivity/sub-1-ghz/transceivers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "189043",
+                "parentId": "935",
+                "familyName": "Sub-1 GHz wireless MCUs",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/wireless-connectivity/sub-1-ghz/wireless-mcus/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "483001",
+                "parentId": "935",
+                "familyName": "RF front-end modules",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/rf-microwave/rf-front-end-modules/overview.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -13,8 +13,8 @@ base_url = "https://darwin.lumychip.com"
 
 
 def create_api(plan_id: str, path: str, custom_map: Dict,
-               headers=None,
-               http_request=None, request_body=None):
+               headers=None,post_media_type=None,
+               http_request=None, request_body=None,fetch_method=None):
     api_link = f"{base_url}/api/auth/seed/add"
     data = {
         "url": path,
@@ -32,6 +32,10 @@ def create_api(plan_id: str, path: str, custom_map: Dict,
         data["http_request"] = http_request
     if request_body:
         data["request_body"] = request_body
+    if post_media_type:
+        data["post_media_type"] = post_media_type
+    if fetch_method:
+        data["fetch_method"] = fetch_method
     response = requests.put(api_link, json=data)
     print(response.text)
 

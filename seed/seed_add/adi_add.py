@@ -23,7 +23,7 @@ base_path = "../seed_json"
 #         custom_map = {"category": category}
 #         create_api(plan_id="1167a8ceac0659bf76028c53d869a177", path=path, custom_map=custom_map)
 target_prefixes = (
-    "Power management",
+    "Power Management",
     "Isolation",
     "Motors & Motion Contro"
 )
@@ -36,6 +36,6 @@ with open(file_path, "r", encoding="utf-8") as f:
         category = item["name"]
         if category.startswith(target_prefixes):
             custom_map = {"category": category}
-            create_api(plan_id="1167a8ceac0659bf76028c53d869a177", path=path, custom_map=custom_map)
+            create_api(plan_id="1167a8ceac0659bf76028c53d869a177", path=path, custom_map=custom_map,fetch_method=2)
         else:
             print(f"跳过不符合前缀的项：category={category}")

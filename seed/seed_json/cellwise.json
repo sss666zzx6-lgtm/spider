@@ -1,0 +1,54 @@
+[
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=lithiumcell&classify=Full%20Protection",
+    "category": "Battery Protection^Full Protection"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=lithiumcell&classify=2nd%20Protection",
+    "category": "Battery Protection^2nd Protection"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=lithiumcell&classify=AFE",
+    "category": "Battery Protection^AFE"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=voltameter&voltage=Voltage%20Sense%20Only",
+    "category": "Fuel Gauge^Voltage Sense Only"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=voltameter&voltage=Voltage%20%26%20Current%20Sense",
+    "category": "Fuel Gauge^Voltage & Current Sense"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=charge_ic",
+    "category": "Power Management IC^Battery Charger"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=buck",
+    "category": "Power Management IC^DCDC Convertor"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=ldo",
+    "category": "Power Management IC^LDO"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=load_switch",
+    "category": "Power Management IC^Low Iq Load Switch"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=usb_ic&type=USB%20Charging%20Controller%20with%20Current%20Limitation",
+    "category": "USB Port Charging Controller^USB Charging Controller with Current Limitation"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=usb_ic&type=USB%20Charging%20Controller%20with%20Communication%20Function",
+    "category": "USB Port Charging Controller^USB Charging Controller with Communication Function"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=usb_ic&type=USB%20Charging%20Controller",
+    "category": "USB Port Charging Controller^USB Charging Controller"
+  },
+  {
+    "url": "http://en.cellwise-semi.com/products/index?ptype=driver_ic",
+    "category": "Brushed DC Motor Smart Controller^Brushed DC Motor Smart Controller"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/operational-amplifier/",
+    "category": "Operational Amplifiers & Comparators^Operational Amplifiers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/comparator/",
+    "category": "Operational Amplifiers & Comparators^Comparators"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/special-function-amplifier/",
+    "category": "Operational Amplifiers & Comparators^Special Function Amplifiers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/afe/",
+    "category": "AFE (Analog Front End) / Data Converters^Sensor measurement AFEs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/data-converter/",
+    "category": "AFE (Analog Front End) / Data Converters^Data Converters"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/ldo-linear-regulator/",
+    "category": "Power Management ICs^LDO Linear Regulators"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/dc-dc-switching-regulator/",
+    "category": "Power Management ICs^DC/DC Switching Regulators"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/multi-channel-pmic/",
+    "category": "Power Management ICs^PMICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/switching-driver-ic/",
+    "category": "Power Management ICs^Switching Drivers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/switch-ic/",
+    "category": "Power Management ICs^Switch ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/shunt-regulator/",
+    "category": "Power Management ICs^Shunt Regulators"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/charge-pump/",
+    "category": "Power Management ICs^Charge Pumps"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/ssfm-osc-ic/",
+    "category": "Power Management ICs^Spread Spectrum Modulation(SSFM) Oscillator IC"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/led-driver-controller/",
+    "category": "Power Management ICs^LED Driver/Controller"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/ddr-termination/spec/?product=njw4118",
+    "category": "Power Management ICs^DDR Termination Regulator"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/for-ac-dc-converters/spec/?product=njw4790a",
+    "category": "Power Management ICs^For AC/DC Converters"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/reset-voltage-detector/",
+    "category": "Reset & Watchdog Timer ICs^Voltage Detectors (Reset ICs)"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/watchdog-timer/",
+    "category": "Reset & Watchdog Timer ICs^Watchdog Timers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/reset-timer-ic/",
+    "category": "Reset & Watchdog Timer ICs^Reset Timer ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/lithium-ion-battery-protection/",
+    "category": "Battery Management ICs^Li-ion Battery Protection ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/analog-front-end/",
+    "category": "Battery Management ICs^Battery Management AFEs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/battery-charger-ic/",
+    "category": "Battery Management ICs^Battery Charger ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/battery-back-up-ic/",
+    "category": "Battery Management ICs^Battery Back-up ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/mems/",
+    "category": "Audio & Video ICs^MEMS Microphone Elements"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/audio-amplifier/",
+    "category": "Audio & Video ICs^Audio Amplifiers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/audio-signal-processing/",
+    "category": "Audio & Video ICs^Audio Signal Processing ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/audio-switch/",
+    "category": "Audio & Video ICs^Audio Switches"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/video-ic/",
+    "category": "Audio & Video ICs^Video ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/audio-video-misc/",
+    "category": "Audio & Video ICs^Audio & Video misc."
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/rf-switch/",
+    "category": "RF Device^RF Switches"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/low-noise-amplifier/",
+    "category": "RF Device^Low Noise Amplifiers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/low-noise-amplifier/",
+    "category": "RF Device^Front-End Modules"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/saw-filter/",
+    "category": "RF Device^SAW Filters"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/fm-if-demodulator-ic/",
+    "category": "RF Device^FM IF Demodulator ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/amplifier-pll-ic/",
+    "category": "RF Device^Amplifier/PLL ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/modulation-demodulation-mixer-ic/",
+    "category": "RF Device^Modulation/Demodulation/Mixer ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/power-line-communication-ic/spec/?product=njm45001",
+    "category": "RF Device^Power Line Communication(PLC) ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/optoelectronic-device/",
+    "category": "Optoelectronic Devices^Optoelectronic Devices"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/featured-products/nm2101.html/",
+    "category": "Acoustic Sensor^Acoustic Sensor"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/stepper-motor-ic/",
+    "category": "Motor ICs^Stepper Motor Drivers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/three-phase-bldc-motor-ic/",
+    "category": "Motor ICs^Three-Phase BLDC Motor Drivers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/single-two-phase-bldc-motor-ic/",
+    "category": "Motor ICs^Single/Two-Phase BLDC Motor Drivers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/actuator-driver/",
+    "category": "Motor ICs^Actuator/Gate Drivers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/real-time-clock/",
+    "category": "Signal Conditioning Peripherals^Real Time Clock (RTC)"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/quartz-crystal-oscillator-ic/",
+    "category": "Signal Conditioning Peripherals^Quartz Crystal Oscillator ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/ate-assp/",
+    "category": "Signal Conditioning Peripherals^ATE(Automated Test Equipment) ASSPs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/lcd-driver/",
+    "category": "Signal Conditioning Peripherals^LCD Drivers"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/ld-driver-ic/",
+    "category": "Signal Conditioning Peripherals^LD Driver ICs"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/usb-type-c-power-delivery/",
+    "category": "Signal Conditioning Peripherals^USB Power Delivery Controller IC (USB PD Controller IC)"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/analog-switch/",
+    "category": "Signal Conditioning Peripherals^Analog Switches"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/io-port-expansion-ics-mpu/",
+    "category": "Signal Conditioning Peripherals^IO Port Expansion ICs (MPU)"
+  },
+  {
+    "url": "https://www.nisshinbo-microdevices.co.jp/en/products/other-peripheral-ic/",
+    "category": "Signal Conditioning Peripherals^Other Peripheral ICs"
+  }
+]

@@ -61,6 +61,7 @@ with open(file_path, "r", encoding="utf-8") as f:
             category = item["category"]
             if category.startswith(target_prefixes):
                 custom_map = {"category":category}
-                create_api(plan_id="ce83d200f1cc051868306263350618af",path=path,custom_map=custom_map,headers=headers)
+                create_api(plan_id="ce83d200f1cc051868306263350618af",path=path,custom_map=custom_map,
+                           headers=headers)
             else:
                 print(f"跳过不符合前缀的项：category={category}")

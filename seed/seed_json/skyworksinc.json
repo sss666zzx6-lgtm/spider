@@ -108,7 +108,7 @@
     "category": "Audio and Radio^Consumer Digital Radios^Si468x Digital Radios"
   },
   {
-    "url": "https://www.skyworksinc.com/en/Products/Audio-and-Radio/Si462x-Automotive-Digital-Data-Receivers",
+    "url": "https://www.skyworksinc.com/Products/Audio-and-Radio/Si462x-Automotive-Digital-Data-Receivers",
     "category": "Audio and Radio^Automotive Digital Data Receivers^Si462x Automotive Digital Data Receivers"
   },
   {
@@ -392,8 +392,44 @@
     "category": "Diodes^Schottky Diodes^Beam-Lead Single N-Type"
   },
   {
-    "url": "https://www.skyworksinc.com/en/Products/High%20reliability%20Diodes",
-    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes"
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Limiter Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Limiter%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Attenuator PIN Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Attenuator%20PIN%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Switching PIN Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Switching%20PIN%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Epoxy Octo Quad Ring Schottky Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Epoxy%20Octo%20Quad%20Ring%20Schottky%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Hermetic Ceramic Schottky Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Hermetic%20Ceramic%20Schottky%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Silicon Schottky Barrier Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Silicon%20Schottky%20Barrier%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Zero Bias Silicon Schottky Barrier Detector Diodes (CDC763X)",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Zero%20Bias%20Silicon%20Schottky%20Barrier%20Detector%20Diodes%20(CDC763X)"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Zero Bias Silicon Schottky Barrier Detector Diodes (DDC235X)",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Zero%20Bias%20Silicon%20Schottky%20Barrier%20Detector%20Diodes%20(DDC235X)"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Hermetic Ceramic Abrupt Varactor Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Hermetic%20Ceramic%20Abrupt%20Varactor%20Diodes"
+  },
+  {
+    "category": "Diodes^Schottky Diodes^High Reliability Schottky Diodes > High Reliability Hermetic Ceramic Hyperabrupt Varactor Diodes",
+    "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=High%20Reliability%20Hermetic%20Ceramic%20Hyperabrupt%20Varactor%20Diodes"
   },
   {
     "url": "https://www.skyworksinc.com/en/Product-Specification?family=Diodes&categories=Plastic%20Surface%20Mount%20(SMT)%20Abrupt%20Varactor%20Diodes",
@@ -548,8 +584,20 @@
     "category": "Isolation^Automotive Isolation^Si88xx Digital Isolators with Integrated DC-DC"
   },
   {
-    "url": "https://www.skyworksinc.com/en/Products/Isolation-Automotive-Isolation-Si89xx",
-    "category": "Isolation^Automotive Isolation^Si89xx Isolated Analog & ADCs"
+    "category": "Isolation^Automotive Isolation^Si89xx Isolated Analog & ADCs > Si892x",
+    "url": "https://www.skyworksinc.com/en/Products/Isolation/Si892x-Automotive-Isolated-Amplifier"
+  },
+  {
+    "category": "Isolation^Automotive Isolation^Si89xx Isolated Analog & ADCs > Si8931/32",
+    "url": "https://www.skyworksinc.com/en/Products/Isolation/Si8931-32-Automotive-Isolated-Amplifier-for-Voltage-Measurement"
+  },
+  {
+    "category": "Isolation^Automotive Isolation^Si89xx Isolated Analog & ADCs > Si8935/36/37",
+    "url": "https://www.skyworksinc.com/en/Products/Isolation/Si8935-36-37-Automotive-Isolated-Delta-Sigma-Modulator-for-Voltage-Measurement"
+  },
+  {
+    "category": "Isolation^Automotive Isolation^Si89xx Isolated Analog & ADCs > Si894x",
+    "url": "https://www.skyworksinc.com/en/Products/Isolation/Si894x-Automotive-Isolated-Delta-Sigma-Modulator-for-Current-Measurement"
   },
   {
     "url": "https://www.skyworksinc.com/en/Products/Isolation/Si86Sx-Digital-Isolators",

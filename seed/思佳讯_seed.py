@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import time
+
 # import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -495,6 +497,95 @@ Technology Standards
     for idx, node in enumerate(final_leaf_nodes, 1):
         print(f"{idx}. 分类：{node['category']}")
         print(f"   链接：{node['url']}\n")
+
+    # 你的原有代码：final_leaf_nodes = update_skyworks_result(result)
+    # =====================================
+    # 新建空列表，用于存放更新后的节点（核心：用新列表替换原列表，实现节点更新）
+    updated_leaf_nodes = []
+
+    # 遍历原叶子节点，逐个处理
+    for item in final_leaf_nodes:
+        category = item["category"]
+        url = item["url"]
+        pageitemid_value = ""  # 初始化pageitemid
+
+        # 你原有判断：url含family则打印，否则获取pageitemid
+        if "family" in item["url"]:
+            print("存在family", item["url"])
+            # 含family的节点直接保留，加入新列表
+            updated_leaf_nodes.append(item)
+            continue
+        else:
+            try:
+                # 发起请求（加请求头，避免反爬）
+                time.sleep(1)
+                response = requests.get(url, headers=HEADERS, timeout=10)
+                response.raise_for_status()
+                soup = BeautifulSoup(response.text, "lxml")
+
+                # 获取pageitemid
+                pageitemid_input = soup.find("input", id="pageitemid")
+                pageitemid_value = pageitemid_input.get("value", "") if pageitemid_input else ""
+                print(f"当前页面：{url}，pageitemid：{pageitemid_value if pageitemid_value else '空，解析下一层'}")
+
+            except Exception as e:
+                print(f"请求/解析{url}异常：{e}，保留原节点")
+                # 异常情况直接保留原节点，加入新列表
+                updated_leaf_nodes.append(item)
+                continue
+
+        # 核心判断：pageitemid有值 → 保留原节点
+        if pageitemid_value:
+            updated_leaf_nodes.append(item)
+        # pageitemid无值 → 极简解析下一层（仅取h4产品名+对应url）
+        else:
+            try:
+                # 重新请求页面（复用上面的soup，无需重复请求！）
+                # 定位核心容器，找所有子分类a标签
+                all_containers = soup.find_all("div", class_="col-sm-12 container-list")
+                # 👉 修改2：初始化子a标签列表，存放所有容器的子链接
+                all_sub_a_list = []
+                # 👉 修改3：遍历所有容器，把每个容器的子a标签汇总到统一列表
+                if all_containers:
+                    for container in all_containers:
+                        container_sub_a = container.find_all("a", class_="item-prod-family") if container else []
+                        all_sub_a_list.extend(container_sub_a)
+                    print(f"找到{len(all_containers)}个容器，共解析出{len(all_sub_a_list)}个下一层子节点，替换原节点")
+
+                if all_sub_a_list:
+                    print(f"找到{len(all_sub_a_list)}个下一层子节点，替换原节点")
+                    # 遍历子a标签，仅提取h4产品名（如Si894x）+ 绝对URL
+                    for sub_a in all_sub_a_list:
+                        # 提取子分类名：仅取<h4>的内容（你要的Si892x/Si894x这种）
+                        sub_cate = sub_a.find("h4").get_text(strip=True) if sub_a.find("h4") else "未知分类"
+                        # 提取子URL并拼接为绝对地址
+                        sub_href = sub_a.get("href", "").strip()
+                        sub_url = f"{BASE_DOMAIN}{sub_href}" if sub_href and not sub_href.startswith("http") else url
+                        # 生成子节点（分类名：原分类 > 子产品名，保持层级）
+                        sub_item = {
+                            "category": f"{category} > {sub_cate}",
+                            "url": sub_url
+                        }
+                        # 子节点加入新列表（替换原节点）
+                        updated_leaf_nodes.append(sub_item)
+                else:
+                    # 没找到下一层子节点，保留原节点
+                    print(f"未找到下一层子节点，保留原节点：{url}")
+                    updated_leaf_nodes.append(item)
+
+            except Exception as e:
+                print(f"解析下一层异常：{e}，保留原节点：{url}")
+                updated_leaf_nodes.append(item)
+
+    # 核心：用更新后的节点列表，覆盖原final_leaf_nodes（完成更新）
+    final_leaf_nodes = updated_leaf_nodes
+    # =====================================
+
+    # （可选）打印更新后的最终节点，验证结果
+    print(f"\n===== 节点更新完成，最终总数：{len(final_leaf_nodes)} =====")
+    for idx, node in enumerate(final_leaf_nodes, 1):
+        print(f"{idx}. 分类：{node['category']} | 链接：{node['url']}")
+
     base_path = "./seed_json"
     file_path = os.path.join(base_path, "skyworksinc.json")
 

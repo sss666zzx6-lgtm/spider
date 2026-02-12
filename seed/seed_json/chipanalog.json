@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/iso-power",
+    "category": "Isolation and Interface^Digital Isolation^Digital Isolators with Iso-power(24)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/sdi",
+    "category": "Isolation and Interface^Digital Isolation^Standard Digital Isolator(71)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/automotive_single_channel_standard_digital_isolators",
+    "category": "Isolation and Interface^Digital Isolation^Automotive Standard Digital Isolator(24)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/low_power_digital_isolators",
+    "category": "Isolation and Interface^Digital Isolation^Low-power Digital Isolator(4)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/cost_effective_digital_isolators",
+    "category": "Isolation and Interface^Digital Isolation^Cost-effective Digital Isolator(32)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/rdi",
+    "category": "Isolation and Interface^Digital Isolation^Reinforced Digital Isolator(46)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/digital/high-voltage-i/o-digital-isolators--",
+    "category": "Isolation and Interface^Digital Isolation^High-Voltage I/O Digital Isolator(1)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/isolated/i2c",
+    "category": "Isolation and Interface^Isolated Interface^Isolated I2C(7)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/isolated/ict",
+    "category": "Isolation and Interface^Isolated Interface^Isolated CAN Transceiver(13)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/isolated/isolated-can-transceivers-with-iso-power",
+    "category": "Isolation and Interface^Isolated Interface^Isolated CAN Transceivers with iso-power(5)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/isolated/rs",
+    "category": "Isolation and Interface^Isolated Interface^Isolated RS-485/422 Transceiver(10)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/isolated/iso4",
+    "category": "Isolation and Interface^Isolated Interface^Isolated RS-485/422 Transceivers with Iso-power(7)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/isolated/iso5",
+    "category": "Isolation and Interface^Isolated Interface^Isolated DI/DO(3)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/interface3",
+    "category": "Isolation and Interface^Interface^RS-485/422 Transceiver(37)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/interface4",
+    "category": "Isolation and Interface^Interface^RS-232 Transceiver(2)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/automotive_can_transceivers",
+    "category": "Isolation and Interface^Interface^Automotive CAN Transceiver(20)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/industrial_can_transceivers",
+    "category": "Isolation and Interface^Interface^Industrial CAN Transceiver(7)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/interface2",
+    "category": "Isolation and Interface^Interface^LIN Transceiver(9)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/interface5",
+    "category": "Isolation and Interface^Interface^AISG Modulator(1)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/interface/interface/interface6",
+    "category": "Isolation and Interface^Interface^HomeBus Transceiver(3)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/isolated-driver/standard-isolated-driver",
+    "category": "Driver and Power^Isolated Gate Driver^Standard Isolated Driver(22)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/isolated-driver/isolated-smart-driver",
+    "category": "Driver and Power^Isolated Gate Driver^Isolated Smart Driver(8)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/isolated-driver/automotive-isolated-drivers",
+    "category": "Driver and Power^Isolated Gate Driver^Automotive Isolated Driver(12)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/isolated-driver/standard_lsolated_drivers",
+    "category": "Driver and Power^Isolated Gate Driver^CMOS-Input Gate Driver(12)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/isolated-driver/half_bridge_gate_driver-",
+    "category": "Driver and Power^Isolated Gate Driver^Half-Bridge Gate Driver (3)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/isolated-driver/functional_safety-_isolated_gate_driver",
+    "category": "Driver and Power^Isolated Gate Driver^Automotive Functional Safety Isolated Gate Driver(5)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/smart-switches/solid-state-relays-ssr",
+    "category": "Driver and Power^Driver & Switch^Solid State Relays (SSR)(2)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/smart-switches/moto-rpre-driver",
+    "category": "Driver and Power^Driver & Switch^Motor Pre-driver(2)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/power-management/isolated-dc-dc-converter-and-module",
+    "category": "Driver and Power^Power Management^Isolated DC-DC Module(3)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/power/power-management/infrastructure-system-chip",
+    "category": "Driver and Power^Power Management^System Basis Chip(10)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/hpa/amplifier-and-reference/isolated-adc",
+    "category": "High Performance Analog Products^Sensor & Sampling^Isolated modulator(6)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/hpa/amplifier-and-reference/isolated-amplifier",
+    "category": "High Performance Analog Products^Sensor & Sampling^Full Differential Isolated Amplifier(4)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/hpa/amplifier-and-reference/automotive_isolated_amplifier_for_voltage_sensing",
+    "category": "High Performance Analog Products^Sensor & Sampling^Automotive Isolated Amplifier for Voltage Sensing(1)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/hpa/amplifier-and-reference/isolated_amplifier_for_voltage_sensing",
+    "category": "High Performance Analog Products^Sensor & Sampling^Isolated Amplifier for Voltage Sensing(2)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/hpa/amplifier-and-reference/automotive_isolated_amplifier_for_current_sensing",
+    "category": "High Performance Analog Products^Sensor & Sampling^Automotive Isolated Amplifier for Current Sensing(1)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/hpa/amplifier-and-reference/hpa",
+    "category": "High Performance Analog Products^Sensor & Sampling^Linear Hall-effect Current Sensor(5)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/μmic/digital-isolation/product1",
+    "category": "μMiC Products^Digital Isolation^Digital Isolators with Iso-power(24)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/μmic/isolated-interface/product2",
+    "category": "μMiC Products^Isolated Interface^Isolated RS-485/422 Transceivers with Iso-power(7)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/μmic/isolated-interface/product3",
+    "category": "μMiC Products^Isolated Interface^Isolated CAN Transceivers with iso-power(1)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/μmic/power-management/product4",
+    "category": "μMiC Products^Power Management^System Basis Chip(6)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/μmic/power-management/product5",
+    "category": "μMiC Products^Power Management^Isolated DC-DC Converter and Module(3)"
+  },
+  {
+    "url": "https://e.chipanalog.com/products/μmic/smart-switches/solid-state-relays-ssr",
+    "category": "μMiC Products^Smart Switches^Solid State Relays (SSR)(2)"
+  }
+]

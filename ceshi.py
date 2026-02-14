@@ -114,3 +114,10 @@ try:
 except Exception as e:
     print(f"下载失败：{str(e)}")
 
+
+
+# https://toshiba.semicon-storage.com/info/lookup.jsp?pid=TDTC144E&region=apc&lang=en
+# https://toshiba.semicon-storage.com/info/lookup.jsp?pid=2SA1162&region=apc&lang=en
+
+# https://toshiba.semicon-storage.com/info/lookup.jsp?pid=RN4987&region=apc&lang=en
+# https://toshiba.semicon-storage.com/info/lookup.jsp?pid=TLX9150M&region=apc&lang=en

@@ -1746,48 +1746,76 @@
             "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/overview.html",
             "children": [
               {
-                "familyID": "193120",
+                "familyID": "399770",
                 "parentId": "5018",
-                "familyName": "Arm Cortex-M0+ MCUs",
+                "familyName": "Automotive MCUs",
+                "level": "3",
+                "isLeaf": "N",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/automotive/overview.html",
+                "children": [
+                  {
+                    "familyID": "399771",
+                    "parentId": "399770",
+                    "familyName": "Automotive body & lighting MCUs",
+                    "level": "4",
+                    "isLeaf": "Y",
+                    "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/automotive/body-lighting/overview.html",
+                    "children": []
+                  },
+                  {
+                    "familyID": "399778",
+                    "parentId": "399770",
+                    "familyName": "Automotive powertrain, zonal & chassis control MCUs",
+                    "level": "4",
+                    "isLeaf": "Y",
+                    "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/automotive/powertrain-zone-chassis/overview.html",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "familyID": "399783",
+                "parentId": "5018",
+                "familyName": "General-purpose MCUs",
                 "level": "3",
                 "isLeaf": "Y",
-                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/arm-cortex-m0/overview.html",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/general-purpose/overview.html",
                 "children": []
               },
               {
-                "familyID": "268014",
+                "familyID": "399798",
                 "parentId": "5018",
-                "familyName": "Arm Cortex-M4 MCUs",
+                "familyName": "Low-power MCUs",
                 "level": "3",
                 "isLeaf": "Y",
-                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/arm-cortex-m4/overview.html",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/low-power/overview.html",
                 "children": []
               },
               {
-                "familyID": "268015",
+                "familyID": "399804",
                 "parentId": "5018",
-                "familyName": "Arm Cortex-R MCUs",
+                "familyName": "Real-time digital power MCUs",
                 "level": "3",
                 "isLeaf": "Y",
-                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/arm-cortex-r/overview.html",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/real-time-digital-power/overview.html",
                 "children": []
               },
               {
-                "familyID": "342",
+                "familyID": "399808",
                 "parentId": "5018",
-                "familyName": "MSP430 microcontrollers",
+                "familyName": "Real-time motor control & automation MCUs",
                 "level": "3",
                 "isLeaf": "Y",
-                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/msp430/overview.html",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/real-time-motor-control-automation/overview.html",
                 "children": []
               },
               {
-                "familyID": "5014",
+                "familyID": "399812",
                 "parentId": "5018",
-                "familyName": "C2000 real-time microcontrollers",
+                "familyName": "Sensing MCUs",
                 "level": "3",
                 "isLeaf": "Y",
-                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/c2000-real-time-mcus/overview.html",
+                "url": "https://www.ti.com/product-category/microcontrollers-processors/mcus/sensing/overview.html",
                 "children": []
               }
             ]
@@ -2184,20 +2212,30 @@
           {
             "familyID": "360000",
             "parentId": "64",
-            "familyName": "AC/DC & DC/DC controllers (external FET)",
+            "familyName": "AC/DC switching regulators",
             "level": "2",
-            "isLeaf": "Y",
-            "url": "https://www.ti.com/product-category/power-management/acdc-dcdc-controllers/overview.html",
-            "children": []
-          },
-          {
-            "familyID": "360082",
-            "parentId": "64",
-            "familyName": "AC/DC & DC/DC converters (integrated FET)",
-            "level": "2",
-            "isLeaf": "Y",
-            "url": "https://www.ti.com/product-category/power-management/acdc-dcdc-converters/overview.html",
-            "children": []
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/ac-dc-switching-regulators/overview.html",
+            "children": [
+              {
+                "familyID": "360082",
+                "parentId": "360000",
+                "familyName": "AC/DC converters",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/ac-dc-switching-regulators/ac-dc-converters/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399850",
+                "parentId": "360000",
+                "familyName": "AC/DC controllers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/ac-dc-switching-regulators/ac-dc-controllers/overview.html",
+                "children": []
+              }
+            ]
           },
           {
             "familyID": "360178",
@@ -2223,6 +2261,34 @@
                 "level": "3",
                 "isLeaf": "Y",
                 "url": "https://www.ti.com/product-category/power-management/dcdc-modules/isolated/overview.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "familyID": "399852",
+            "parentId": "64",
+            "familyName": "DC/DC switching regulators",
+            "level": "2",
+            "isLeaf": "N",
+            "url": "https://www.ti.com/product-category/power-management/dc-dc-switching-regulators/overview.html",
+            "children": [
+              {
+                "familyID": "399853",
+                "parentId": "399852",
+                "familyName": "DC/DC controllers",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/dc-dc-switching-regulators/dc-dc-controllers/overview.html",
+                "children": []
+              },
+              {
+                "familyID": "399860",
+                "parentId": "399852",
+                "familyName": "DC/DC converters",
+                "level": "3",
+                "isLeaf": "Y",
+                "url": "https://www.ti.com/product-category/power-management/dc-dc-switching-regulators/dc-dc-converters/overview.html",
                 "children": []
               }
             ]

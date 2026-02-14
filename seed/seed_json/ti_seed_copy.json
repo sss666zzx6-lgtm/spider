@@ -592,32 +592,24 @@
     "category": "Microcontrollers (MCUs) & processors^Microprocessors & DSPs^Multimedia & industrial networking SoCs"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399771&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Automotive MCUs^Automotive body & lighting MCUs"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=193120&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Arm Cortex-M0+ MCUs"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399778&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Automotive MCUs^Automotive powertrain, zonal & chassis control MCUs"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=268014&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Arm Cortex-M4 MCUs"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399783&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^General-purpose MCUs"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=268015&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Arm Cortex-R MCUs"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399798&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Low-power MCUs"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=342&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^MSP430 microcontrollers"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399804&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Real-time digital power MCUs"
-  },
-  {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399808&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Real-time motor control & automation MCUs"
-  },
-  {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399812&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^Sensing MCUs"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=5014&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Microcontrollers (MCUs) & processors^Microcontrollers^C2000 real-time microcontrollers"
   },
   {
     "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=3392&destinationType=GPT&mode=parametric&locale=en-US",
@@ -752,12 +744,12 @@
     "category": "Power management^High-side switches & controllers^High-side switches"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360082&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Power management^AC/DC switching regulators^AC/DC converters"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360000&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^AC/DC & DC/DC controllers (external FET)"
   },
   {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399850&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Power management^AC/DC switching regulators^AC/DC controllers"
+    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360082&destinationType=GPT&mode=parametric&locale=en-US",
+    "category": "Power management^AC/DC & DC/DC converters (integrated FET)"
   },
   {
     "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360179&destinationType=GPT&mode=parametric&locale=en-US",
@@ -766,14 +758,6 @@
   {
     "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=360246&destinationType=GPT&mode=parametric&locale=en-US",
     "category": "Power management^DC/DC  power modules^Isolated power modules (integrated transformer)"
-  },
-  {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399853&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Power management^DC/DC switching regulators^DC/DC controllers"
-  },
-  {
-    "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=399860&destinationType=GPT&mode=parametric&locale=en-US",
-    "category": "Power management^DC/DC switching regulators^DC/DC converters"
   },
   {
     "url": "https://www.ti.com/selectionmodel/api/gpn/result-list?destinationId=400&destinationType=GPT&mode=parametric&locale=en-US",

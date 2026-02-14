@@ -1,0 +1,622 @@
+[
+  {
+    "url": "https://www.silabs.com/wireless/amazon-sidewalk/efr32sg23-sub-ghz-wireless-socs",
+    "category": "Wireless^Amazon Sidewalk^Wireless SoCs for Amazon Sidewalk^EFR32SG23 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/amazon-sidewalk/efr32sg28-dual-band-wireless-socs",
+    "category": "Wireless^Amazon Sidewalk^Wireless SoCs for Amazon Sidewalk^EFR32SG28 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/sibg301-series-3-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^SiBG301 Series 3 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg26-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG26 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg26-series-2-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG26 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg29-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG29 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg24l-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG24L Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg24-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG24 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg24-series-2-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG24 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg27-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG27 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg27-series-2-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG27 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg22l-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG22L Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg22-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG22 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg22-series-2-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG22 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG21 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG21 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg13-series-1-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG13 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg13-series-1-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG13 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg12-series-1-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG12 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg1-series-1-socs",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG1 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg1-series-1-modules",
+    "category": "Wireless^Bluetooth^Compare Bluetooth Low Energy and Bluetooth Mesh^EFR32BG1 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/bluetooth-br-edr-modules",
+    "category": "Wireless^Bluetooth^Bluetooth Classic^Bluetooth BR-EDR Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/lpwan",
+    "category": "Wireless^LPWAN"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs",
+    "category": "Wireless^Matter^Wi-Fi 6 SoCs and Modules^SiWx917 Wireless SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/siwx917y-wireless-modules",
+    "category": "Wireless^Matter^Wi-Fi 6 SoCs and Modules^SiWx917Y Wireless Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/simg301-series-3-socs",
+    "category": "Wireless^Matter^Thread SoCs and Modules^SiMG301 Series 3 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-socs",
+    "category": "Wireless^Matter^Thread SoCs and Modules^EFR32MG26 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-modules",
+    "category": "Wireless^Matter^Thread SoCs and Modules^EFR32MG26 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-socs",
+    "category": "Wireless^Matter^Thread SoCs and Modules^EFR32MG24 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-modules",
+    "category": "Wireless^Matter^Thread SoCs and Modules^EFR32MG24 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs",
+    "category": "Wireless^Matter^Thread SoCs and Modules^EFR32MG21 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules",
+    "category": "Wireless^Matter^Thread SoCs and Modules^EFR32MG21 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/simg301-series-3-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^SiMG301 Series 3 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG26 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-modules",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG26 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG24 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg27-series-2-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG27 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-modules",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG24 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG21 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG21 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG12 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-modules",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG12 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG13 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-modules",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32MG13 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32BG21 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg21-series-2-modules",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32BG21 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg13-series-1-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32BG13 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/bluetooth/efr32bg12-series-1-socs",
+    "category": "Wireless^Multiprotocol^Multiprotocol SoCs and Modules^EFR32BG12 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg25-sub-ghz-wireless-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG25 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG28 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg23-sub-ghz-wireless-soc",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG23 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg23l-sub-ghz-wireless-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG23L Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/fgm230s-sub-ghz-sip-modules",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^FGM230 Sub-GHz SiP Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg22-series-2-2-4-ghz-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG22 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg12-series-1-sub-ghz-2-4-ghz-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG12 Series 1 Sub-GHz and 2.4 GHz SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg1-series-1-sub-ghz-2-4-ghz-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG1 Series 1 Sub-GHz and 2.4 GHz SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg13-series-1-sub-ghz-2-4-ghz-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG13 Series 1 Sub-GHz and 2.4 GHz SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg14-series-1-sub-ghz-2-4-ghz-socs",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EFR32FG14 Series 1 Sub-GHz and 2.4 GHz SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/ezradiopro-sub-ghz-ics",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^EZRadioPRO Sub-GHz Wireless ICs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/si10xx-sub-ghz-mcps",
+    "category": "Wireless^Proprietary^Proprietary Wireless Sub-GHz and 2.4 GHz^Si10xx Sub-GHz Wireless MCPs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/simg301-series-3-socs",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^SiMG301 Series 3 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-socs",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG26 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-modules",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG26 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-socs",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG24 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-modules",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG24 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG21 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG21 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG12 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-modules",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG12 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-socs",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG13 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-modules",
+    "category": "Wireless^Thread^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG13 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/siwx917-wireless-socs",
+    "category": "Wireless^Wi-Fi^Wi-Fi Modules and SoCs^SiWx917 Wireless SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/siwx917y-wireless-modules",
+    "category": "Wireless^Wi-Fi^Wi-Fi Modules and SoCs^SiWx917Y Wireless Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-transceiver-socs",
+    "category": "Wireless^Wi-Fi^Wi-Fi Modules and SoCs^RS9116 Wi-Fi Transceiver SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-transceiver-modules",
+    "category": "Wireless^Wi-Fi^Wi-Fi Modules and SoCs^RS9116 Wi-Fi Transceiver Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-socs",
+    "category": "Wireless^Wi-Fi^Wi-Fi Modules and SoCs^RS9116 Wi-Fi NCP SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/wi-fi/rs9116-wi-fi-ncp-modules",
+    "category": "Wireless^Wi-Fi^Wi-Fi Modules and SoCs^RS9116 Wi-Fi NCP Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg25-sub-ghz-wireless-socs",
+    "category": "Wireless^Wi-SUN^Wi-SUN Wireless SoCs^EFR32FG25 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg28-sub-ghz-wireless-socs",
+    "category": "Wireless^Wi-SUN^Wi-SUN Wireless SoCs^EFR32FG28 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/proprietary/efr32fg12-series-1-sub-ghz-2-4-ghz-socs",
+    "category": "Wireless^Wi-SUN^Wi-SUN Wireless SoCs^EFR32FG12 Series 1 Sub-GHz and 2.4 GHz SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/z-wave/efr32zg28-z-wave-800-socs",
+    "category": "Wireless^Z-Wave^Z-Wave Modules and SoCs^EFR32ZG28 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/z-wave/800-series-modules",
+    "category": "Wireless^Z-Wave^Z-Wave Modules and SoCs^Z-Wave 800 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/z-wave/800-series-modem-soc",
+    "category": "Wireless^Z-Wave^Z-Wave Modules and SoCs^Z-Wave 800 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/z-wave/700-series-modules",
+    "category": "Wireless^Z-Wave^Z-Wave Modules and SoCs^Z-Wave 700 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/z-wave/700-series-modem-soc",
+    "category": "Wireless^Z-Wave^Z-Wave Modules and SoCs^Z-Wave 700 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/z-wave/500-series-modules",
+    "category": "Wireless^Z-Wave^Z-Wave Modules and SoCs^Z-Wave 500 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/simg301-series-3-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^SiMG301 Series 3 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG26 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg26-series-2-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG26 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg29-series-2-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG29 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG24 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg27-series-2-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG27 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg27-series-2-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG27 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG24 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG22 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg22-series-2-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG22 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG21 Series 2 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg21-series-2-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG21 Series 2 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG12 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg12-series-1-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG12 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG13 Series 1 SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/efr32mg13-series-1-modules",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EFR32MG13 Series 1 Modules"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/em359x-zigbee-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EM359x Wireless Zigbee SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/em358x-zigbee-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EM358x Wireless Zigbee SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/wireless/zigbee/em35x-zigbee-socs",
+    "category": "Wireless^Zigbee^Mesh Networking System-on-Chip (SoC)​ and Modules^EM35x Wireless Zigbee SoCs"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg26-series-2",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^EFM32PG26 Series 2"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg28-series-2",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^EFM32PG28 Series 2"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg23-series-2",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^EFM32PG23 Series 2"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg22-series-2",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^EFM32PG22 Series 2"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-giant-gecko-gg11",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Giant Gecko S1"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-tiny-gecko-tg11",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Tiny Gecko S1"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-giant-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Giant Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-wonder-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Wonder Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-leopard-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Leopard Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-pearl-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Pearl Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-jade-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Jade Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-tiny-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Tiny Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-happy-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Happy Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/32-bit-microcontrollers/efm32-zero-gecko",
+    "category": "Non-Wireless^MCUs^Explore 32-bit MCUs^32-bit MCUs^Zero Gecko"
+  },
+  {
+    "url": "https://www.silabs.com/power/efp01-power-management-ic",
+    "category": "Non-Wireless^Power Management"
+  },
+  {
+    "url": "https://www.silabs.com/sensors/magnetic/si7210",
+    "category": "Non-Wireless^Sensors^Magnetic Sensors^Magnetic Hall Effect Sensors^Si7210"
+  },
+  {
+    "url": "https://www.silabs.com/sensors/magnetic/si720x",
+    "category": "Non-Wireless^Sensors^Magnetic Sensors^Magnetic Hall Effect Sensors^Si720x"
+  },
+  {
+    "url": "https://www.silabs.com/sensors/magnetic/si721x",
+    "category": "Non-Wireless^Sensors^Magnetic Sensors^Magnetic Hall Effect Sensors^Si721x"
+  },
+  {
+    "url": "https://www.silabs.com/interface/usb-bridges/driverless-usb-bridges",
+    "category": "Non-Wireless^USB Bridges^USB Bridges^Driverless USB Bridges"
+  },
+  {
+    "url": "https://www.silabs.com/interface/usb-bridges/classic",
+    "category": "Non-Wireless^USB Bridges^USB Bridges^Classic USB Bridges"
+  },
+  {
+    "url": "https://www.silabs.com/interface/usb-bridges/usbxpress",
+    "category": "Non-Wireless^USB Bridges^USB Bridges^USBXpress USB Bridges"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/efm8-bb5",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^EFM8 BB5"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/efm8-busy-bee",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^EFM8 Busy Bee"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/efm8-laser-bee",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^EFM8 Laser Bee"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/efm8-sleepy-bee",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^EFM8 Sleepy Bee"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/efm8-universal-bee",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^EFM8 Universal Bee"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f02x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F02x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f04x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F04x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f06x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F06x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f12x-f13x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F12x/13x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f30x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F30x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f31x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F31x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f32x-f34x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F32x/34x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f33x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F33x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f35x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F35x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f36x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F36x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f38x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F38x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f39x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F39x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f41x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F41x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f50x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F50x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f51x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F51x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f52x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F52x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f53x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F53x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f54x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F54x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f55x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F55x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f56x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F56x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f57x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F57x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f58x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F58x"
+  },
+  {
+    "url": "https://www.silabs.com/mcu/8-bit-microcontrollers/c8051f92x-f93x",
+    "category": "Non-Wireless^MCUs^Explore 8-bit MCUs^8-bit MCUs^C8051F92x-93x"
+  }
+]

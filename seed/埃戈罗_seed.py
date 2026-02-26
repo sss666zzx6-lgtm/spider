@@ -56,6 +56,7 @@ def parse_leaf_nodes(data, base_url="https://www.allegromicro.com"):
     _traverse(data)
     return leaf_nodes
 
+
 if __name__ == '__main__':
     url = "https://www.allegromicro.com/en/products"
     response = requests.get(url)

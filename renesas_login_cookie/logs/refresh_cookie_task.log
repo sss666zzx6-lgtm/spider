@@ -1,0 +1,10 @@
+2026-02-26 18:05:55 - refresh_cookie_task - INFO - 全局Session初始化完成
+2026-02-26 18:05:55 - refresh_cookie_task - INFO - 启动定时任务，首次执行Cookie验证...
+2026-02-26 18:05:55 - refresh_cookie_task - INFO - ==================================================
+2026-02-26 18:05:55 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-02-26 18:05:56 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-02-26 18:05:58 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-02-26 18:05:58 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-02-26 18:05:58 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-02-26 18:05:58 - refresh_cookie_task - INFO - ==================================================
+2026-02-26 18:05:58 - refresh_cookie_task - INFO - 定时任务已配置：每6小时执行一次Cookie验证

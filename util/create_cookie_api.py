@@ -25,3 +25,10 @@ def create_cookie(host: str, cookie: str):
 if __name__ == '__main__':
     create_cookie("www.renesas.com", cookie_str)
     # print(type(cookie_str))
+
+    #
+    # r = verify_cookie(session)
+    # if r:
+    #     host = "https://www.renesas.com"
+    #     cookie_str = session.headers.get("cookie")
+    #     create_cookie(host,cookie_str)

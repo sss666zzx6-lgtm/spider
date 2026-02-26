@@ -1,11 +1,12 @@
 import requests
+from bs4 import BeautifulSoup
 import json
-
+import os
 
 def parse_leaf_nodes(data, base_url="https://www.allegromicro.com"):
     leaf_nodes = []
 
-    # 递归处理节点的核心函数
+
     def _traverse(node, parent_categories=None):
         # 初始化父分类列表
         if parent_categories is None:
@@ -52,17 +53,50 @@ def parse_leaf_nodes(data, base_url="https://www.allegromicro.com"):
                             "category": full_category
                         })
 
-    # 执行递归遍历
     _traverse(data)
     return leaf_nodes
-url = "https://www.allegromicro.com/all-api/getmegamenu?itemId=%7B364E0988-E354-46A9-8081-ADD11DCE95CF%7D"
 
-response = requests.get(url)
-print(response.json())
+if __name__ == '__main__':
+    url = "https://www.allegromicro.com/en/products"
+    response = requests.get(url)
 
-data_dict = json.loads(response.json())
-print(type(data_dict))
+    soup = BeautifulSoup(response.text, 'lxml')
+    # print(soup.prettify())
 
-data = parse_leaf_nodes(data_dict)
+    products_a = soup.find('a', id='Products')
+    target_div = None
+    if products_a:
+        for sibling in products_a.next_siblings:
+            if sibling.name == 'div':
+                target_div = sibling
+                break
 
-print(json.dumps(data, indent=4,ensure_ascii=False))
+    li_elements = []
+    if target_div:
+        li_elements = target_div.find_all('li')
+
+    level2_ids = []
+    for li in li_elements:
+        # 提取属性值：get方法更安全，属性不存在时返回None而非报错
+        level2_id = li.get('data-level2-id')
+        if level2_id:
+            level2_ids.append(level2_id)
+            print(f"提取到data-level2-id: {level2_id}")
+    category_list = []
+    for level2_id in level2_ids:
+        data_url = f"https://www.allegromicro.com/all-api/getmegamenu?itemId={level2_id}"
+        res = requests.get(data_url)
+        if res.status_code == 200:
+            print(f"正在解析{data_url}")
+            data_dict = json.loads(res.json())
+            data = parse_leaf_nodes(data_dict)
+            category_list += data
+
+
+    print(json.dumps(category_list, ensure_ascii=False,indent=4))
+
+    base_path = "./seed_json"
+    file_path = os.path.join(base_path, "allegromicro.json")
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(category_list, f, indent=2, ensure_ascii=False)

@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/current-sensor-ics/field-current-sensors",
+    "category": "Sensors^Current Sensors^Field Current Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/current-sensor-ics/integrated-current-sensors",
+    "category": "Sensors^Current Sensors^Integrated Current Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/inductive-position-sensors/motor-position-sensors",
+    "category": "Sensors^Inductive Position Sensors^Motor Position Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/linear-and-angular-position/linear-sensors-1d",
+    "category": "Sensors^Position Sensors^Linear Hall Sensors (1D)"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/linear-and-angular-position/motor-position-sensors-2d",
+    "category": "Sensors^Position Sensors^Motor Position Sensors (2D)"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/linear-and-angular-position/multi-axis-linear-and-angle-sensors-3d",
+    "category": "Sensors^Position Sensors^Multi-Axis Linear and Angle Sensors (3D)"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/magnetic-speed/camshaft-sensor-ics",
+    "category": "Sensors^Speed Sensors^Camshaft Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/magnetic-speed/crankshaft-sensor-ics",
+    "category": "Sensors^Speed Sensors^Crankshaft Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/magnetic-speed/general-purpose-speed-sensor-ics",
+    "category": "Sensors^Speed Sensors^General Purpose Speed Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/magnetic-speed/interface/sensor-interface",
+    "category": "Sensors^Speed Sensors^Interface Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/magnetic-speed/transmission-sensor-ics",
+    "category": "Sensors^Speed Sensors^Transmission Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/magnetic-speed/wheel-speed-sensor-ics",
+    "category": "Sensors^Speed Sensors^Wheel Speed Sensors"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/switches-and-latches/switches",
+    "category": "Sensors^Switches and Latches^Switches"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/sense/switches-and-latches/latches",
+    "category": "Sensors^Switches and Latches^Latches"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/dcdc-regulators/clearpower-regulator-modules",
+    "category": "Regulators^DCDC Regulators^ClearPower Regulator Modules"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/dcdc-regulators/dcdc-converters",
+    "category": "Regulators^DCDC Regulators^DCDC Converters"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/dcdc-regulators/multiple-output-dcdc-converters",
+    "category": "Regulators^DCDC Regulators^Multiple Output DCDC Converters"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/functional-safety-pmics",
+    "category": "Regulators^Functional Safety PMICs"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/led-drivers/clearpower-led-driver-modules",
+    "category": "Regulators^LED Drivers^ClearPower LED Driver Modules"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/led-drivers/led-drivers-for-backlighting",
+    "category": "Regulators^LED Drivers^LED Drivers for Backlighting"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/regulate/led-drivers/led-drivers-for-lighting",
+    "category": "Regulators^LED Drivers^LED Drivers for Lighting"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/brush-dc-motor-drivers",
+    "category": "Drivers^Brush DC Drivers"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/brushless-dc-drivers/bldc-drivers",
+    "category": "Drivers^Brushless DC Drivers^BLDC Drivers"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/brushless-dc-drivers/integrated-control-bldc-drivers",
+    "category": "Drivers^Brushless DC Drivers^Integrated Control BLDC Drivers"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/gate-drivers",
+    "category": "Drivers^Isolated Gate Drivers"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/multichannel-and-solenoid-drivers/disconnect-drivers",
+    "category": "Drivers^Multichannel & Solenoid Drivers^Disconnect Drivers"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/multichannel-and-solenoid-drivers/high-side-and-low-side-drivers",
+    "category": "Drivers^Multichannel & Solenoid Drivers^High-side & Low-side Drivers"
+  },
+  {
+    "url": "https://www.allegromicro.com/en/products/motor-drivers/stepper-drivers",
+    "category": "Drivers^Stepper Motor Drivers"
+  }
+]

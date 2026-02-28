@@ -262,8 +262,8 @@ if __name__ == '__main__':
     print(json.dumps(final_result, ensure_ascii=False, indent=4))
     print(f"\n最终分类列表数量：{len(final_result)}")
 
-    base_path = "./seed_json"
-    file_path = os.path.join(base_path, "silabs.json")
+    # base_path = "../seed_json"
+    file_path = "silabs.json"
 
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(final_result, f, indent=2, ensure_ascii=False)

@@ -1,0 +1,106 @@
+[
+  {
+    "url": "https://www.egmicro.com/products/filter_llc?category_id=2",
+    "category": "AC-DC power chip^LLC Power Supply"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_hbpp?category_id=3",
+    "category": "AC-DC power chip^Half-Bridge and Push-Pull Power Supply"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_fr?category_id=4",
+    "category": "AC-DC power chip^Forward and Flyback Power Supply"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_pfc?category_id=5",
+    "category": "AC-DC power chip^PFC Power Supply"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_battery?category_id=38",
+    "category": "AC-DC power chip^Battery Management"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_bCtrl?category_id=7",
+    "category": "DC-DC Power Chip^Buck (Control)"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_bFet?category_id=8",
+    "category": "DC-DC Power Chip^Buck (Integrated FET)"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_boost?category_id=9",
+    "category": "DC-DC Power Chip^Boost"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_bboost?category_id=22",
+    "category": "DC-DC Power Chip^Buck - Boost"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_linear?category_id=32",
+    "category": "DC-DC Power Chip^Linear Power Supply"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_single?category_id=13",
+    "category": "DC-AC Power Chip^Single - Phase Inversion"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_bidirectional?category_id=14",
+    "category": "DC-AC Power Chip^Bidirectional Inversion"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_three?category_id=15",
+    "category": "DC-AC Power Chip^Three - Phase Inversion"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_digital?category_id=17",
+    "category": "DC-AC Power Chip^Digital Generator Inversion"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_drive?category_id=28",
+    "category": "Power Driver Chip^Full Drive"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_drive?category_id=29",
+    "category": "Power Driver Chip^Single - Phase Half - Bridge"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_drive?category_id=30",
+    "category": "Power Driver Chip^Multiphase Half - Bridge"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_drive?category_id=40",
+    "category": "Power Driver Chip^Low - Side Half - Bridge"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_drive?category_id=41",
+    "category": "Power Driver Chip^Digital Power Drive"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_drive?category_id=43",
+    "category": "Power Driver Chip^Rectifier Drive"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_audio?category_id=20",
+    "category": "Other Chips^Audio Power Amplifier"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_human?category_id=23",
+    "category": "Other Chips^Human Body Sensing"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_hall?category_id=25",
+    "category": "Other Chips^Hall"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_rolling?category_id=26",
+    "category": "Other Chips^Rolling Code"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_amp?category_id=31",
+    "category": "Other Chips^Operational Amplifier"
+  },
+  {
+    "url": "https://www.egmicro.com/products/filter_comparator?category_id=42",
+    "category": "Other Chips^Comparator"
+  }
+]

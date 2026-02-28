@@ -2,9 +2,9 @@ import json
 import os
 from util.create_darwin_api import create_api
 
-base_path = "../seed_json"
+# base_path = "../seed_json"
 
-file_path = os.path.join(base_path, "gmt.json")
+file_path = "gmt.json"
 with open(file_path, "r", encoding="utf-8") as f:
     seed_data = json.load(f)
     for item in seed_data:

@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=1",
+    "category": "Linear Voltage Regulator / Shunt Regulator^LDO"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=2",
+    "category": "Linear Voltage Regulator / Shunt Regulator^DDR"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=3",
+    "category": "Linear Voltage Regulator / Shunt Regulator^Shunt Regulator"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=4",
+    "category": "DC/DC Converter^Step Down Converter"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=5",
+    "category": "DC/DC Converter^Step Up Converter"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=6",
+    "category": "DC/DC Converter^Buck-Boost"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=7",
+    "category": "DC/DC Converter^Inverting Series"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=8",
+    "category": "DC/DC Controller^DC/DC Controller"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=9",
+    "category": "Charge Pump^Charge Pump"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=10",
+    "category": "LED Driver^LED Backlight"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=11",
+    "category": "LED Driver^LED Lighting Solution"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=12",
+    "category": "Power Switch^USB Power Switch"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=13",
+    "category": "Power Switch^Regulatory USB Power Switch"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=14",
+    "category": "Power Switch^Bare-Bone USB Switch"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=15",
+    "category": "Supervisory^Supervisory"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=16",
+    "category": "Miscellaneous^Charger IC"
+  },
+  {
+    "url": "https://www.analog.com.tw/products.aspx?ID=17",
+    "category": "Miscellaneous^High Current Driver"
+  }
+]

@@ -1,7 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 
-
+# 写个函数来解析，将products 传进去，获取分类名和对应url，只保留叶子节点，{
+#     "url": "",
+#     "category": ""
+#   },按照这个格式，category按照层级使用^进行拼接
 
 urls = [f'https://travel.qunar.com/place/api/html/comments/dist/300195?sortField=1&img=false&pageSize=10&page={i}' for i in range(1,201)]
 

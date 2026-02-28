@@ -62,8 +62,8 @@ if __name__ == '__main__':
     print(json.dumps(result, indent=4, ensure_ascii=False))
     print(len(result))
 
-    base_path = "./seed_json"
-    file_path = os.path.join(base_path, "gmt.json")
+    # base_path = "../seed_json"
+    file_path = "gmt.json"
 
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)

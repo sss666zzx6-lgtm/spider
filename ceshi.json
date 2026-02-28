@@ -1,0 +1,893 @@
+[
+    "$",
+    "header",
+    null,
+    {
+        "className": "sticky top-0 z-50 border-b border-[#E5E5E5] md:border-[#808080]",
+        "children": [
+            [
+                "$",
+                "div",
+                null,
+                {
+                    "className": "bg-white",
+                    "children": [
+                        "$",
+                        "div",
+                        null,
+                        {
+                            "className": "content_container h-11 md:h-[80px] lg:h-[110px]",
+                            "children": [
+                                "$",
+                                "div",
+                                null,
+                                {
+                                    "className": "relative flex h-full items-center justify-between",
+                                    "children": [
+                                        [
+                                            "$",
+                                            "$L15",
+                                            null,
+                                            {
+                                                "href": "/en/",
+                                                "className": "flex-shrink-0",
+                                                "aria-label": "Home",
+                                                "title": "Home",
+                                                "children": [
+                                                    [
+                                                        "$",
+                                                        "$L16",
+                                                        null,
+                                                        {
+                                                            "className": "hidden md:block",
+                                                            "src": "/logo-nav.webp",
+                                                            "alt": "Logo",
+                                                            "width": 190,
+                                                            "height": 40
+                                                        }
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "$L16",
+                                                        null,
+                                                        {
+                                                            "className": "md:hidden",
+                                                            "src": "/logo.webp",
+                                                            "alt": "Logo",
+                                                            "width": 110,
+                                                            "height": 20
+                                                        }
+                                                    ]
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            "$",
+                                            "$L17",
+                                            null,
+                                            {}
+                                        ],
+                                        [
+                                            "$",
+                                            "div",
+                                            null,
+                                            {
+                                                "className": "hidden flex-shrink-0 items-center md:flex",
+                                                "children": [
+                                                    [
+                                                        "$",
+                                                        "$L18",
+                                                        null,
+                                                        {}
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "hr",
+                                                        null,
+                                                        {
+                                                            "className": "mx-2 h-3 w-px lg:mx-3 bg-[#A6A6A6]"
+                                                        }
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "$L19",
+                                                        null,
+                                                        {}
+                                                    ]
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            "$",
+                                            "$L1a",
+                                            null,
+                                            {
+                                                "navs": [
+                                                    {
+                                                        "title": "Products",
+                                                        "children": [
+                                                            {
+                                                                "href": "/product-category/automotive",
+                                                                "mode": "link",
+                                                                "title": "Automotive Products",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "Automotive Power ICs",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/buck-boost-boost",
+                                                                                "title": "Buck-Boost/Boost"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/buck",
+                                                                                "title": "Buck"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/ldo",
+                                                                                "title": "LDOs"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/pmic-sbc",
+                                                                                "title": "PMIC/SBC"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Automotive Driver ICs",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/high-side-driver",
+                                                                                "title": "High Side Drivers"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/efuse",
+                                                                                "title": "eFuses"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/motor-driver",
+                                                                                "title": "Motor Drivers"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/interface",
+                                                                                "title": "Interfaces"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Automotive Charging ICs",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/automotive-usb-charging-interface",
+                                                                                "title": "USB Charging Interfaces"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/automotive-usb-charging-all-in-one",
+                                                                                "title": "USB Charging All in One"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/automotive-wireless-power-stage",
+                                                                                "title": "Wireless Power Stages"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/DC-DC",
+                                                                "mode": "link",
+                                                                "title": "DC-DC Converters",
+                                                                "children": [
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "General DC-DC",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/Buck-Boost-Regulators",
+                                                                                "title": "Buck-Boost DC-DC"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/buckDCDC",
+                                                                                "title": "Buck DC-DC"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/boostDCDC",
+                                                                                "title": "Boost DC-DC"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Load Switches",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/loadswitch",
+                                                                                "title": "Load Switches"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Industrial HV charger",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/ind-hvcharger",
+                                                                                "title": "Industrial high voltage charger"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/AC-DC-converter",
+                                                                "mode": "link",
+                                                                "title": "AC-DC Converters",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "PFC Controllers",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/PFC-Controller-selection",
+                                                                                "title": "PFC Controllers"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Flyback Converters",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/USB-PD-SSR",
+                                                                                "title": "USB-PD SSR Flyback Controllers"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/USB-PD-SSR-with-GaN",
+                                                                                "title": "USB-PD SSR with Integrated GaN"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Synchronous Rectifiers",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/SR-Controller",
+                                                                                "title": "Synchronous Rectifier Controllers"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/SR-with-Integrated-MOSFET",
+                                                                                "title": "Synchronous Rectifiers with Integrated MOSFETs"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/USB-Type-C",
+                                                                "mode": "link",
+                                                                "title": "USB Type-C & Power Delivery",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "PD/DPDM Controllers",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/pd-dpdm-controller",
+                                                                                "title": "PD/DPDM Controllers"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/PMIC",
+                                                                "mode": "link",
+                                                                "title": "PMIC",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "Display Power",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/AMOLED",
+                                                                                "title": "AMOLED PMIC"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Memory Power",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/LPDDR",
+                                                                                "title": "LPDDR"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/charging_management",
+                                                                "mode": "link",
+                                                                "title": "Charging Management",
+                                                                "children": [
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Switching Chargers",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/Buck-BoostCharger",
+                                                                                "title": "Buck-Boost Charger"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/Buckcharger",
+                                                                                "title": "Buck Charger"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/Boostercharger",
+                                                                                "title": "Boost Charger"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Charge Pump Charger",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/Chargepumpcharger2",
+                                                                                "title": "Charge Pump Charger"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Linear Charger",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/Linearcharger2",
+                                                                                "title": "Linear Charger"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Wireless Charger",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/wirelesstransmitter",
+                                                                                "title": "Wireless Transmitter"
+                                                                            },
+                                                                            {
+                                                                                "href": "/product-category/wirelessreceiver",
+                                                                                "title": "Wireless Receiver"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/Battery_Management_Solution",
+                                                                "mode": "link",
+                                                                "title": "Battery Management Solution",
+                                                                "children": [
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Battery Protector",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/Battery_Protector_",
+                                                                                "title": "Battery Protector"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/product-category/Microcontrollers",
+                                                                "mode": "link",
+                                                                "title": "Microcontrollers",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "32-bit RISC-V MCU",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/EntrylevelRISC-VMCU",
+                                                                                "title": "Entry level RISC-V MCU"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "8-bit 8051 MCU",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/product-category/PowerMCU",
+                                                                                "title": "Power MCU"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Applications",
+                                                        "children": [
+                                                            {
+                                                                "href": "/application-category/automotive",
+                                                                "mode": "link",
+                                                                "title": "Automotive",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "Body Control",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/zone-controller",
+                                                                                "title": "Zone Controller"
+                                                                            },
+                                                                            {
+                                                                                "href": "/application/smart-junction-box",
+                                                                                "title": "Smart Junction Box"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Smart Cockpit",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/smart-cockpit",
+                                                                                "title": "Smart Cockpit"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Advanced driver assistance systems (ADAS) ",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/smart-driving",
+                                                                                "title": "Advanced driver assistance systems (ADAS) "
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "In-vehicle Charging",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/auto-USB-charging",
+                                                                                "title": "In-vehicle USB Charging"
+                                                                            },
+                                                                            {
+                                                                                "href": "/application/auto-wireless-charging",
+                                                                                "title": "In-vehicle Wireless Charging"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/application-category/industrial",
+                                                                "mode": "link",
+                                                                "title": "Industrial computing",
+                                                                "children": [
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Renewable Energy",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/portable-energy-storage",
+                                                                                "title": "Portable Energy Storage"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Building Automation",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/BuildingAutomationSystemSolution",
+                                                                                "title": "Building Automation"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "href": "",
+                                                                        "title": "Industrial transportation",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/GPStracker",
+                                                                                "title": "GPS tracker"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Robotics",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/Vacuum-robot",
+                                                                                "title": "Vacuum robot"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "href": "/application-category/consumer-elec",
+                                                                "mode": "link",
+                                                                "title": "Consumer Electronics",
+                                                                "children": [
+                                                                    {
+                                                                        "title": "Mobile/Tablet",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/phonebatterypack",
+                                                                                "title": "Phone Battery Packs"
+                                                                            },
+                                                                            {
+                                                                                "href": "/application/smartphone",
+                                                                                "title": "Smartphone"
+                                                                            },
+                                                                            {
+                                                                                "href": "/application/tablet",
+                                                                                "title": "Tablet"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Portable Power",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/portablecharger",
+                                                                                "title": "Power Bank"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Wearable",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/TWS",
+                                                                                "title": "TWS"
+                                                                            },
+                                                                            {
+                                                                                "href": "https://www.southchip.com/en/application/SmartWatch",
+                                                                                "title": "Smart Watch "
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "ChargerRobotics",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/charger",
+                                                                                "title": "Charger"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "PC/Laptop",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/notebook",
+                                                                                "title": "Laptop"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Data Devices",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/Hub",
+                                                                                "title": "Hub"
+                                                                            },
+                                                                            {
+                                                                                "href": "/application/Docking",
+                                                                                "title": "Docking"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Display equipment",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/Monitor",
+                                                                                "title": "Monitor"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "title": "Entertainment",
+                                                                        "children": [
+                                                                            {
+                                                                                "href": "/application/Smart-speaker",
+                                                                                "title": "Smart speaker"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "href": "/quality-reliability",
+                                                        "title": "Quality & Reliability",
+                                                        "children": [
+                                                            {
+                                                                "href": "/quality-reliability#policies-procedures",
+                                                                "mode": "link",
+                                                                "title": "Policies & Procedures"
+                                                            },
+                                                            {
+                                                                "href": "/quality-reliability#certification-standards",
+                                                                "mode": "link",
+                                                                "title": "System Certifications"
+                                                            },
+                                                            {
+                                                                "href": "/quality-reliability#reliability",
+                                                                "mode": "link",
+                                                                "title": "Reliability"
+                                                            },
+                                                            {
+                                                                "href": "/quality-reliability#environment",
+                                                                "mode": "link",
+                                                                "title": "Environmental Information"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "Technical supports",
+                                                        "children": [
+                                                            {
+                                                                "href": "/sample-request",
+                                                                "icon": "becb7417-2970-4418-bca2-0547037f4b1b",
+                                                                "mode": "card",
+                                                                "title": "Sample Request",
+                                                                "subtitle": "Request Samples",
+                                                                "description": "We do not accept sample requests or inquiries from public email addresses. Please use your company or school email address when applying for free samples or product inquiries."
+                                                            },
+                                                            {
+                                                                "tel": "4006803188",
+                                                                "href": "/contact-sales",
+                                                                "icon": "434c6abb-aabd-4ac5-be98-8b06193f3d61",
+                                                                "mode": "card",
+                                                                "title": "Contact Sales",
+                                                                "subtitle": "Submit Business Requirements"
+                                                            },
+                                                            {
+                                                                "href": "/cross-reference",
+                                                                "icon": "036b8c06-ec6c-4160-849a-56d656d670b9",
+                                                                "mode": "card",
+                                                                "title": "Cross Reference",
+                                                                "subtitle": "Cross Reference",
+                                                                "description": "Search for equivalent Southchip cross-reference device information, or upload your device list to find datasheets."
+                                                            },
+                                                            {
+                                                                "href": "/download",
+                                                                "icon": "5693d1ce-a766-4d71-9ef4-289ed7a4c003",
+                                                                "mode": "card",
+                                                                "title": "Downloads",
+                                                                "subtitle": "Go to Download Center",
+                                                                "description": "You can find and download the technical documents you need."
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "title": "About us",
+                                                        "children": [
+                                                            {
+                                                                "href": "/about-us",
+                                                                "mode": "link",
+                                                                "title": "About Us"
+                                                            },
+                                                            {
+                                                                "href": "/news",
+                                                                "mode": "link",
+                                                                "title": "News"
+                                                            },
+                                                            {
+                                                                "href": "/investor-relations",
+                                                                "mode": "link",
+                                                                "title": "Investor Relations"
+                                                            },
+                                                            {
+                                                                "href": "/recruitment",
+                                                                "mode": "link",
+                                                                "title": "Careers"
+                                                            },
+                                                            {
+                                                                "href": "/contact-us",
+                                                                "mode": "link",
+                                                                "title": "Contact Us"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                "$",
+                "div",
+                null,
+                {
+                    "className": "hidden bg-[#CC2016] md:block md:h-[50px]",
+                    "children": [
+                        "$",
+                        "$L1b",
+                        null,
+                        {
+                            "children": [
+                                [
+                                    "$",
+                                    "div",
+                                    null,
+                                    {
+                                        "className": "content_container h-full",
+                                        "children": [
+                                            "$",
+                                            "ul",
+                                            null,
+                                            {
+                                                "className": "flex h-full -translate-x-5 items-center",
+                                                "children": [
+                                                    [
+                                                        "$",
+                                                        "li",
+                                                        "0",
+                                                        {
+                                                            "className": "nav-item h-full",
+                                                            "data-index": 0,
+                                                            "children": [
+                                                                "$",
+                                                                "$L1c",
+                                                                null,
+                                                                {
+                                                                    "index": 0,
+                                                                    "className": "flex h-full cursor-pointer items-center px-2 text-sm font-medium text-white transition-colors duration-300 hover:bg-[#A10000] lg:px-6",
+                                                                    "children": [
+                                                                        "$",
+                                                                        "span",
+                                                                        null,
+                                                                        {
+                                                                            "className": "text-white",
+                                                                            "children": "Products"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "li",
+                                                        "1",
+                                                        {
+                                                            "className": "nav-item h-full",
+                                                            "data-index": 1,
+                                                            "children": [
+                                                                "$",
+                                                                "$L1c",
+                                                                null,
+                                                                {
+                                                                    "index": 1,
+                                                                    "className": "flex h-full cursor-pointer items-center px-2 text-sm font-medium text-white transition-colors duration-300 hover:bg-[#A10000] lg:px-6",
+                                                                    "children": [
+                                                                        "$",
+                                                                        "span",
+                                                                        null,
+                                                                        {
+                                                                            "className": "text-white",
+                                                                            "children": "Applications"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "li",
+                                                        "2",
+                                                        {
+                                                            "className": "nav-item h-full",
+                                                            "data-index": 2,
+                                                            "children": [
+                                                                "$",
+                                                                "$L1c",
+                                                                null,
+                                                                {
+                                                                    "index": 2,
+                                                                    "className": "flex h-full cursor-pointer items-center px-2 text-sm font-medium text-white transition-colors duration-300 hover:bg-[#A10000] lg:px-6",
+                                                                    "children": [
+                                                                        "$",
+                                                                        "span",
+                                                                        null,
+                                                                        {
+                                                                            "className": "text-white",
+                                                                            "children": "Quality & Reliability"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "li",
+                                                        "3",
+                                                        {
+                                                            "className": "nav-item h-full",
+                                                            "data-index": 3,
+                                                            "children": [
+                                                                "$",
+                                                                "$L1c",
+                                                                null,
+                                                                {
+                                                                    "index": 3,
+                                                                    "className": "flex h-full cursor-pointer items-center px-2 text-sm font-medium text-white transition-colors duration-300 hover:bg-[#A10000] lg:px-6",
+                                                                    "children": [
+                                                                        "$",
+                                                                        "span",
+                                                                        null,
+                                                                        {
+                                                                            "className": "text-white",
+                                                                            "children": "Technical supports"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    [
+                                                        "$",
+                                                        "li",
+                                                        "4",
+                                                        {
+                                                            "className": "nav-item h-full",
+                                                            "data-index": 4,
+                                                            "children": [
+                                                                "$",
+                                                                "$L1c",
+                                                                null,
+                                                                {
+                                                                    "index": 4,
+                                                                    "className": "flex h-full cursor-pointer items-center px-2 text-sm font-medium text-white transition-colors duration-300 hover:bg-[#A10000] lg:px-6",
+                                                                    "children": [
+                                                                        "$",
+                                                                        "span",
+                                                                        null,
+                                                                        {
+                                                                            "className": "text-white",
+                                                                            "children": "About us"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    "$",
+                                    "$L1d",
+                                    null,
+                                    {
+                                        "className": "fixed left-0 right-0 top-[160px] z-20 grid w-full grid-rows-[0fr]  transition-[grid-template-rows] data-[state=open]:grid-rows-[1fr] data-[state=closed]:!duration-100 data-[state=open]:!duration-300",
+                                        "children": [
+                                            "$",
+                                            "$L1e",
+                                            null,
+                                            {
+                                                "navs": "$1f"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

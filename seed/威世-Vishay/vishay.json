@@ -1,0 +1,950 @@
+[
+  {
+    "url": "https://www.vishay.com/en/diodes/tvs-protection/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Protection Diodes^TVS"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/esd-protection/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Protection Diodes^ESD Protection"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/emi-filter/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Protection Diodes^EMI Filter"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/zener-stabilizers/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Small Signal Diodes^Zener Diodes"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/switching/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Small Signal Diodes^Small Signal Switching Diodes"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/ss-schottky/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Small Signal Diodes^Small Signal Schottky Diodes"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/standard-recovery/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Power Rectifiers^Standard and Fast Recovery"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/ultrafast-recovery/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Power Rectifiers^Ultrafast Recovery"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/schottky/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Power Rectifiers^Schottky"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/silicon-carbide/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Power Rectifiers^Silicon Carbide (SiC)"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/bridge/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Power Rectifiers^Bridge"
+  },
+  {
+    "url": "https://www.vishay.com/en/diodes/med-high-diodes/",
+    "category": "SEMICONDUCTORS^diodes and rectifiers^Diodes and Rectifiers^Power Rectifiers^Medium and High Power Diodes"
+  },
+  {
+    "url": "https://www.vishay.com/en/thyristors/phase-control-discrete/",
+    "category": "SEMICONDUCTORS^discrete thyristors^Phase Control Discrete"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-microbuck/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^microBUCK® - Voltage Regulator"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-microbrick/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^microBRICK® - DC/DC Regulator Module"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-drmos/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^VRPower® (DrMOS) - Power Stage"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/slew-rate-control/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^Slew Rate Control"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/current-limiter/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^Current Limit, eFuse"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/true-bi-directional/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^True Bi-Directional"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-OR-ing-switch/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Non- Isolated DC/DC Switching Regulators^Integrated OR-ing Switch"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/automotive/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Automotive"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/computer/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Computers"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/consumer/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Consumer"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/healthcare/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Healthcare"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/industrial/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Industrial"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/networking/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Networking"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/portables/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Portable"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/motor-drive/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Motor Drive"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/battery-and-protection/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Battery and Protection"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/precision-logic-switch/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Power ICs^Applications^Precision Logic Switch"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/slew-rate-control",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Smart Load Switches^Smart Load Switches^Slew Rate Control"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/current-limiter",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Smart Load Switches^Smart Load Switches^Current Limit, eFuse"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/true-bi-directional/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Smart Load Switches^Smart Load Switches^True Bi-Directional"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-OR-ing-switch/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Smart Load Switches^Smart Load Switches^Integrated OR-ing Switch"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-microbuck/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^microBUCK® - Voltage Regulator"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-microbrick/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^microBRICK® - DC/DC Regulator Module"
+  },
+  {
+    "url": "https://www.vishay.com/en/power-ics/integrated-drmos/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^VRPower® (DrMOS) - Power Stage"
+  },
+  {
+    "url": "https://www.vishay.com/en/analog-switches/",
+    "category": "SEMICONDUCTORS^IC - POWER AND LINEAR^Analog Switches and Multiplexers"
+  },
+  {
+    "url": "https://www.vishay.com/en/mosfets/",
+    "category": "SEMICONDUCTORS^mosfets^MOSFETs"
+  },
+  {
+    "url": "https://www.vishay.com/en/mosfets/automotive-mosfets/",
+    "category": "SEMICONDUCTORS^mosfets^MOSFETs, Automotive"
+  },
+  {
+    "url": "https://www.vishay.com/en/mosfets/silicon-carbide-maxsic/",
+    "category": "SEMICONDUCTORS^mosfets^Silicon Carbide MaxSiC® MOSFETs"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opt-tran-output/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Product Lines^Phototransistor Output"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-darl-out/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Product Lines^Photodarlington Output"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-ac-in/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Product Lines^Optocoupler with AC Input"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/OptocouplerEvalBoards/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Product Lines^Optocoupler Evaluation Boards"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-triac/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Phototriac Output"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-linear/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Linear"
+  },
+  {
+    "url": "https://www.vishay.com/en/solid-state-relays",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Solid State Relays"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-high-speed/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^High Speed"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-driver/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^IGBT and MOSFET Driver"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/isolated-amplifiers/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optocouplers^Isolated Amplifiers"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-receiver-modules/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Infrared Receivers"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^SMD"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/leds-0201/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^0201"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/leds-0402/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^0402"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/leds-0603/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^0603"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/dome-lens/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^Dome lens"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/miniled/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^MiniLED"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-2/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^PLCC-2"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-3/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^PLCC-3"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-4/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^PLCC-4"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-6/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^PLCC-6"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/reverse-gullwing/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^Reverse gullwing"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/chipled/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^ChipLED"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/ceramic/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^Ceramic"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/t1-3m/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^3 mm"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/backlighting/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^Backlighting"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/standard/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^Standard"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/t1-3m-34-5/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^5 mm"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/mini-plast/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^1.8 mm (miniplast)"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/telux-package/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Package^TELUX"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/blue/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Blue"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/green/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/pure-green/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Pure green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/true-green/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^True green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/red/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Red"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/orange/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Orange"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/orange-red/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Orange red"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/yellow/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Yellow"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/yellow-green/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Yellow green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/white/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^White"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/bicolor/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Bicolor"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/rgb/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^RGB"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/ultraviolet/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^Ultraviolet"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-emitting-diodes",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Color^IR Emitters"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/low-current/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Product Series^Low current"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/standards/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Product Series^Standard"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/power/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Product Series^Power"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/bicolor/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Product Series^Bicolor"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/rgb/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Product Series^RGB"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/aec-qualified/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Visible LEDs^Product Series^AEC-Qualified"
+  },
+  {
+    "url": "https://www.vishay.com/en/photo-detectors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Photo Detectors"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-emitting-diodes/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Infrared Emitters"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-transceivers/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^IRDC Transceivers"
+  },
+  {
+    "url": "https://www.vishay.com/en/solid-state-relays/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Solid-State Relays"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/digital-output-amb-sensor/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/reflective-outputis-16/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Proximity"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/fully-int-prox-amb-light-emit/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Proximity and Ambient Light"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/digital-prox-long-distance/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Long Distance Proximity"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/gesture-sensors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Gesture Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/digital-output-color-sensor/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Color Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/photo-detectors/ambient-light-sensor",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Analog Output^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/reflective-outputisnot-16/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Analog Output^Reflective Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/transmissive-sensors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Analog Output^Transmissive Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-receiver-modules/proximity-sensor",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Analog Output^Long Distance Proximity Sensor"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/optical-communication/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Analog Output^Optical Communication Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Demo Boards and Software^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Demo Boards and Software^Proximity Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Demo Boards and Software^Color Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Optical Sensors^Demo Boards and Software^Gesture Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/seven-segment-display/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^7-Segment Displays"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/lcd-character/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^LCD Displays^Character"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/lcd-graphic/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^LCD Displays^Graphic"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/oled-character/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^LCD Displays^Character"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/oled-graphic/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^LCD Displays^Graphic"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/color-tft-display/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^LCD Displays^Color TFT Displays"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/seven-segment-display/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^LCD Displays^7-Segment Displays"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/fred_die/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^FRED Pt®"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/high_voltage_diode/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^High Voltage Diode"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/high_performance_schottky/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^High Performance Schottky"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/soft_recovery_diode/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^Soft Recovery Diode"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/tmbs/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^TMBS®"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/thyristor_die_list/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^Thyristor Die List"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/tvs/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Diodes^TVS"
+  },
+  {
+    "url": "https://www.vishay.com/en/die-wafer/photo-detectors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optoelectronics^Die and Wafer^Optoelectronics^Photo Detectors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opt-tran-output/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Product Lines^Phototransistor Output"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-darl-out/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Product Lines^Photodarlington Output"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-ac-in/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Product Lines^Optocoupler with AC Input"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/OptocouplerEvalBoards/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Product Lines^Optocoupler Evaluation Boards"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-triac/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Phototriac Output"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-linear/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Linear"
+  },
+  {
+    "url": "https://www.vishay.com/en/solid-state-relays",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Solid State Relays"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-high-speed/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^High Speed"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/opto-driver/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^IGBT and MOSFET Driver"
+  },
+  {
+    "url": "https://www.vishay.com/en/optocouplers/isolated-amplifiers/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optocouplers / Isolators^Isolated Amplifiers"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-receiver-modules/",
+    "category": "SEMICONDUCTORS^optoelectronics^IR Receivers for Remote Control"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/digital-output-amb-sensor/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/reflective-outputis-16/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Proximity"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/fully-int-prox-amb-light-emit/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Proximity and Ambient Light"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/digital-prox-long-distance/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Long Distance Proximity"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/gesture-sensors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Gesture Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/digital-output-color-sensor/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Digital Output (I²C Interface)^Color Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/photo-detectors/ambient-light-sensor",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Analog Output^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/reflective-outputisnot-16/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Analog Output^Reflective Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/transmissive-sensors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Analog Output^Transmissive Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-receiver-modules/proximity-sensor",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Analog Output^Long Distance Proximity Sensor"
+  },
+  {
+    "url": "https://www.vishay.com/en/optical-sensors/optical-communication/",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Analog Output^Optical Communication Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Demo Boards and Software^Ambient Light Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Demo Boards and Software^Proximity Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Demo Boards and Software^Color Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/landingpage/SensorXplorer",
+    "category": "SEMICONDUCTORS^optoelectronics^Optical Sensors^Demo Boards and Software^Gesture Sensors"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-emitting-diodes/",
+    "category": "SEMICONDUCTORS^optoelectronics^Infrared Emitters"
+  },
+  {
+    "url": "https://www.vishay.com/en/photo-detectors/",
+    "category": "SEMICONDUCTORS^optoelectronics^Photo Detectors"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^SMD"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/leds-0201/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^0201"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/leds-0402/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^0402"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/leds-0603/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^0603"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/dome-lens/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^Dome lens"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/miniled/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^MiniLED"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-2/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^PLCC-2"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-3/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^PLCC-3"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-4/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^PLCC-4"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/smd-plcc-6/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^PLCC-6"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/reverse-gullwing/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^Reverse gullwing"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/chipled/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^ChipLED"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/ceramic/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^Ceramic"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/t1-3m/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^3 mm"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/backlighting/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^Backlighting"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/standard/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^Standard"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/t1-3m-34-5/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^5 mm"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/mini-plast/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^1.8 mm (miniplast)"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/telux-package/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Package^TELUX"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/blue/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Blue"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/green/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/pure-green/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Pure green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/true-green/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^True green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/red/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Red"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/orange/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Orange"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/orange-red/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Orange red"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/yellow/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Yellow"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/yellow-green/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Yellow green"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/white/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^White"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/bicolor/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Bicolor"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/rgb/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^RGB"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/ultraviolet/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^Ultraviolet"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-emitting-diodes",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Color^IR Emitters"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/low-current/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Product Series^Low current"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/standards/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Product Series^Standard"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/power/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Product Series^Power"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/bicolor/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Product Series^Bicolor"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/rgb/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Product Series^RGB"
+  },
+  {
+    "url": "https://www.vishay.com/en/leds/aec-qualified/",
+    "category": "SEMICONDUCTORS^optoelectronics^LEDs^Product Series^AEC-Qualified"
+  },
+  {
+    "url": "https://www.vishay.com/en/solid-state-relays/",
+    "category": "SEMICONDUCTORS^optoelectronics^Solid-State Relays"
+  },
+  {
+    "url": "https://www.vishay.com/en/ir-transceivers/",
+    "category": "SEMICONDUCTORS^optoelectronics^IRDC Transceivers"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/lcd-character/",
+    "category": "SEMICONDUCTORS^optoelectronics^Displays – LCD/TFT/OLED/Touch^Character"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/lcd-graphic/",
+    "category": "SEMICONDUCTORS^optoelectronics^Displays – LCD/TFT/OLED/Touch^Graphic"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/oled-character/",
+    "category": "SEMICONDUCTORS^optoelectronics^Displays – LCD/TFT/OLED/Touch^Character"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/oled-graphic/",
+    "category": "SEMICONDUCTORS^optoelectronics^Displays – LCD/TFT/OLED/Touch^Graphic"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/color-tft-display/",
+    "category": "SEMICONDUCTORS^optoelectronics^Displays – LCD/TFT/OLED/Touch^Color TFT Displays"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/seven-segment-display/",
+    "category": "SEMICONDUCTORS^optoelectronics^Displays – LCD/TFT/OLED/Touch^7-Segment Displays"
+  },
+  {
+    "url": "https://www.vishay.com/en/displays/seven-segment-display/",
+    "category": "SEMICONDUCTORS^optoelectronics^7-Segment Displays"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/bridge-modules/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Bridge Modules"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/fred/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Technology^FRED Pt®"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/hexfred/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Technology^HEXFRED®"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/high-performance-schottky/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Technology^High Performance Schottky"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/fast-diode/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Technology^Fast"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/high-voltage/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Technology^High Voltage"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/silicon-carbide/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Technology^Silicon Carbide (SiC)"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-voltage-less-100-v/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^below 100 V"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-voltage-gteq-100-v-lt-1000-v/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^100 V to 1000 V"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-voltage-gt-1000-v-lt-2000-v/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^1000 V to 2000 V"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-voltage-above-2000-v/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^above 2000 V"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/forward-currentlt-100-a/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^below 100 A"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/forward-current-gteq-100-a-lt-200-a/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^100 A to 200 A"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/forward-current-gteq-200-a-lt-400-a/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^200 A to 400 A"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/forward-current-gteq-400-a-lteq-1000-a/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^400 A to 1000 A"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-recovery-time-lteq-60-ns/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^below 60 ns"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-recovery-time-gt-60-ns-lteq-100-ns/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^60 ns to 100 ns"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-recovery-time-gt-100-ns-lt-1000-ns/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^100 ns to 1000 ns"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/reverse-recovery-time-gteq-1000-ns/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Reverse Voltage^above 1000 ns"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/gen-vii/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^AAP GEN 7 (TO-240AA)"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/half-pak/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^HALF-PAK (D-67)"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/int-a-pak/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^INT-A-PAK"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/sot-227/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^SOT-227"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/sot-227-not-insulated/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^SOT-227 not insulated"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/super-magn-a-pak/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^Super MAGN-A-PAK"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/d55-t-module/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^D-55 (T-module)"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/diode-modules/to-244/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Diode Modules^Package^TO-244"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/igbt-modules/",
+    "category": "SEMICONDUCTORS^POWER MODULES^IGBT Modules"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/mosfet-modules/",
+    "category": "SEMICONDUCTORS^POWER MODULES^MOSFET Modules"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/thyristor-modules/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Thyristor Modules"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/automotive-modules/modules-fred-pt/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Automotive Modules^Technology^FRED Pt ®"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/automotive-modules/modules-high-voltage/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Automotive Modules^Technology^High Voltage"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/automotive-modules/modules-mosfets/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Automotive Modules^Technology^MOSFETs"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/automotive-modules/modules-silicon-carbide/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Automotive Modules^Technology^Silicon Carbide (SiC) Diodes"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/automotive-modules/modules-silicon-carbide-mosfets/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Automotive Modules^Technology^Silicon Carbide (SiC) MOSFETs"
+  },
+  {
+    "url": "https://www.vishay.com/en/modules/automotive-modules/pkg-emipak-1b/",
+    "category": "SEMICONDUCTORS^POWER MODULES^Automotive Modules^Package^EMIPAK 1B"
+  }
+]

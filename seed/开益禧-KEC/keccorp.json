@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=14",
+    "category": "Discrete^Diodes & Rectifier^Switching Diode"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=15",
+    "category": "Discrete^Diodes & Rectifier^Zener Diode"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=13",
+    "category": "Discrete^Diodes & Rectifier^Schottky Barrier Diode"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=12",
+    "category": "Discrete^Diodes & Rectifier^Protection Diode"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=38",
+    "category": "Discrete^Diodes & Rectifier^Bridge Diode"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=10",
+    "category": "Discrete^Diodes & Rectifier^Rectifier"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=36",
+    "category": "Discrete^Diodes & Rectifier^SiC Schottky Diodes"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=16",
+    "category": "Discrete^Bipolar Transistors^Complex Transistor"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=17",
+    "category": "Discrete^Bipolar Transistors^Darlington Transistor"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=18",
+    "category": "Discrete^Bipolar Transistors^Digital Transistor (BRTs)"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=19",
+    "category": "Discrete^Bipolar Transistors^General Purpose Bipolar Transistors"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=21",
+    "category": "Discrete^IGBTs^IGBTs"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=22",
+    "category": "Discrete^MOSFETs^High Voltage MOSFET"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=23",
+    "category": "Discrete^MOSFETs^Low Voltage MOSFET"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=24",
+    "category": "Discrete^MOSFETs^S-MOSFET"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=25",
+    "category": "IC^Amplifiers & Comparators^Comparator"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=26",
+    "category": "IC^Amplifiers & Comparators^Operational Amplifier"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=28",
+    "category": "IC^Power Management^CMOS Reset IC"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=29",
+    "category": "IC^Power Management^Gate Drivers"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=30",
+    "category": "IC^Power Management^Linear Regulator"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=31",
+    "category": "IC^Power Management^Voltage Detectors"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=32",
+    "category": "IC^Power Management^PWM Controller"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=33",
+    "category": "IC^Power Management^DC/DC Switcher IC"
+  },
+  {
+    "url": "https://www.keccorp.com/en/product/product_list.asp?part_idx=40",
+    "category": "IC^Power Management^Transistor Array"
+  }
+]

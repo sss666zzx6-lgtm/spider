@@ -1,0 +1,270 @@
+[
+  {
+    "url": "https://www.silergy.com/list/294",
+    "category": "低压差线性稳压器^通用型低压差线性稳压器"
+  },
+  {
+    "url": "https://www.silergy.com/list/278",
+    "category": "马达驱动^直流有刷马达驱动器"
+  },
+  {
+    "url": "https://www.silergy.com/list/279",
+    "category": "马达驱动^直流无刷马达驱动器"
+  },
+  {
+    "url": "https://www.silergy.com/list/281",
+    "category": "马达驱动^集成控制电机驱动器"
+  },
+  {
+    "url": "https://www.silergy.com/list/280",
+    "category": "马达驱动^步进电机驱动器"
+  },
+  {
+    "url": "https://www.silergy.com/list/288",
+    "category": "DC-DC^DC-DC 功率转换器^降压 (Buck) 转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/177",
+    "category": "DC-DC^DC-DC 功率转换器^升压 (Boost) 转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/178",
+    "category": "DC-DC^DC-DC 功率转换器^升降压转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/189",
+    "category": "DC-DC^DC-DC 功率转换器^隔离式直流转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/235",
+    "category": "DC-DC^控制器"
+  },
+  {
+    "url": "https://www.silergy.com/list/260",
+    "category": "DC-DC^多相控制器"
+  },
+  {
+    "url": "https://www.silergy.com/list/259",
+    "category": "DC-DC^智能功率级 (SPS) & Dr.MOS"
+  },
+  {
+    "url": "https://www.silergy.com/list/213",
+    "category": "电源开关^电子保险丝"
+  },
+  {
+    "url": "https://www.silergy.com/list/214",
+    "category": "电源开关^热插拔控制器"
+  },
+  {
+    "url": "https://www.silergy.com/list/215",
+    "category": "电源开关^Oring/理想二极管"
+  },
+  {
+    "url": "https://www.silergy.com/list/216",
+    "category": "电源开关^负载开关"
+  },
+  {
+    "url": "https://www.silergy.com/list/219",
+    "category": "电源开关^USB 开关^USB Type C"
+  },
+  {
+    "url": "https://www.silergy.com/list/218",
+    "category": "电源开关^USB 开关^USB Type A"
+  },
+  {
+    "url": "https://www.silergy.com/list/237",
+    "category": "电源开关^监控器和复位芯片"
+  },
+  {
+    "url": "https://www.silergy.com/list/183",
+    "category": "AC-DC 功率转换器^反激式转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/182",
+    "category": "AC-DC 功率转换器^反激式控制器"
+  },
+  {
+    "url": "https://www.silergy.com/list/186",
+    "category": "AC-DC 功率转换器^同步整流器"
+  },
+  {
+    "url": "https://www.silergy.com/list/285",
+    "category": "AC-DC 功率转换器^USB 协议"
+  },
+  {
+    "url": "https://www.silergy.com/list/181",
+    "category": "AC-DC 功率转换器^AC 输入降压转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/184",
+    "category": "AC-DC 功率转换器^PFC+LLC^PFC+LLC组合控制器"
+  },
+  {
+    "url": "https://www.silergy.com/list/201",
+    "category": "以太网供电 (PoE) ICs^受电设备"
+  },
+  {
+    "url": "https://www.silergy.com/list/286",
+    "category": "栅极驱动器^隔离驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/261",
+    "category": "栅极驱动器^非隔离驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/147",
+    "category": "LED驱动^AC LED 驱动^相控调光"
+  },
+  {
+    "url": "https://www.silergy.com/list/149",
+    "category": "LED驱动^AC LED 驱动^功率因数校正"
+  },
+  {
+    "url": "https://www.silergy.com/list/148",
+    "category": "LED驱动^AC LED 驱动^非调光CC"
+  },
+  {
+    "url": "https://www.silergy.com/list/287",
+    "category": "LED驱动^AC LED 驱动^智能调光CC"
+  },
+  {
+    "url": "https://www.silergy.com/list/193",
+    "category": "LED驱动^AC LED 驱动^其他AC LED 驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/199",
+    "category": "LED驱动^DC LED 驱动^背光LED驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/195",
+    "category": "LED驱动^DC LED 驱动^红外LED驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/196",
+    "category": "LED驱动^DC LED 驱动^闪光灯驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/197",
+    "category": "LED驱动^DC LED 驱动^MR16 LED驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/198",
+    "category": "LED驱动^DC LED 驱动^其他DC LED 驱动"
+  },
+  {
+    "url": "https://www.silergy.com/list/298",
+    "category": "电源模块^非隔离电源模块"
+  },
+  {
+    "url": "https://www.silergy.com/list/299",
+    "category": "电源模块^隔离电源模块"
+  },
+  {
+    "url": "https://www.silergy.com/list/300",
+    "category": "多路电源管理集成电路 (PMICs)^存储器多路电源管理芯片"
+  },
+  {
+    "url": "https://www.silergy.com/list/301",
+    "category": "多路电源管理集成电路 (PMICs)^显示屏多路电源管理芯片"
+  },
+  {
+    "url": "https://www.silergy.com/list/302",
+    "category": "多路电源管理集成电路 (PMICs)^车规级多路电源管理芯片"
+  },
+  {
+    "url": "https://www.silergy.com/list/208",
+    "category": "电池管理^开关充电"
+  },
+  {
+    "url": "https://www.silergy.com/list/211",
+    "category": "电池管理^电量计"
+  },
+  {
+    "url": "https://www.silergy.com/list/245",
+    "category": "电池管理^电池管理系统 (BMS)"
+  },
+  {
+    "url": "https://www.silergy.com/list/258",
+    "category": "嵌入式处理器^车规级微控制器 (MCU)"
+  },
+  {
+    "url": "https://www.silergy.com/list/228",
+    "category": "嵌入式处理器^能源计量"
+  },
+  {
+    "url": "https://www.silergy.com/list/229",
+    "category": "嵌入式处理器^电表计量"
+  },
+  {
+    "url": "https://www.silergy.com/list/256",
+    "category": "专用集成电路^可编程混合信号芯片"
+  },
+  {
+    "url": "https://www.silergy.com/list/277",
+    "category": "专用集成电路^多通道输入开关检测接口"
+  },
+  {
+    "url": "https://www.silergy.com/list/273",
+    "category": "专用集成电路^光控继电器"
+  },
+  {
+    "url": "https://www.silergy.com/list/257",
+    "category": "专用集成电路^数字电源控制器"
+  },
+  {
+    "url": "https://www.silergy.com/list/223",
+    "category": "静电/浪涌保护^静电保护器"
+  },
+  {
+    "url": "https://www.silergy.com/list/252",
+    "category": "静电/浪涌保护^浪涌保护器"
+  },
+  {
+    "url": "https://www.silergy.com/list/282",
+    "category": "传感器^数字光传感器"
+  },
+  {
+    "url": "https://www.silergy.com/list/233",
+    "category": "传感器^模拟光传感器"
+  },
+  {
+    "url": "https://www.silergy.com/list/247",
+    "category": "传感器^温度传感器"
+  },
+  {
+    "url": "https://www.silergy.com/list/270",
+    "category": "放大器^电流检测放大器"
+  },
+  {
+    "url": "https://www.silergy.com/list/271",
+    "category": "放大器^功率监控器"
+  },
+  {
+    "url": "https://www.silergy.com/list/266",
+    "category": "电压基准^并联电压基准"
+  },
+  {
+    "url": "https://www.silergy.com/list/276",
+    "category": "电压基准^串联电压基准"
+  },
+  {
+    "url": "https://www.silergy.com/list/231",
+    "category": "音频^D类音频放大器"
+  },
+  {
+    "url": "https://www.silergy.com/list/232",
+    "category": "音频^耳机放大器/线路驱动器"
+  },
+  {
+    "url": "https://www.silergy.com/list/272",
+    "category": "音频^音频转换器"
+  },
+  {
+    "url": "https://www.silergy.com/list/263",
+    "category": "数据转换器^数模转换器 (DAC)"
+  },
+  {
+    "url": "https://www.silergy.com/list/264",
+    "category": "数据转换器^模数转换器 (ADC)"
+  }
+]

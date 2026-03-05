@@ -1,0 +1,138 @@
+[
+  {
+    "url": "https://www.southchip.com/en/product-category/buck-boost-boost",
+    "category": "Automotive Products^Automotive Power ICs^Buck-Boost/Boost"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/buck",
+    "category": "Automotive Products^Automotive Power ICs^Buck"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/ldo",
+    "category": "Automotive Products^Automotive Power ICs^LDOs"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/pmic-sbc",
+    "category": "Automotive Products^Automotive Power ICs^PMIC/SBC"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/high-side-driver",
+    "category": "Automotive Products^Automotive Driver ICs^High Side Drivers"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/efuse",
+    "category": "Automotive Products^Automotive Driver ICs^eFuses"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/motor-driver",
+    "category": "Automotive Products^Automotive Driver ICs^Motor Drivers"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/interface",
+    "category": "Automotive Products^Automotive Driver ICs^Interfaces"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/automotive-usb-charging-interface",
+    "category": "Automotive Products^Automotive Charging ICs^USB Charging Interfaces"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/automotive-usb-charging-all-in-one",
+    "category": "Automotive Products^Automotive Charging ICs^USB Charging All in One"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/automotive-wireless-power-stage",
+    "category": "Automotive Products^Automotive Charging ICs^Wireless Power Stages"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Buck-Boost-Regulators",
+    "category": "DC-DC Converters^General DC-DC^Buck-Boost DC-DC"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/buckDCDC",
+    "category": "DC-DC Converters^General DC-DC^Buck DC-DC"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/boostDCDC",
+    "category": "DC-DC Converters^General DC-DC^Boost DC-DC"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/loadswitch",
+    "category": "DC-DC Converters^Load Switches^Load Switches"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/ind-hvcharger",
+    "category": "DC-DC Converters^Industrial HV charger^Industrial high voltage charger"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/PFC-Controller-selection",
+    "category": "AC-DC Converters^PFC Controllers^PFC Controllers"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/USB-PD-SSR",
+    "category": "AC-DC Converters^Flyback Converters^USB-PD SSR Flyback Controllers"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/USB-PD-SSR-with-GaN",
+    "category": "AC-DC Converters^Flyback Converters^USB-PD SSR with Integrated GaN"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/SR-Controller",
+    "category": "AC-DC Converters^Synchronous Rectifiers^Synchronous Rectifier Controllers"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/SR-with-Integrated-MOSFET",
+    "category": "AC-DC Converters^Synchronous Rectifiers^Synchronous Rectifiers with Integrated MOSFETs"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/pd-dpdm-controller",
+    "category": "USB Type-C & Power Delivery^PD/DPDM Controllers^PD/DPDM Controllers"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/AMOLED",
+    "category": "PMIC^Display Power^AMOLED PMIC"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/LPDDR",
+    "category": "PMIC^Memory Power^LPDDR"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Buck-BoostCharger",
+    "category": "Charging Management^Switching Chargers^Buck-Boost Charger"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Buckcharger",
+    "category": "Charging Management^Switching Chargers^Buck Charger"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Boostercharger",
+    "category": "Charging Management^Switching Chargers^Boost Charger"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Chargepumpcharger2",
+    "category": "Charging Management^Charge Pump Charger^Charge Pump Charger"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Linearcharger2",
+    "category": "Charging Management^Linear Charger^Linear Charger"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/wirelesstransmitter",
+    "category": "Charging Management^Wireless Charger^Wireless Transmitter"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/wirelessreceiver",
+    "category": "Charging Management^Wireless Charger^Wireless Receiver"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/Battery_Protector_",
+    "category": "Battery Management Solution^Battery Protector^Battery Protector"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/EntrylevelRISC-VMCU",
+    "category": "Microcontrollers^32-bit RISC-V MCU^Entry level RISC-V MCU"
+  },
+  {
+    "url": "https://www.southchip.com/en/product-category/PowerMCU",
+    "category": "Microcontrollers^8-bit 8051 MCU^Power MCU"
+  }
+]

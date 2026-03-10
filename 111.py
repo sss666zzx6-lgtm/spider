@@ -6,6 +6,10 @@ from bs4 import BeautifulSoup
 #     "category": ""
 #   },按照这个格式，category按照层级使用^进行拼接
 
+
+# 开益禧-KEC     Content-Type    application/unknown
+# Kodenshi-AUK   Content-Type	PDF ÆÄÀÏ; Charset=euc-kr
+
 urls = [f'https://travel.qunar.com/place/api/html/comments/dist/300195?sortField=1&img=false&pageSize=10&page={i}' for i in range(1,201)]
 
 for url in urls:

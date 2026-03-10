@@ -1,0 +1,249 @@
+[
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "79",
+      "TypeNameLabel": "SiC Power Modules",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^SiC Power Modules"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "70",
+      "TypeNameLabel": "DIPIPM",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^DIPIPM"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "77",
+      "TypeNameLabel": "IPMs",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^IPMs"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "76",
+      "TypeNameLabel": "IGBT Modules",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^IGBT Modules"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "75",
+      "TypeNameLabel": "HVIGBT Modules / HVIPM",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^HVIGBT Modules / HVIPM"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "78",
+      "TypeNameLabel": "Power MOSFET Modules",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^Power MOSFET Modules"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "68",
+      "TypeNameLabel": "Diode Modules",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^Diode Modules"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "71",
+      "TypeNameLabel": "PFC Modules",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^PFC Modules"
+  },
+  {
+    "data": {
+      "productCategoryName": "Power Modules",
+      "ProductCategoryId": "0",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "69",
+      "TypeNameLabel": "Thyristor Modules",
+      "__RequestVerificationToken": ""
+    },
+    "category": "Power Modules^Thyristor Modules"
+  },
+  {
+    "data": {
+      "productCategoryName": "High Power Devices",
+      "ProductCategoryId": "1",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "80",
+      "TypeNameLabel": "Modules (Automotive)",
+      "__RequestVerificationToken": ""
+    },
+    "category": "High Power Devices^Modules (Automotive)"
+  },
+  {
+    "data": {
+      "productCategoryName": "High Power Devices",
+      "ProductCategoryId": "1",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "72",
+      "TypeNameLabel": "Thyristor",
+      "__RequestVerificationToken": ""
+    },
+    "category": "High Power Devices^Thyristor"
+  },
+  {
+    "data": {
+      "productCategoryName": "High Power Devices",
+      "ProductCategoryId": "1",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "73",
+      "TypeNameLabel": "Rectifier Diodes",
+      "__RequestVerificationToken": ""
+    },
+    "category": "High Power Devices^Rectifier Diodes"
+  },
+  {
+    "data": {
+      "productCategoryName": "HVIC",
+      "ProductCategoryId": "2",
+      "TypeName": "",
+      "VoltageClass": "",
+      "ConnectionCode": "",
+      "RatedCurrentLower": "",
+      "RatedCurrentUpper": "",
+      "DeprecationCodeList%5B0%5D": "37",
+      "DeprecationCodeList%5B1%5D": "40",
+      "DeprecationCodeList%5B2%5D": "39",
+      "DeprecationCodeList%5B3%5D": "38",
+      "DivisionCodeList%5B0%5D": "74",
+      "TypeNameLabel": "HVIC",
+      "__RequestVerificationToken": ""
+    },
+    "category": "HVIC"
+  }
+]

@@ -1,0 +1,138 @@
+2026-03-02 18:26:10 - refresh_cookie_task - INFO - 全局Session初始化完成
+2026-03-02 18:26:10 - refresh_cookie_task - INFO - 启动定时任务，首次执行Cookie验证...
+2026-03-02 18:26:10 - refresh_cookie_task - INFO - ==================================================
+2026-03-02 18:26:10 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-02 18:26:10 - refresh_cookie_task - INFO - 任务开始时间：2026-03-02 18:26:10
+2026-03-02 18:26:11 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 任务结束时间：2026-03-02 18:26:14
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 下次执行时间：2026-03-03 00:26:14
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - ==================================================
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 定时任务已配置：每6小时执行一次Cookie验证
+2026-03-02 18:26:14 - refresh_cookie_task - INFO - 下次任务执行时间：2026-03-03 00:26:14
+2026-03-03 09:17:20 - refresh_cookie_task - INFO - ==================================================
+2026-03-03 09:17:20 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-03 09:17:20 - refresh_cookie_task - INFO - 任务开始时间：2026-03-03 09:17:20
+2026-03-03 09:17:21 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-03 09:17:24 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-03 09:17:24 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-03 09:17:24 - refresh_cookie_task - INFO - 任务结束时间：2026-03-03 09:17:24
+2026-03-03 09:17:24 - refresh_cookie_task - INFO - 下次执行时间：2026-03-03 15:17:24
+2026-03-03 09:17:24 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-03 09:17:24 - refresh_cookie_task - INFO - ==================================================
+2026-03-03 15:17:31 - refresh_cookie_task - INFO - ==================================================
+2026-03-03 15:17:31 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-03 15:17:31 - refresh_cookie_task - INFO - 任务开始时间：2026-03-03 15:17:31
+2026-03-03 15:17:32 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-03 15:17:35 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-03 15:17:35 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-03 15:17:35 - refresh_cookie_task - INFO - 任务结束时间：2026-03-03 15:17:35
+2026-03-03 15:17:35 - refresh_cookie_task - INFO - 下次执行时间：2026-03-03 21:17:35
+2026-03-03 15:17:35 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-03 15:17:35 - refresh_cookie_task - INFO - ==================================================
+2026-03-04 09:29:33 - refresh_cookie_task - INFO - ==================================================
+2026-03-04 09:29:33 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-04 09:29:33 - refresh_cookie_task - INFO - 任务开始时间：2026-03-04 09:29:33
+2026-03-04 09:29:34 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-04 09:29:37 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-04 09:29:37 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-04 09:29:37 - refresh_cookie_task - INFO - 任务结束时间：2026-03-04 09:29:37
+2026-03-04 09:29:37 - refresh_cookie_task - INFO - 下次执行时间：2026-03-04 15:29:37
+2026-03-04 09:29:37 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-04 09:29:37 - refresh_cookie_task - INFO - ==================================================
+2026-03-04 15:30:29 - refresh_cookie_task - INFO - ==================================================
+2026-03-04 15:30:29 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-04 15:30:29 - refresh_cookie_task - INFO - 任务开始时间：2026-03-04 15:30:29
+2026-03-04 15:30:30 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-04 15:30:33 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-04 15:30:33 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-04 15:30:33 - refresh_cookie_task - INFO - 任务结束时间：2026-03-04 15:30:33
+2026-03-04 15:30:33 - refresh_cookie_task - INFO - 下次执行时间：2026-03-04 21:30:33
+2026-03-04 15:30:33 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-04 15:30:33 - refresh_cookie_task - INFO - ==================================================
+2026-03-05 09:16:54 - refresh_cookie_task - INFO - ==================================================
+2026-03-05 09:16:54 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-05 09:16:54 - refresh_cookie_task - INFO - 任务开始时间：2026-03-05 09:16:54
+2026-03-05 09:16:55 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-05 09:16:58 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-05 09:16:58 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-05 09:16:58 - refresh_cookie_task - INFO - 任务结束时间：2026-03-05 09:16:58
+2026-03-05 09:16:58 - refresh_cookie_task - INFO - 下次执行时间：2026-03-05 15:16:58
+2026-03-05 09:16:58 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-05 09:16:58 - refresh_cookie_task - INFO - ==================================================
+2026-03-05 15:17:47 - refresh_cookie_task - INFO - ==================================================
+2026-03-05 15:17:47 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-05 15:17:47 - refresh_cookie_task - INFO - 任务开始时间：2026-03-05 15:17:47
+2026-03-05 15:17:48 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-05 15:17:51 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-05 15:17:51 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-05 15:17:51 - refresh_cookie_task - INFO - 任务结束时间：2026-03-05 15:17:51
+2026-03-05 15:17:51 - refresh_cookie_task - INFO - 下次执行时间：2026-03-05 21:17:51
+2026-03-05 15:17:51 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-05 15:17:51 - refresh_cookie_task - INFO - ==================================================
+2026-03-06 09:15:21 - refresh_cookie_task - INFO - ==================================================
+2026-03-06 09:15:21 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-06 09:15:21 - refresh_cookie_task - INFO - 任务开始时间：2026-03-06 09:15:21
+2026-03-06 09:15:22 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-06 09:15:26 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-06 09:15:26 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-06 09:15:26 - refresh_cookie_task - INFO - 任务结束时间：2026-03-06 09:15:26
+2026-03-06 09:15:26 - refresh_cookie_task - INFO - 下次执行时间：2026-03-06 15:15:26
+2026-03-06 09:15:26 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-06 09:15:26 - refresh_cookie_task - INFO - ==================================================
+2026-03-06 17:21:22 - refresh_cookie_task - INFO - 全局Session初始化完成
+2026-03-06 17:21:22 - refresh_cookie_task - INFO - 启动定时任务，首次执行Cookie验证...
+2026-03-06 17:21:22 - refresh_cookie_task - INFO - ==================================================
+2026-03-06 17:21:22 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-06 17:21:22 - refresh_cookie_task - INFO - 任务开始时间：2026-03-06 17:21:22
+2026-03-06 17:21:23 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 任务结束时间：2026-03-06 17:21:27
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 下次执行时间：2026-03-06 23:21:27
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - ==================================================
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 定时任务已配置：每6小时执行一次Cookie验证
+2026-03-06 17:21:27 - refresh_cookie_task - INFO - 下次任务执行时间：2026-03-06 23:21:27
+2026-03-09 09:25:55 - refresh_cookie_task - INFO - ==================================================
+2026-03-09 09:25:56 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-09 09:25:56 - refresh_cookie_task - INFO - 任务开始时间：2026-03-09 09:25:56
+2026-03-09 09:25:58 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-09 09:26:02 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-09 09:26:02 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-09 09:26:02 - refresh_cookie_task - INFO - 任务结束时间：2026-03-09 09:26:02
+2026-03-09 09:26:02 - refresh_cookie_task - INFO - 下次执行时间：2026-03-09 15:26:02
+2026-03-09 09:26:02 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-09 09:26:02 - refresh_cookie_task - INFO - ==================================================
+2026-03-09 15:26:39 - refresh_cookie_task - INFO - ==================================================
+2026-03-09 15:26:39 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-09 15:26:39 - refresh_cookie_task - INFO - 任务开始时间：2026-03-09 15:26:39
+2026-03-09 15:26:40 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-09 15:26:43 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-09 15:26:43 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-09 15:26:43 - refresh_cookie_task - INFO - 任务结束时间：2026-03-09 15:26:43
+2026-03-09 15:26:43 - refresh_cookie_task - INFO - 下次执行时间：2026-03-09 21:26:43
+2026-03-09 15:26:43 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-09 15:26:43 - refresh_cookie_task - INFO - ==================================================
+2026-03-10 09:16:03 - refresh_cookie_task - INFO - ==================================================
+2026-03-10 09:16:03 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-10 09:16:03 - refresh_cookie_task - INFO - 任务开始时间：2026-03-10 09:16:03
+2026-03-10 09:16:04 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-10 09:16:07 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-10 09:16:07 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-10 09:16:07 - refresh_cookie_task - INFO - 任务结束时间：2026-03-10 09:16:07
+2026-03-10 09:16:07 - refresh_cookie_task - INFO - 下次执行时间：2026-03-10 15:16:07
+2026-03-10 09:16:07 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-10 09:16:07 - refresh_cookie_task - INFO - ==================================================
+2026-03-10 15:16:52 - refresh_cookie_task - INFO - ==================================================
+2026-03-10 15:16:52 - refresh_cookie_task - INFO - 开始执行6小时一次的Cookie验证任务
+2026-03-10 15:16:52 - refresh_cookie_task - INFO - 任务开始时间：2026-03-10 15:16:52
+2026-03-10 15:16:53 - refresh_cookie_task - INFO - 访问myrenesas状态码：200
+2026-03-10 15:16:56 - refresh_cookie_task - INFO - 请求成功，状态码：200
+2026-03-10 15:16:56 - refresh_cookie_task - INFO - 响应类型为PDF，Cookie有效！
+2026-03-10 15:16:56 - refresh_cookie_task - INFO - 任务结束时间：2026-03-10 15:16:56
+2026-03-10 15:16:56 - refresh_cookie_task - INFO - 下次执行时间：2026-03-10 21:16:56
+2026-03-10 15:16:56 - refresh_cookie_task - INFO - 本次定时任务执行完成
+2026-03-10 15:16:56 - refresh_cookie_task - INFO - ==================================================

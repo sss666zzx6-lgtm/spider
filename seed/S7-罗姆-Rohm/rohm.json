@@ -168,10 +168,6 @@
     "category": "Power Management^Battery Management ICs^Charge Protection ICs"
   },
   {
-    "url": "https://www.rohm.com/products/power-management/battery-management/edlc-monitoring-ics",
-    "category": "Power Management^Battery Management ICs^EDLC Monitoring ICs"
-  },
-  {
     "url": "https://www.rohm.com/products/power-management/battery-management/coulomb-counter-ics",
     "category": "Power Management^Battery Management ICs^Coulomb Counter"
   },
@@ -560,10 +556,6 @@
     "category": "Interface^LIN Transceiver"
   },
   {
-    "url": "https://www.rohm.com/products/interface/cxpi-transceiver",
-    "category": "Interface^CXPI Transceiver"
-  },
-  {
     "url": "https://www.rohm.com/products/interface/can-transceiver",
     "category": "Interface^CAN Transceiver"
   },
@@ -630,10 +622,6 @@
   {
     "url": "https://www.rohm.com/products/audio-video/video-lsi/video-encoder",
     "category": "Audio & Video^Video LSIs^Video Encoders"
-  },
-  {
-    "url": "https://www.rohm.com/products/audio-video/video-lsi/video-interface",
-    "category": "Audio & Video^Video LSIs^Video Interface"
   },
   {
     "url": "https://www.rohm.com/products/audio-video/video-lsi/small-to-medium-sized-tft-lcds",

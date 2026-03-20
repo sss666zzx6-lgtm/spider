@@ -10,16 +10,57 @@ from bs4 import BeautifulSoup
 # 开益禧-KEC     Content-Type    application/unknown
 # Kodenshi-AUK   Content-Type	PDF ÆÄÀÏ; Charset=euc-kr
 
-urls = [f'https://travel.qunar.com/place/api/html/comments/dist/300195?sortField=1&img=false&pageSize=10&page={i}' for i in range(1,201)]
+import requests
+import re
 
-for url in urls:
-    res = requests.get(url)
-    print(res.text)
-    # soup = BeautifulSoup(res.text,'lxml')
-    # li_tags = soup.find('ul', class_='b_strategy_list').find_all('li', class_='list_item')
-    # for li in li_tags:
-    #     print(li.get_text().strip())
-    #     detail_url = f"https://travel.qunar.com/travelbook/note/{li.find('h2', class_='tit').find('a').get('href').split('/')[-1]}"
-    #
-    #     print(detail_url)
-    # break
+
+def recovery(secret,proxies=None):
+    url = "https://www.silergy.com/index/restoreAccess"
+
+    data = {
+        "secret": secret
+    }
+    try:
+        # 发送POST请求（如果不用代理，删掉proxies参数）
+        response = requests.post(
+            url=url,
+            data=data,
+            # proxies=proxies,  # 不用代理则注释这行
+            timeout=10
+        )
+
+        # 打印响应结果
+        print("请求状态码：", response.status_code)
+        print("解封接口返回内容：", response.json())  # 接口返回JSON格式
+
+    except requests.exceptions.JSONDecodeError:
+        # 如果返回不是JSON，打印原始文本
+        print("接口返回非JSON：", response.text)
+    except Exception as e:
+        print("请求失败：", str(e))
+
+
+def get_secret(text):
+    secret = re.search(r'secret=([0-9a-f]{32})', text).group(1)
+    if re.search(r'secret=([0-9a-f]{32})', text):
+        return secret
+    else:
+        print('未找到')
+        return False
+
+
+if __name__ == '__main__':
+    target_url = "https://www.silergy.com/list/294"
+
+    response = requests.get(target_url, timeout=5)
+    # print(response.text)
+    print(response)
+    if response.status_code == 403:
+        print(response.text)
+        text = response.text
+        secret = get_secret(text)
+        print(secret)
+        recovery(secret=secret)
+        response = requests.get(target_url, timeout=5)
+        # print(response.text)
+        print(response)

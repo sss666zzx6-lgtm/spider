@@ -317,19 +317,19 @@
   },
   {
     "url": "https://www.renesas.com/en/products/automotive-products/automotive-photocouplers/product-selector",
-    "category": "Interface^Photocouplers/Optocouplers^Automotive Photocouplers"
+    "category": "Interface^Photocouplers (Optocouplers)^Automotive Photocouplers"
   },
   {
     "url": "https://www.renesas.com/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-ic-output/product-selector",
-    "category": "Interface^Photocouplers/Optocouplers^Photocouplers/Optocouplers IC Output"
+    "category": "Interface^Photocouplers (Optocouplers)^Photocouplers/Optocouplers IC Output"
   },
   {
     "url": "https://www.renesas.com/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-motor-drive/product-selector",
-    "category": "Interface^Photocouplers/Optocouplers^Photocouplers/Optocouplers Motor Drive"
+    "category": "Interface^Photocouplers (Optocouplers)^Photocouplers/Optocouplers Motor Drive"
   },
   {
     "url": "https://www.renesas.com/en/products/interface/photocouplers-optocouplers/photocouplers-optocouplers-transistor-output/product-selector",
-    "category": "Interface^Photocouplers/Optocouplers^Photocouplers/Optocouplers Transistor Output"
+    "category": "Interface^Photocouplers (Optocouplers)^Photocouplers/Optocouplers Transistor Output"
   },
   {
     "url": "https://www.renesas.com/en/products/interface/physical-layer-products/product-selector",
@@ -344,16 +344,8 @@
     "category": "Interface^Power Line Communications (PLC)^PLC Line Drivers"
   },
   {
-    "url": "https://www.renesas.com/en/products/interface/rs-485-rs-422-rs-232/multiprotocol-rs-485rs-422-and-rs-232/product-selector",
-    "category": "Interface^RS-485, RS-422 & RS-232^Multiprotocol RS-485/RS-422 and RS-232"
-  },
-  {
-    "url": "https://www.renesas.com/en/products/interface/rs-485-rs-422-rs-232/rs-232-serial-interface/product-selector",
-    "category": "Interface^RS-485, RS-422 & RS-232^RS-232 Serial Interface"
-  },
-  {
-    "url": "https://www.renesas.com/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/product-selector",
-    "category": "Interface^RS-485, RS-422 & RS-232^RS-485/RS-422"
+    "url": "https://www.renesas.com/en/products/interface/rs-485422-rs-232-multi-protocol-transceivers/product-selector",
+    "category": "Interface^RS-485/422, RS-232, & Multi-protocol Transceivers"
   },
   {
     "url": "https://www.renesas.com/en/products/interface/telecom-interface-products/digital-subscriber-line-drivers/product-selector",
@@ -604,11 +596,11 @@
     "category": "Power Management^Multi-Channel Power Management ICs (PMICs)"
   },
   {
-    "url": "https://www.renesas.com/en/products/power-management/multiphase-power/multiphase-dcdc-switching-controllers/product-selector",
+    "url": "https://www.renesas.com/en/products/power-management/multi-phase-power/multiphase-dcdc-switching-controllers/product-selector",
     "category": "Power Management^Multi-phase Power^Multiphase DC/DC Switching Controllers"
   },
   {
-    "url": "https://www.renesas.com/en/products/power-management/multiphase-power/smart-power-stages/product-selector",
+    "url": "https://www.renesas.com/en/products/power-management/multi-phase-power/smart-power-stages/product-selector",
     "category": "Power Management^Multi-phase Power^Smart Power Stages"
   },
   {

@@ -216,6 +216,10 @@
     "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Engine management"
   },
   {
+    "url": "https://www.st.com/en/automotive-analog-and-power/ignition-controllers-and-drivers.html",
+    "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Ignition controllers and drivers"
+  },
+  {
     "url": "https://www.st.com/en/automotive-analog-and-power/transmission.html",
     "category": "Automotive analog and power^Powertrain ICs for ICE/HEV/EV^Transmission"
   },
@@ -564,12 +568,16 @@
     "category": "MEMS and sensors^Accelerometers"
   },
   {
+    "url": "https://www.st.com/en/mems-and-sensors/automotive-sensors.html",
+    "category": "MEMS and sensors^Automotive sensors"
+  },
+  {
     "url": "https://www.st.com/en/mems-and-sensors/biosensors.html",
     "category": "MEMS and sensors^Biosensors"
   },
   {
-    "url": "https://www.st.com/en/mems-and-sensors/e-compasses-and-magnetic-sensors.html",
-    "category": "MEMS and sensors^e-Compasses and magnetic sensors"
+    "url": "https://www.st.com/en/mems-and-sensors/e-compasses.html",
+    "category": "MEMS and sensors^e-Compasses"
   },
   {
     "url": "https://www.st.com/en/mems-and-sensors/gyroscopes.html",
@@ -696,14 +704,6 @@
     "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H563/573"
   },
   {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e4-5f4.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H5E4/5F4"
-  },
-  {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h5e5-5f5.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H5 series^STM32H5E5/5F5"
-  },
-  {
     "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32h723-733.html",
     "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 high performance MCUs^STM32H7 series ^STM32H723/733"
   },
@@ -762,18 +762,6 @@
   {
     "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c0-series.html",
     "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32C0 series"
-  },
-  {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c53x-542.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32C5 series^STM32C53x/542"
-  },
-  {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c55x-562.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32C5 series^STM32C55x/562"
-  },
-  {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32c59x-5a3.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 mainstream MCUs^STM32C5 series^STM32C59x/5A3"
   },
   {
     "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32f0x0-value-line.html",
@@ -932,10 +920,6 @@
     "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U3 series^STM32U375/385"
   },
   {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u3b5-3c5.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U3 series^STM32U3B5/3C5"
-  },
-  {
     "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32u535-545.html",
     "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 ultra low power MCUs^STM32U5 series^STM32U535/545"
   },
@@ -964,16 +948,28 @@
     "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WB0 series"
   },
   {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba2x.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA2x"
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba50.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA50"
   },
   {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba5x.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA5x"
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba52.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA52"
   },
   {
-    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba6x.html",
-    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA6x"
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba54-55.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA54/55"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba62.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA62"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba63.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA63"
+  },
+  {
+    "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wba64-65.html",
+    "category": "Microcontrollers & microprocessors^STM32 32-bit Arm Cortex MCUs^STM32 wireless MCUs^STM32WBA series^STM32WBA64/65"
   },
   {
     "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32wbaxm-modules.html",
@@ -1360,8 +1356,8 @@
     "category": "Power management^LED drivers^Linear current regulators"
   },
   {
-    "url": "https://www.st.com/en/power-management/offline-led-drivers.html",
-    "category": "Power management^LED drivers^Offline LED drivers"
+    "url": "https://www.st.com/en/power-management/hvled.html",
+    "category": "Power management^LED drivers^Offline LED drivers^HVLED"
   },
   {
     "url": "https://www.st.com/en/power-management/ballast-control-ics-for-fluorescent-lamps.html",
@@ -1414,6 +1410,10 @@
   {
     "url": "https://www.st.com/en/power-modules-and-ipm/acepack-dmt-32.html",
     "category": "Power modules and IPM^STPOWER ACEPACK modules^ACEPACK DMT-32"
+  },
+  {
+    "url": "https://www.st.com/en/power-modules-and-ipm/acepack-drive.html",
+    "category": "Power modules and IPM^STPOWER ACEPACK modules^ACEPACK DRIVE"
   },
   {
     "url": "https://www.st.com/en/power-modules-and-ipm/sllimm-2nd-series.html",

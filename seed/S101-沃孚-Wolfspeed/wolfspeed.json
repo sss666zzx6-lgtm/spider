@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Power Modules",
+    "url": "/products/power/sic-power-modules/"
+  },
+  {
+    "category": "Discrete MOSFETs",
+    "url": "/products/power/sic-mosfets/"
+  },
+  {
+    "category": "Discrete Schottky Diodes",
+    "url": "/products/power/sic-schottky-diodes/"
+  },
+  {
+    "category": "Bare Die MOSFETs",
+    "url": "/products/power/sic-bare-die-mosfets/"
+  },
+  {
+    "category": "Bare Die Schottky Diodes",
+    "url": "/products/power/sic-bare-die-schottky-diodes/"
+  }
+]

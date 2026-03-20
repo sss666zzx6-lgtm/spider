@@ -262,7 +262,7 @@ for idx, item in enumerate(url_category_list, 1):
     print(f"{idx}. {json.dumps(item, ensure_ascii=False)}")
 
 # base_path = "./seed_json"
-# file_path = "infineon.json"
+file_path = "infineon.json"
 #
-# with open(file_path, "w", encoding="utf-8") as f:
-#     json.dump(url_category_list, f, indent=2, ensure_ascii=False)
+with open(file_path, "w", encoding="utf-8") as f:
+    json.dump(url_category_list, f, indent=2, ensure_ascii=False)

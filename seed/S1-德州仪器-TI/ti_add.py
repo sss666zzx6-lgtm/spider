@@ -32,7 +32,8 @@ with open(file_path, "r", encoding="utf-8") as f:
         category = item["category"]
         if category.startswith(target_prefixes):
             custom_map = {"category": category}
-            create_api(plan_id="bb50ad9c86846396070b2d0cd307f660", path=path, custom_map=custom_map)
+            # create_api(plan_id="bb50ad9c86846396070b2d0cd307f660", path=path, custom_map=custom_map)
+            create_api(plan_id="2ddf795c58d5a18d511821289bedae34", path=path, custom_map=custom_map)
         else:
             # 不符合条件：跳过
             print(f"跳过不符合前缀的项：category={category}")

@@ -1,0 +1,150 @@
+[
+  {
+    "url": "https://ssdi-power.com/product-category/hyperfast-recovery/",
+    "category": "Rectifiers^Hyperfast Recovery (≤ 40 ns)"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/ultrafast-recovery/",
+    "category": "Rectifiers^Ultrafast Recovery (> 40 – 100 ns)"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/fast-recovery/",
+    "category": "Rectifiers^Fast Recovery (> 100 – 500 ns)"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/standard-recovery/",
+    "category": "Rectifiers^Standard Recovery (> 500 ns)"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/high-voltage-rectifier-2-5kv/",
+    "category": "Rectifiers^High Voltage Rectifier & Assemblies (> 2.5 kV)"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/high-current-rectifier-200a/",
+    "category": "Rectifiers^High Current Rectifier (> 200 A)"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/standard-power/",
+    "category": "Schottkys^Standard & Power"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/sic-schottky/",
+    "category": "Schottkys^SiC Schottky"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/doublers/",
+    "category": "Bridges^Doublers / Centertap"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/single-phase-bridge/",
+    "category": "Bridges^Single Phase Bridge"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/three-phase-bridge/",
+    "category": "Bridges^Three Phase Bridge"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/bridge-series/",
+    "category": "Bridges^Bridge Series"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/hv-bridge-assemblies/",
+    "category": "Bridges^HV Bridge Assemblies"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/zeners/",
+    "category": "Zeners"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/tvs/",
+    "category": "TVS"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/scr/",
+    "category": "Thyristors^SCR"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/triac/",
+    "category": "Thyristors^Triac and Trigger Devices"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/n-channel-mosfets/",
+    "category": "MOSFETs^N-Channel MOSFETs"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/p-channel-mosfets/",
+    "category": "MOSFETs^P-Channel MOSFETs"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/jfets/",
+    "category": "JFETs"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/n-channel-igbt/",
+    "category": "IGBTs^N-Channel IGBT"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/p-channel-igbt/",
+    "category": "IGBTs^P-Channel IGBT"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/n-channel-igbt-with-free-wheeling-diode/",
+    "category": "IGBTs^N-Channel IGBT w/Free Wheeling Diode"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/p-channel-igbt-with-free-wheeling-diode/",
+    "category": "IGBTs^P-Channel IGBT w/Free Wheeling Diode"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/gallium-nitride-gan-power-fets/",
+    "category": "Gallium Nitride (GaN) Power FETs"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/npn/",
+    "category": "Transistors^NPN"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/pnp/",
+    "category": "Transistors^PNP"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/adjustable-voltage-regulator/",
+    "category": "IC and Voltage Regulators^Adjustable Voltage Regulator"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/fixed-voltage-regulator/",
+    "category": "IC and Voltage Regulators^Fixed Voltage Regulator"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/integrated-circuit/",
+    "category": "IC and Voltage Regulators^Integrated Circuit"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/power-modules/",
+    "category": "Power Modules"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/power-hybrids/",
+    "category": "Power Hybrids"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/high-voltage-diode-assemblies/",
+    "category": "High Voltage Assemblies^High Voltage Diode Assemblies"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/high-voltage-bridge-assemblies/",
+    "category": "High Voltage Assemblies^High Voltage Bridge Assemblies"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/high-voltage-multipliers/",
+    "category": "High Voltage Assemblies^High Voltage Multipliers"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/radiation-detector-pin-diode/",
+    "category": "Special Devices^Radiation Detector & PIN Diode"
+  },
+  {
+    "url": "https://ssdi-power.com/product-category/tunnel-diode/",
+    "category": "Special Devices^Tunnel Diode"
+  }
+]

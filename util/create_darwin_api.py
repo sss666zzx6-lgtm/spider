@@ -9,8 +9,10 @@ import requests
 
 AK = "DS8StmIbggLY"
 SK = "29a67a532b4245f774ae890cf1e6e731"
+C_AK = "jz1U2amo5PCX"
+C_SK = "04e24e4b6c72b96faed2bbf14e9b50fb"
 base_url = "https://darwin.lumychip.com"
-
+#
 
 def create_api(plan_id: str, path: str, custom_map: Dict,
                headers=None,post_media_type=None,
@@ -19,8 +21,8 @@ def create_api(plan_id: str, path: str, custom_map: Dict,
     data = {
         "url": path,
         "plan_id": plan_id,
-        "access_key": AK,
-        "secret_key": SK,
+        "access_key": C_AK,
+        "secret_key": C_SK,
         "custom_map": custom_map,
         "timeout": 30000,
         # "normalize":False,

@@ -5,10 +5,12 @@ import re
 
 
 
+
 def application_level_mapping(raw_level: str | None) -> str:
 
     level_mapping = {
         "consumer": "消费级",
+        "silergy catalog":"消费级",
         "industrial": "工业级",
         "automotive": "车规级",
         # "hiRel enhanced product": "军工级",
@@ -18,11 +20,11 @@ def application_level_mapping(raw_level: str | None) -> str:
     }
     # 入参空/None/空白字符串，直接返回未知等级
     if not raw_level:
-        return "未知等级"
+        return "未知等级-silergy"
     # 统一去首尾空格 + 转小写，再匹配映射表
     key = raw_level.strip().lower()
     # 无匹配则返回默认值"未知等级"
-    return level_mapping.get(key, "未知等级")
+    return level_mapping.get(key, "未知等级-silergy")
 
 
 def parse_product_data_from(url):

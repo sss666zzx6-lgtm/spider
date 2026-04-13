@@ -1,9 +1,10 @@
+
 import time
 import requests
 from bs4 import BeautifulSoup
 import json
 import re
-from src.utils.logger import get_logger
+from common.utils.logger import get_logger
 
 logger = get_logger("product-parse")
 
@@ -53,7 +54,7 @@ def parse_product_detail(url:str,ppn: str, application_level: str=None,category:
     fieldMap = dict()
     type = "PPN"
 
-    product = {}
+    # product = {}
     datasheets = []
     papers = []
     order_devices = []
@@ -70,6 +71,7 @@ def parse_product_detail(url:str,ppn: str, application_level: str=None,category:
 
     if application_level:
         order_device["application_level"] = [application_level]
+        product["application_level"] = [application_level]
         logger.info(order_device["application_level"])
 
     response = request_get(url)

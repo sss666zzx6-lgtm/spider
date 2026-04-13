@@ -1,0 +1,6 @@
+2026-03-20 15:21:04 - common.mq.mq_producer - INFO - Creating producer with producer_name: producer-silergy
+2026-03-20 15:21:05 - common.mq.mq_producer - INFO - RocketMQ producer started successfully
+2026-03-20 15:21:06 - common.mq.mq_producer - INFO - Message TEST-DARWIN-DISPATCH-RECORD sent successfully. Message ID: 01F068E34815F5187409CE8F6200000000
+2026-03-20 15:21:07 - common.mq.mq_producer - INFO - Message TEST-DARWIN-DISPATCH-RECORD sent successfully. Message ID: 01F068E34815F5187409CE8F6300000001
+2026-03-20 15:21:08 - common.mq.mq_producer - INFO - Message TEST-DARWIN-DISPATCH-RECORD sent successfully. Message ID: 01F068E34815F5187409CE8F6400000002
+2026-03-20 15:21:09 - common.mq.mq_producer - INFO - RocketMQ producer shutdown successfully

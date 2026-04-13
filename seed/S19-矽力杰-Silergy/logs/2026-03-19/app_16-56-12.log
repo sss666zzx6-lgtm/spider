@@ -1,0 +1,34 @@
+2026-03-19 16:56:12 | INFO     | common.mq.mq_producer:create_producer:140 | Creating producer with producer_name: producer-silergy
+2026-03-19 16:56:13 | INFO     | common.mq.mq_producer:startup:66 | RocketMQ producer started successfully
+2026-03-19 16:56:13 | INFO     | product-run:<module>:33 | https://www.silergy.com/list/294共提取到 43 个产品数据：
+2026-03-19 16:56:13 | INFO     | product-parse:parse_product_detail:74 | ['消费级']
+2026-03-19 16:56:14 | INFO     | product-parse:parse_product_detail:88 | 量产
+2026-03-19 16:56:14 | INFO     | product-parse:parse_product_detail:98 | 推挽输出的DDR终端稳压器
+2026-03-19 16:56:14 | INFO     | product-parse:parse_product_detail:123 | {'raw_path': 'https://www.silergy.com/download/downloadFile?id=3968&type=product&ftype=note'}
+2026-03-19 16:56:14 | INFO     | product-parse:parse_product_detail:154 | 最低温度：%d °C，最高温度：%d °C
+2026-03-19 16:56:14 | INFO     | product-parse:parse_product_detail:143 | DFN3×3-10
+2026-03-19 16:56:14 | INFO     | product-run:<module>:46 | SY6355DBC解析完成
+2026-03-19 16:56:14 | INFO     | common.mq.mq_producer:send_message:120 | Message TEST-DARWIN-DISPATCH-RECORD sent successfully. Message ID: 01F068E34815F51CAC09CD542E00000000
+2026-03-19 16:56:14 | INFO     | product-parse:parse_product_detail:74 | ['消费级']
+2026-03-19 16:56:15 | INFO     | product-parse:parse_product_detail:88 | 量产
+2026-03-19 16:56:15 | INFO     | product-parse:parse_product_detail:98 | 推挽输出的DDR终端稳压器
+2026-03-19 16:56:15 | INFO     | product-parse:parse_product_detail:123 | {'raw_path': 'https://www.silergy.com/download/downloadFile?id=5080&type=product&ftype=note'}
+2026-03-19 16:56:15 | INFO     | product-parse:parse_product_detail:154 | 最低温度：%d °C，最高温度：%d °C
+2026-03-19 16:56:15 | INFO     | product-parse:parse_product_detail:143 | DFN2×2-10
+2026-03-19 16:56:15 | INFO     | product-run:<module>:46 | SY6355BTDD解析完成
+2026-03-19 16:56:15 | INFO     | common.mq.mq_producer:send_message:120 | Message TEST-DARWIN-DISPATCH-RECORD sent successfully. Message ID: 01F068E34815F51CAC09CD542F00000001
+2026-03-19 16:56:15 | INFO     | product-parse:parse_product_detail:74 | ['消费级']
+2026-03-19 16:56:16 | INFO     | product-parse:parse_product_detail:88 | 量产
+2026-03-19 16:56:16 | INFO     | product-parse:parse_product_detail:98 | 3A，55V快速响应低压差线性稳压器
+2026-03-19 16:56:16 | INFO     | product-parse:parse_product_detail:123 | {'raw_path': 'https://www.silergy.com/download/downloadFile?id=3967&type=product&ftype=note'}
+2026-03-19 16:56:16 | INFO     | product-parse:parse_product_detail:154 | 最低温度：%d °C，最高温度：%d °C
+2026-03-19 16:56:16 | INFO     | product-parse:parse_product_detail:143 | TO263-5
+2026-03-19 16:56:16 | INFO     | product-run:<module>:46 | SY6353MAC解析完成
+2026-03-19 16:56:16 | INFO     | common.mq.mq_producer:send_message:120 | Message TEST-DARWIN-DISPATCH-RECORD sent successfully. Message ID: 01F068E34815F51CAC09CD543000000002
+2026-03-19 16:56:16 | INFO     | product-parse:parse_product_detail:74 | ['消费级']
+2026-03-19 16:56:17 | INFO     | product-parse:parse_product_detail:88 | 量产
+2026-03-19 16:56:17 | INFO     | product-parse:parse_product_detail:98 | 40V，300mA LDO稳压器
+2026-03-19 16:56:17 | INFO     | product-parse:parse_product_detail:123 | {'raw_path': 'https://www.silergy.com/download/downloadFile?id=3961&type=product&ftype=note'}
+2026-03-19 16:56:17 | INFO     | product-parse:parse_product_detail:154 | 最低温度：%d °C，最高温度：%d °C
+2026-03-19 16:56:17 | INFO     | product-parse:parse_product_detail:143 | SOT23-5
+2026-03-19 16:56:17 | INFO     | common.mq.mq_producer:shutdown:77 | RocketMQ producer shutdown successfully

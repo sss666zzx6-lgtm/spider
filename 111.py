@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 #     "category": ""
 #   },按照这个格式，category按照层级使用^进行拼接
 
+# ssh -L 8081:127.0.0.1:8080 dumengfei@120.27.208.214
 
 # 开益禧-KEC     Content-Type    application/unknown
 # Kodenshi-AUK   Content-Type	PDF ÆÄÀÏ; Charset=euc-kr
